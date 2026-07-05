@@ -1,0 +1,53 @@
+# id	src(T=таблица знаков,C=таблица Янгера,S=сводка issendai)	type	site	scribe	tokens
+HT1	T	tab	HT	Sc21	QE-RA2-U • / KI-RO #100+90+7 / ZU-SU #70 / DI?-DI-ZA-KE #50+2 / KU-PA3-NU #100+9 / A-RA-NA-RE #100+5
+HT2	T	tab	HT	-	A-KA-RU • OLE+U #20? / OLE+A #10+7 / OLE+E #3 / KI-RE-TA-NA OLE+U #50+4 / OLE+A #40+7 / #1
+HT6a	T	tab	HT	Sc16	KA-PA • / DA-TA-RA • TE • NI #10+5 / PI-TA-JA #20+4 / JA+RU %DD / MA-*321 #10 / O-RA2-DI-NE #2 / KA-PA-QE #5+3/4 / DA-QE-RA • / QE-PI-TA #20+2+3/4 / NI #10+5+1/2
+HT6b	C	tab	HT	Sc16	WA-DU-NI-MI #3 %H / RA-TI-SE #1 / MA-RI-‹›-I #3 / DU-DA-MA #66 / DA-KI #3 %E / SA-MA #35 / PA3-NI-NA #17 %J
+HT8a	T	tab	HT	Sc2	JE-DI OLE+KI #10 / PA3-KA-RA-TI #1+1/2 / PA #3+1/2 / TE-*301 #2 / QA-*310-I #3/4 / SI-KI-RA #1/4 / KI-RE-TA-NA #1/2
+HT8b	C	tab	HT	Sc2	SU-PU2-*188 #1 / #5 / PA3-*188 #2 / QA-*310-I #1 %E %F / KA-PA %J / PA-JA-RE #1 %F / *86+*188 %J / %J
+HT9a	T	tab	HT	-	SA-RO • TE • VIN • / PA-DE • #5+3/4 / *306-TU #10 / DI-NA-U #4 / QE-PU #2 / *324-DI-RA #2+1/2 / TA-I-AROM #2+1/2 / A-RU #4+1/4 / KU-RO #30+1+3/4
+HT9b	T	tab	HT	-	PA3 • / WA-JA-PI #10 / KA-*305 • / PA-DE #3 / A-SI #3 / *306-TU #8 / *324-DI-RA #2 / QE-PU #2 / TA-I-AROM #2 / DI-NA-U #4 / KU-RO #20+4
+HT13	T	tab	HT	Sc8	KA-U-DE-TA VIN • TE • / RE-ZA #5+1/2 / TE-TU #50+6 / TE-KI #20+7+1/2 / KU-ZU-NI #10+8 / DA?-SI-*118 #10+9 / I-DU-NE-SI #5 / KU-RO #100+30+1/2
+HT27a	T	tab	HT	Sc11	TI-NI-TA • *307 • / VIR #90 / #50 / *86 #50+1 / RE #20 / I-MI-SA-RA #40+3 / QE #20+1 / KI-DA / KI-*310 • KU-*305 / SA-RA-DI #5 / VIR #40+2 / KU-RO #300+30+5 / CYP #9+3/4+1/3 / NI #10+1/3 / VIN #7
+HT28a	T	tab	HT	Sc13	A-SI-JA-KA • / JA-*21F • GRA+QE #5 / OLE+U #2 / OLE+KI #1/2 / OLE+MI #1 / OLE+TU %L2 / SA-RA2 OLE+DI #1 / NI #2 / VIN #3 / VIR+KA VIN #6 / A-RU-DA-RA GRA #5 / *304 #2 / OLE+DI #3 / I-TA-JA OLE+DI #10
+HT28b	T	tab	HT	Sc13	A-SI-JA-KA • U-MI-NA-SI • / SA-RA2 GRA #20 / OLE+DI #5 / NI #2 / VIN #4 / PU-RA2 NI #6 / JA-*21F VIN #6 / WI-DI-NA OLE+DI #3 / VIN #3 / #1/4
+HT30	T	tab	HT	Sc1	SI #4 / SA-RA2 CYP #10+4+1/2 / NI #7+1/5 / VIN #8+1/2 / OLE+TA %DD / QA2+PU #1/5 / SA-RA-RA #1/2 / *23M #1 / KI-RO • CYP #8 / NI %DD / VIN #1/2 / *23M #1 / #1/5 / OLE+TA #1/5
+HT40	T	tab	HT	Sc2	NU-DU-*331 • TE • GRA #200+7 / KI-DA-TA • GRA #100+30+4 / KU-RO? / KU
+HT67	T	tab	HT	Sc23	KU-RO #400+20 / NI? • TE #400
+HT85a	T	tab	HT	Sc9	A-DU • *307+*387 • VIR • / DA-RI-DA #10+2 / PA3-NI #10+2 / U-*325-ZA #6 / DA-SI-*118 #20+4 / KU-ZU-NI #5 / TE-KE #3 / DA-RE #4 / KU-RO #60+6
+HT85b	C	tab	HT	Sc9	KI-KI-RA-JA • / KI-RE-TA2 #1 / QE-KA #1 / PA #1 / TE-TU #1 / KA #1 / DI #1 / ME-ZA #1 / RE-DI-SE #1 / WA-DU-NI-MI #1 / MA-DI #1 / QA-*310-I #1
+HT86a	T	tab	HT	Sc6	A-KA-RU • / KU-NI-SU GRA+K+L #20 / SA-RU #20 / DI-DE-RU #20 / QA-RA2-WA #10 / #10 / A-DU • DA-ME GRA+B #20 / MI-NU-TE #20
+HT88	T	tab	HT	Sc7	A-DU VIR+KA #20 / RE-ZA #6 / NI • KI-KI-NA #7 / KI-RO • / KU-PA3-PA3 #1 / KA-JU #1 / KU-PA3-NU #1 / PA-JA-RE #1 / SA-MA-RO #1 / DA-TA-RE #1 / KU-RO #6
+HT89	T	tab	HT	Sc2	A-SA-RA2 • *307 • *305 #20+3 / JU+*317+QE #20+2 / MA-I-MI #20+4 / VIR+*313a #10+3 / TA-RA #5 / KU-RO #80+7 / CYP #2+3/4 / NI #2+1/4 / VIN #6
+HT94a	T	tab	HT	Sc9	KA-PA VIR #60+2 / *86 #20 / TI+A #7 / VIR+*313b #10+8 / TA #4 / KU-RO #100+10 / SA-RA2 CYP #5 / NI #3+~1/6 / #2 / *318-*306 #10+1 / CYP #1/5+1/5 / NI #1/5+1/5 / #10+4+1/2 / NI #1/5
+HT94b	C	tab	HT	Sc9	KI-RO • / TU-MA #1 / PA-TA-NE #1 / DE-DI #1 / KE-KI-RU #1 / SA-RU #1 / KU-RO #5 / *86 • / RA-‹›-DE-ME-TE #1 / QIf-TU-‹› #1
+HT95a	T	tab	HT	-	DA-DU-MA-TA • GRA / DA-ME #10 / MI-NU-TE #10 / SA-RU #20 / KU-NI-SU #10 / DI-DE-RU #10 / QE-RA2-U #7
+HT95b	C	tab	HT	-	A-DU • / SA-RU #10 / DA-ME #10 / MI-NU-TE #10 / KU-NI-SU #10 / DI-DE-RU #10 / QE-RA2-U #10
+HT97a	T	tab	HT	Sc7	KA-RU • *307+*387 • VIR+KA #80+2 / *327 #30+3 / KA-NU-TI #20+5 / PA-I-TO #6 / DI #4 / NA-TI #4 / MA-DI #5 / JU #10+5 / KI #3 / ZU #5 / TA-TI #2 / DE • #3 / A #5
+HT98b	T	tab	HT	-	*188 / VIN #3/4 / DA-RU-NE-TE #1/16
+HT102	T	tab	HT	Sc5	KA-PA / SA-RA2 GRA #900+70+6 / PA3-NI GRA+PA #30+3 / VIR GRA+PA #30+3 / DI-RI-NA #10 / MA-ZU #3 / WI #10 / I-KA #5 / KU-RO #1000+60
+HT154a	T	tab	HT	-	TU-ME-PA-JA / OLIV / GRA / KU #6 TA #6
+IOZa2	S	rel	IO	-	A-TA-I-*301-WA-JA • JA-DI-KI-TU • JA-SA-SA-RA-ME • U-NA-KA-NA-SI • I-PI-NA-MA • / SI-RU-TE • TA-NA-RA-TE-U-TI-NU • I • ‹›
+IOZa6	S	rel	IO	-	TA-NA-I-*301-U-TI-NU • I-NA-TA-I-ZU-DI-SI-KA • JA-SA-SA-RA-ME •
+KNZc7	S	rel	KN	-	A-KA-NU-ZA-TI • DU-RA-RE • A-ZU-RA • / JA-SA-RA-A-NA-NE • WI-PI •
+KOZa1	S	rel	KO	-	A-TA-I-*301-WA-JA / TU-RU-SA • DU-*314-RE • I-DA-A • U-NA-KA-NA-SI • I-PI-NA-MA • SI-RU-TE
+PRZa1	S	rel	PR	-	TA-NA-SU-TE-‹›-KE / SE-TO-I-JA / A-SA-SA-*802-ME
+TLZa1	S	rel	TL	-	A-TA-I-*301-WA-JA • O-SU-QA-RE • JA-SA-SA-RA-ME • U-NA-KA-NA~ ‹› I-PI-NA-MA SI-RU-TE
+ZAZb3	S	rel	ZA	-	VIN #30+2 / DI-DI-KA-SE A-SA-MU-NE A-SE / A-TA-I-*301-DE-KA • A-RE-PI-RE-NA • TI-TI-KU
+SYZa4	S	rel	SY	-	A-TA-I-*301-WA-JA • JA-I-NWA-ZA • PA3-NI-WI
+APZa2	S	rel	AP	-	‹› ~NA-SI • I-PI-NA-MA • ‹› I-KU-PA3-NA-TU-NA-TE~ ‹› ~PI-MI-NA-TE • I-NA-JA-RE-TA • ‹› ~QA •
+KNZa10	S	rel	KN	-	‹› ~TA-NU-MU-TI • JA-SA-SA-RA-MA-NA • DA-WA~ ‹› • DU-WA-TO • I-JA~ ‹›
+PKZa8	S	rel	PK	-	NU • PA3-E • JA-DI-KI-TE-TE-*307-PU2-RE • TU-ME-I / JA-SA-U-NA-KA-NA-SI / I-PI~ ‹›
+PKZa11	S	rel	PK	-	A-TA-I-*301-WA-E • A-DI-KI-TE-TE • / ‹› ~RE • PI-TE-RI • A-KO-A-NE • A-SA-SA-RA-ME • U-NA-RU-KA-NA-TI • / I-PI-NA-MI-NA SI-RU~ ‹› I-NA-JA-PA-QA
+PKZa12	S	rel	PK	-	A-TA-I-*301-WA-JA • A-DI-KI-TE~ ‹› ~SI~ ‹› / ~RA-ME~ ‹› ~A-NE~ ‹› U-NA-RU-KA-JA-SI A-PA-DU-PA ‹› ~JA~ ‹› JA-PA-QA
+PLZf1	S	rel	PL	-	~TA • WI-TE-JA-MU • U-QE-TI • JA-SA-SA-RA-ME • TA-NU-NI-KI-NA • NI-NU-NI • ‹› ~I~ ‹›
+SYZa1	S	rel	SY	-	A-TA-I-*301-WA-JA • I-DA-MI • JA~ ‹›
+SYZa3	S	rel	SY	-	A-TA-I-*301-WA-JA? ‹› SE?-KA-NA-SI ‹› SI-RU?-TE
+ARKHZf9	S	rel	ARKH	-	JA-KI-SI-KI-NU • MI-DA-MA-RA2 •
+CRZf1	S	rel	CR	-	A-MA-WA-SI • KA-NI-JA-MI • I-JA • QA-KI-SE-NU-TI • A-TA-DE
+KNZc6	S	rel	KN	-	*34-TI-RI-A-DI-DA-KI-TI-PA-KU • / NI-JA-NU • / JU-KU-NA-PA-KU-NU-U-I-ZU •
+KNZf13	S	rel	KN	-	A-RE-NE-SI-DI-*301-PI-KE-PA-JA-TA-RI-SE-TE-RI-MU-A-JA-KU
+KNZf31	S	rel	KN	-	SI-SI-ZA-NE-*310 • DA-DU-MI-NE • QA-MI-*47-NA-RA • A-WA-PI • TE-SU-DE-SE-KE-I • A-DA-RA • TI-DI-TE-QA-TI • TA-SA-ZA • TA-TE-I-KE-ZA-RE •
+KOZf2	S	rel	KO	-	A-RA-KO-KU-ZU-WA-SA-TO-MA-RO-AU-TA-DE-PO-NI-ZA
+HTZb160	S	rel	HT	-	‹› PA-TA-DA-DU-PU2-RE ‹›
+PKZa15	S	rel	PK	-	‹› JA-DI-KI-TE-TE-DU-PU2-RE

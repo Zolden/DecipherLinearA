@@ -1,0 +1,39 @@
+=== наблюдаемые биморфы (free>=1, расширений >=2): 34 ===
+биморф     free преф  фин  rel%  расширения (примеры)
+A-DU          7    3    0    0%  A-DU-KU-MI-NA, A-DU-NI-TA-NA, A-DU-ZA
+DA-RE         6    0    3    0%  JA-MI-DA-RE, NA-DA-RE, SI-DA-RE
+KU-PA         3    3    1    0%  KA-KU-PA, KU-PA-JA, KU-PA-RI
+SI-KA         6    0    2    0%  A-DA-KI-SI-KA, I-NA-TA-I-ZU-DI-SI-KA
+I-DA          2    5    0   50%  I-DA-A, I-DA-DA, I-DA-MA-TE
+A-SE          4    2    0   25%  A-SE-JA, A-SE-TU-*21F
+A-RI          2    3    0    0%  A-RI-NI-TA, A-RI-PA, A-RI-SU
+SI-TE         2    1    2   50%  KE-SI-TE, QE-SI-TE, SI-TE-TU
+JA-SA         1    5    0    0%  JA-SA-JA, JA-SA-MU, JA-SA-RA-A-NA-NE
+A-SI          1    4    0    0%  A-SI-DA-TO-I, A-SI-JA-KA, A-SI-KI-RA
+KI-RA         2    0    2    0%  A-SI-KI-RA, SI-KI-RA
+A-MA          2    2    0   50%  A-MA-JA, A-MA-WA-SI
+I-JA          1    2    2  100%  I-JA-PA-ME, I-JA-TE, SE-TO-I-JA
+A-DA          1    4    0    0%  A-DA-*21F-RI, A-DA-KI-SI-KA, A-DA-RA
+PA3-NI        2    2    0    0%  PA3-NI-NA, PA3-NI-WI
+DA-KU         1    3    0  100%  DA-KU-NA, DA-KU-SE-NE, DA-KU-SE-NE-TI
+I-TI          1    2    1    0%  I-TI-NI-SA, I-TI-TI-KU-NI, KO-SA-I-TI
+A-MI          1    3    0    0%  A-MI-DA-O, A-MI-DA-U, A-MI-TA
+TA-RA         1    0    2    0%  DA-TA-RA, PI-TA-RA
+RU-JA         1    1    1    0%  I-RU-JA, RU-JA-TA-DI
+MA-RE         1    0    2    0%  *28B-NU-MA-RE, WA-TU-MA-RE
+KA-KU         1    2    0    0%  KA-KU-NE-TE, KA-KU-PA
+QE-TI         1    1    1    0%  QE-TI-RA-DU, U-QE-TI
+TU-SU         1    1    1    0%  RA-NA-TU-SU, TU-SU-PU2
+JA-PA         1    2    0    0%  JA-PA-QA, JA-PA-RA-JA-SE
+JA-DI         1    2    0    0%  JA-DI-KI-TE-TE-*307-PU2-RE, JA-DI-KI-TU
+NA-TI         1    0    2    0%  TA-NA-TI, U-NA-RU-KA-NA-TI
+JA-KU         1    1    1    0%  A-RE-NE-SI-DI-*301-PI-KE-PA-JA-TA-RI-SE-TE-RI-MU-A-JA-KU, JA-KU-TI
+SI-RU         1    2    0    0%  SI-RU-MA-RI-TA2, SI-RU-TE
+TA-JA         1    0    2  100%  I-TA-JA, PI-TA-JA
+DA-I          1    1    1    0%  A-RE-DA-I, DA-I-PI-TA
+QA-*118       1    1    1    0%  I-QA-*118, QA-*118-RA-RE
+PA-JA         1    1    1    0%  KU-PA-JA, PA-JA-RE
+TI-MA         1    1    1  100%  TI-MA-RU-WI-TE, TI-TI-MA
+
+нуль (Null-B, R=1000): 19.8±3.6 биморфов; наблюдаемо 34, p=0.0000
+интерпретация: избыток биморфов = слова-элементы, реально живущие и свободно, и в составе длинных слов (композиция/деривация).

@@ -1,0 +1,36 @@
+страниц commentary: 1694; сматчено потоков: 620
+underdot-записей: 717 (WORD: 453, NUM: 264) в 345 документах
+непривязанных потоков с >=3 токенами: 34
+потоков с underdot-метками, оставшихся без привязки: 35 (underdot-токенов в них: 67)
+  LOST ('HT154', '', 6, 'HT154b', 0.0, False, 4)
+  LOST ('HT82', 'a', 3, 'HT82', 0.286, False, 2)
+  LOST ('HT82', 'b', 5, 'HT82', 0.222, False, 3)
+  LOST ('HT82', '', 8, 'HT82', 0.333, False, 5)
+  LOST ('HTWe1020', '', 4, 'HTWa1020', 0.286, False, 1)
+  LOST ('HTZb162', '', 3, 'HTZb162', 0.0, False, 1)
+  LOST ('HTZd157+156', '', 2, 'HTZd157+156', 0.154, False, 1)
+  LOST ('IOZa11', '', 5, 'IOZa11', 0.444, False, 1)
+  LOST ('KH31', '', 5, 'KH31', 0.444, False, 3)
+  LOST ('KH68+71', '', 4, 'KH68+71', 0.333, False, 3)
+  LOST ('KHWc2020', '', 2, 'KHWc2020', 0.0, False, 1)
+  LOST ('KHWc2025', '', 2, 'KHWc2025', 0.0, False, 1)
+  LOST ('KHWc2045', '', 1, 'KHWc2045', 0.0, False, 1)
+  LOST ('KHWc2054', '', 3, 'KHWc2054', 0.0, False, 2)
+  LOST ('KHWc2055', '', 3, 'KHWc2055', 0.0, False, 1)
+  LOST ('KHWc2079', '', 3, 'KHWc2079', 0.0, False, 2)
+  LOST ('KHWc2084', '', 2, 'KHWc2084', 0.0, False, 1)
+  LOST ('KHWc2114', '', 2, 'KHWc2114', 0.0, False, 1)
+  LOST ('KNWc23', '', 2, 'KNWc23', 0.0, False, 1)
+  LOST ('KNZc6', '', 7, 'KNZc6', 0.2, False, 3)
+  LOST ('MA10', 'c', 5, 'MA10c', 0.4, False, 1)
+  LOST ('MA10', 'd', 2, 'MA10a', 0.0, False, 1)
+  LOST ('PH28', 'b', 5, 'PH28b', 0.222, False, 2)
+  LOST ('PKZa12', '', 10, 'PKZa12', 0.316, False, 5)
+  LOST ('PKZa16', '', 5, 'PKZa16', 0.25, False, 2)
+--- HT9a: 0 underdot-токенов
+--- HT118: 0 underdot-токенов
+--- HT116a: 4 underdot-токенов
+    0 WORD U-TA-RO [0]
+    25 NUM 6 ALL
+    43 WORD SI-KI-NE [2]
+    50 WORD QA-NU-MA [0]

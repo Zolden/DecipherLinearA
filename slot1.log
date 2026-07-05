@@ -1,0 +1,27 @@
+=== все вхождения открытия формулы ===
+   JA-TA-I-*301-U-JA          APZa1      AP   Stone vessel   
+   A-TA-I-*301-WA-JA          IOZa2      IO   Stone vessel   
+   A-TA-I-*301-WA-JA          IOZa3      IO   Stone vessel   
+   A-TA-I-*301-WA-JA          IOZa7      IO   Stone vessel   
+   A-TA-I-*301-WA-JA          KOZa1      KO   Stone vessel   
+   A-TA-I-*301-WA-E           PKZa11     PK   Stone vessel   
+   A-TA-I-*301-WA-JA          PKZa12     PK   Stone vessel   
+   A-TA-I-*301-WA-JA          SYZa1      SY   Stone vessel   повр.
+   A-TA-I-*301-WA-JA          SYZa2      SY   Stone vessel   
+   A-TA-I-*301-WA-JA          SYZa3      SY   Stone vessel   повр.
+   A-TA-I-*301-WA-JA          SYZa4      SY   Stone vessel   
+   A-TA-I-*301-WA-JA          SYZa8      SY   Stone vessel   повр.
+   A-TA-I-*301-WA-JA          TLZa1      TL   Stone vessel   
+   A-TA-I-*301-DE-KA          ZAZb3      ZA   Stone vessel   
+
+целых: 11; приставки: Counter({'A-': 10, 'JA-': 1}); хвосты: Counter({'WA-JA': 8, 'WA-E': 1, 'DE-KA': 1, 'U-JA': 1})
+сайт × хвост:
+   AP: {'U-JA': 1}
+   IO: {'WA-JA': 3}
+   KO: {'WA-JA': 1}
+   PK: {'WA-E': 1, 'WA-JA': 1}
+   SY: {'WA-JA': 2}
+   TL: {'WA-JA': 1}
+   ZA: {'DE-KA': 1}
+
+Δ(одинаковый хвост | один сайт − разные сайты) = +0.320, p=0.2217 (перестановка сайтов, R=10000, seed=42)

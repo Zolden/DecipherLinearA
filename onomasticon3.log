@@ -1,0 +1,53 @@
+классы LB v3: Counter({'NAME': 1845, 'OTHER': 1762, 'GREEK': 59, 'TOP': 28})
+
+длинные совпадения v3:
+   da-i-pi-ta       NAME
+   da-ma-te         NAME
+   i-ta-ja          NAME
+   ki-da-ro         NAME
+   pa-ra-ne         NAME
+   ta-na-ti         NAME
+   a-ro-te          OTHER
+   i-ja-te          OTHER
+   pa-i-to          TOP
+   se-to-i-ja       TOP
+   su-ki-ri-ta      TOP
+   NAME  : наблюдаемо 6, нуль 1.00, p=0.0008
+   TOP   : наблюдаемо 3, нуль 0.02, p=0.0000
+   GREEK : наблюдаемо 0, нуль 0.04, p=1.0000
+   OTHER : наблюдаемо 2, нуль 1.29, p=0.3731
+   NAME+TOP: наблюдаемо 9, нуль 1.02, p=0.0000
+
+=== топ-30 LA-кандидатов в имена (рейтинг поведения) ===
+слово                   балл  nLB-статус               сайты
+KU-ZU-NI                4.30  2                         HT
+MI-RU-TA-RA-RE          4.30  1                         HT
+I-DU-NE-SI              4.30  1                         HT
+RI-RU-MA                4.30  1                         HT
+NA-DA-RE                4.30  1                         HT
+U-DI-MI                 4.30  1                         HT
+PA-DA-SU-TI             4.30  1                         HT
+TU-JU-MA                4.30  1                         HT
+KA-RO-NA                4.30  1                         HT
+KE-KI-RU                4.30  1                         HT
+JA-MI-DA-RE             4.30  1                         HT
+KU-RA-MU                4.30  1                         HT
+TE-JA-RE                4.30  1                         HT
+DA-TA-RE                4.30  1                         HT
+U-DE-ZA                 4.30  1                         HT
+KI-KI-NA                4.30  1                         HT
+KU-PA3-PA3              4.30  1                         HT
+MA-I-MI                 4.30  1                         HT
+A-RI-SU                 4.30  1                         HT
+RI-MI-SI                4.30  1                         HT
+SA-MA-RO                4.30  1                         HT
+A-SI                    4.00  1                         HT
+TA-RA                   4.00  1                         HT
+JA-*345                 4.00  1                         HT
+KA-JU                   4.00  1                         HT
+*86-KA                  4.00  1                         HT
+MA-ZU                   4.00  1                         HT
+*322-RI                 4.00  1                         HT
+QE-PU                   4.00  2                         HT
+KO-JA                   4.00  1                         HT
+из топ-30: совпадений с LB 0

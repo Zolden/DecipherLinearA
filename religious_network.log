@@ -1,0 +1,58 @@
+=== элементы: распространение (rel-документы) ===
+   JASASARAME-стем    док. 15, сайты {'IO': 6, 'KN': 1, 'KH': 1, 'PK': 3, 'PL': 1, 'PO': 1, 'PS': 1, 'TL': 1}
+   ATAI*301           док. 13, сайты {'IO': 3, 'KO': 1, 'PK': 2, 'SY': 5, 'TL': 1, 'ZA': 1}
+   UNAKA/RUKA         док. 11, сайты {'IO': 3, 'KN': 1, 'KO': 1, 'PK': 5, 'TL': 1}
+   IDA                док. 10, сайты {'IO': 1, 'KO': 1, 'NE': 1, 'PK': 3, 'SY': 1, 'AR': 2, 'CR': 1}
+   IPINA              док.  8, сайты {'IO': 2, 'KO': 1, 'PK': 2, 'TL': 1, 'VRY': 1, 'AP': 1}
+   SIRU               док.  8, сайты {'IO': 3, 'KO': 1, 'PK': 1, 'SY': 1, 'TL': 1, 'VRY': 1}
+   PU2RE              док.  5, сайты {'HT': 1, 'PK': 3, 'ZA': 1}
+   DIKITE             док.  5, сайты {'IO': 1, 'PK': 4}
+   ASASARA            док.  5, сайты {'IO': 1, 'PK': 2, 'PO': 1, 'PR': 1}
+   DUPU2RE            док.  2, сайты {'HT': 1, 'PK': 1}
+   TUMEI              док.  2, сайты {'PK': 2}
+   INATAIZUDISIKA     док.  1, сайты {'IO': 1}
+   TANUMUTI           док.  1, сайты {'KN': 1}
+   TURUSA             док.  1, сайты {'KO': 1}
+   SETOIJA            док.  1, сайты {'PR': 1}
+   SEKANASI           док.  1, сайты {'SY': 1}
+   OSUQARE            док.  1, сайты {'TL': 1}
+
+=== композиты (2+ элемента в одном слове) ===
+   PA-TA-DA-DU-PU2-RE                 HTZb160    HT   = DUPU2RE + PU2RE
+   A-SA-SA-RA-ME                      IOZb10     IO   = ASASARA + JASASARAME-стем
+   A-SA-SA-RA-ME                      PKZa11     PK   = ASASARA + JASASARAME-стем
+   JA-DI-KI-TE-TE-DU-PU2-RE           PKZa15     PK   = DIKITE + DUPU2RE + PU2RE
+   A-SA-SA-RA                         PKZa4      PK   = ASASARA + JASASARAME-стем
+   JA-DI-KI-TE-TE-*307-PU2-RE         PKZa8      PK   = DIKITE + PU2RE
+   RI-QE-TI-A-SA-SA-RA-*325           POZc1      PO   = ASASARA + JASASARAME-стем
+
+=== кодокументность (пары элементов в одном документе, >=2 док.) ===
+   IPINA + SIRU: 6 док. ['IOZa15', 'IOZa2', 'KOZa1', 'PKZa11', 'TLZa1']
+   JASASARAME-стем + UNAKA/RUKA: 6 док. ['IOZa16', 'IOZa2', 'IOZa9', 'PKZa11', 'PKZa27']
+   ATAI*301 + SIRU: 5 док. ['IOZa2', 'KOZa1', 'PKZa11', 'SYZa3', 'TLZa1']
+   ATAI*301 + UNAKA/RUKA: 5 док. ['IOZa2', 'KOZa1', 'PKZa11', 'PKZa12', 'TLZa1']
+   ATAI*301 + IPINA: 4 док. ['IOZa2', 'KOZa1', 'PKZa11', 'TLZa1']
+   DIKITE + UNAKA/RUKA: 4 док. ['IOZa2', 'PKZa11', 'PKZa12', 'PKZa8']
+   IPINA + UNAKA/RUKA: 4 док. ['IOZa2', 'KOZa1', 'PKZa11', 'TLZa1']
+   SIRU + UNAKA/RUKA: 4 док. ['IOZa2', 'KOZa1', 'PKZa11', 'TLZa1']
+   ASASARA + JASASARAME-стем: 4 док. ['IOZb10', 'PKZa11', 'PKZa4', 'POZc1']
+   ATAI*301 + DIKITE: 3 док. ['IOZa2', 'PKZa11', 'PKZa12']
+   ATAI*301 + JASASARAME-стем: 3 док. ['IOZa2', 'PKZa11', 'TLZa1']
+   IPINA + JASASARAME-стем: 3 док. ['IOZa2', 'PKZa11', 'TLZa1']
+   JASASARAME-стем + SIRU: 3 док. ['IOZa2', 'PKZa11', 'TLZa1']
+   DUPU2RE + PU2RE: 2 док. ['HTZb160', 'PKZa15']
+   DIKITE + IPINA: 2 док. ['IOZa2', 'PKZa11']
+   DIKITE + JASASARAME-стем: 2 док. ['IOZa2', 'PKZa11']
+   DIKITE + SIRU: 2 док. ['IOZa2', 'PKZa11']
+   ATAI*301 + IDA: 2 док. ['KOZa1', 'SYZa1']
+   DIKITE + PU2RE: 2 док. ['PKZa15', 'PKZa8']
+
+=== документы с максимальным числом элементов ===
+   PKZa11       PK   [7]: ASASARA, ATAI*301, DIKITE, IPINA, JASASARAME-стем, SIRU, UNAKA/RUKA
+   IOZa2        IO   [6]: ATAI*301, DIKITE, IPINA, JASASARAME-стем, SIRU, UNAKA/RUKA
+   KOZa1        KO   [6]: ATAI*301, IDA, IPINA, SIRU, TURUSA, UNAKA/RUKA
+   TLZa1        TL   [6]: ATAI*301, IPINA, JASASARAME-стем, OSUQARE, SIRU, UNAKA/RUKA
+   PKZa8        PK   [4]: DIKITE, PU2RE, TUMEI, UNAKA/RUKA
+   PKZa12       PK   [3]: ATAI*301, DIKITE, UNAKA/RUKA
+   PKZa15       PK   [3]: DIKITE, DUPU2RE, PU2RE
+   SYZa3        SY   [3]: ATAI*301, SEKANASI, SIRU

@@ -1,0 +1,71 @@
+LB-словарь после фильтра: 3694 типов
+из них с аттестацией в KN D-сериях: 458
+
+=== T1: весь LB-словарь ===
+   a-du             LA: ×7 ['HT133', 'HT85a', 'HT86a', 'HT88'] | LB: ×2 [KN L,KN X]
+   a-ma             LA: ×2 ['HSZg1', 'MA1b'] | LB: ×7 [KN As,KN E,KN F]
+   a-mi             LA: ×1 ['KH102'] | LB: ×1 [KN X]
+   a-pi             LA: ×1 ['KNZe16'] | LB: ×5 [KN G,PY Ep,PY Ta]
+   a-ri             LA: ×2 ['PH6'] | LB: ×1 [PY Wa]
+   a-ro-te          LA: ×1 ['CRZg4'] | LB: ×1 [PY La]
+   a-ru             LA: ×2 ['HT49a', 'HT9a'] | LB: ×1 [KN C]
+   da-i-pi-ta       LA: ×2 ['ZA10a', 'ZA8'] | LB: ×1 [KN B]
+   da-ma-te         LA: ×1 ['KYZa2'] | LB: ×1 [PY En]
+   di-de            LA: ×1 ['HT86b'] | LB: ×1 [KN B]
+   i-ja             LA: ×1 ['CRZf1'] | LB: ×2 [KN Do,KN Xd]
+   i-ja-te          LA: ×1 ['PHZb4'] | LB: ×1 [PY Eq]
+   i-ta-ja          LA: ×1 ['HT28a'] | LB: ×2 [KN Ap,KN Xe]
+   ka-na            LA: ×1 ['HT23a'] | LB: ×2 [KN Ra]
+   ka-pa            LA: ×5 ['HT102', 'HT140', 'HT6a', 'HT8b'] | LB: ×10 [KN E,PY Un,TH Ft]
+   ka-si            LA: ×1 ['HTWa1027'] | LB: ×6 [TH Ft]
+   ka-ti            LA: ×1 ['HT63'] | LB: ×2 [KN Ce,PY Tn]
+   ki-da-ro         LA: ×1 ['HT117a'] | LB: ×1 [KN E]
+   ko-ru            LA: ×1 ['HT23a'] | LB: ×2 [KN Sk,TH Fq]
+   ku-pa            LA: ×3 ['HT110a', 'ZA11a', 'ZA11b'] | LB: ×2 [KN Ga,KN X]
+   ma-di            LA: ×4 ['HT118', 'HT85b', 'HT97a', 'PH31a'] | LB: ×2 [KN As,KN Db]
+   ni-pi            LA: ×1 ['KNWc26'] | LB: ×1 [PY Cn]
+   pa-de            LA: ×3 ['HT122a', 'HT9a', 'HT9b'] | LB: ×4 [KN Fp,KN Fs,KN Ga]
+   pa-i-to          LA: ×2 ['HT120', 'HT97a'] | LB: ×46 [KN Da,KN Db,KN Dd,KN De,KN Dg,KN Dm,KN Dn,KN Dq,KN Dv,KN E,K]
+   pa-ja            LA: ×1 ['HT41a'] | LB: ×1 [KN V]
+   pa-ra            LA: ×2 ['HT128a', 'PH3a'] | LB: ×1 [KN Sc]
+   pa-ra-ne         LA: ×2 ['HT115a', 'HT115b'] | LB: ×1 [KN Vc]
+   pu-ko            LA: ×1 ['HT31'] | LB: ×1 [KN Dv]
+   re-ro            LA: ×1 ['HTWc3012'] | LB: ×1 [PY Cn]
+   sa-ma            LA: ×4 ['HT10a', 'HT52a', 'HT6b', 'ZA10b'] | LB: ×3 [KN X,PY On]
+   se-to-i-ja       LA: ×1 ['PRZa1'] | LB: ×11 [KN As,KN Da,KN Do,KN Dq,KN Lc,KN Le,KN Mc,KN Sd,KN X]
+   si-ma            LA: ×1 ['PHZb4'] | LB: ×2 [PY En,PY Eo]
+   su-ki-ri-ta      LA: ×1 ['PHWa32'] | LB: ×5 [KN Db,KN Df,KN Dn,KN Dv]
+   ta-na-ti         LA: ×3 ['HT10b', 'HT7a', 'HT98a'] | LB: ×1 [KN Uf]
+   te-ke            LA: ×1 ['HT85a'] | LB: ×4 [PY Ta]
+   ti-ma            LA: ×1 ['HTZf(HM767)'] | LB: ×1 [KN Vc]
+   to-me            LA: ×1 ['PE2'] | LB: ×1 [PY Ep]
+   u-su             LA: ×1 ['HT117a'] | LB: ×1 [KN V]
+   u-te             LA: ×1 ['VRYZb3'] | LB: ×1 [KN Xd]
+   wa-te            LA: ×1 ['TELZb1'] | LB: ×1 [KN X]
+всего: 40
+
+=== T2: KN D-серии ===
+   i-ja
+   ma-di
+   pa-i-to
+   pu-ko
+   se-to-i-ja
+   su-ki-ri-ta
+всего: 6
+
+=== T3: только LA-гапаксы ===
+всего: 26 из 504 гапаксов
+
+наблюдаемые совпадения по длине слова: {2: 29, 3: 8, 4: 3}
+T1 / Null-A: наблюдаемо 40, нуль 27.46±4.78, p=0.0070
+T2 / Null-A: наблюдаемо 6, нуль 5.57±2.30, p=0.4784
+T3 / Null-A: наблюдаемо 26, нуль 19.49±4.03, p=0.0725
+   длина 2: наблюдаемо 29, нуль 26.08±4.64, p=0.2958
+   длина 3: наблюдаемо 8, нуль 1.37±1.16, p=0.0001
+   длина >=4: наблюдаемо 3, нуль 0.01±0.12, p=0.0000
+T1 / Null-B: наблюдаемо 40, нуль 36.70±5.24, p=0.2989
+T2 / Null-B: наблюдаемо 6, нуль 7.05±2.56, p=0.7145
+T3 / Null-B: наблюдаемо 26, нуль 26.14±4.48, p=0.5483
+   длина 2: наблюдаемо 29, нуль 34.34±5.05, p=0.8790
+   длина 3: наблюдаемо 8, нуль 2.33±1.49, p=0.0025
+   длина >=4: наблюдаемо 3, нуль 0.03±0.17, p=0.0000

@@ -1,0 +1,58 @@
+событий: новых 40, этап-2 40; fullD совпало 40, расхождений 0
+нет в этапе 2: []
+нет у меня: []
+
+=== Классификация KU-RO-подобных событий с underdot-слоем ===
+doc           kind               V    fullD окно dotN dotW  totD  apx  dbt
+HT1           KI-RO            197        —    0    0    0 False False False
+HT123+124a    KI-RO              1        —    2    0    0  True False False
+HT123+124a    KI-RO              0        —    5    2    0  True False False
+HT123+124a    KI-RO            3/4        —    8    4    0 False True True
+HT123+124a    KI-RO            3/4        —   11    4    0 False True True
+HT123+124a    KI-RO              6        —   14    5    0 False True True
+HT123+124b    KI-RO              5 5273/120    9    0    0 False True True
+HT15          KI-RO            400      854    2    0    1 False False False
+HT34          KI-RO             37        —    8    2    3 False True True
+HT100         KU-RO             97       -4    5    1    0 False False False
+HT102         KU-RO           1060       10    7    1    3  True True True
+HT104         KU-RO             95        0    3    1    2 False False False
+HT109         KU-RO            129     -121    2    0    1 False True True
+HT110a        KU-RO            100      -79    2    1    2 False True True
+HT117a        KU-RO             10        0   10    0    0 False False False
+HT118         KU-RO             30       20    7    0    0 False False False
+HT119         KU-RO            160       -2    9    0    0 False False False
+HT11a         KU-RO             10       -4    3    1    2 False True True
+HT11b         KU-RO            180        0    5    0    0  True False False
+HT122a        KU-RO             31       -9   16    1    0 False True True
+HT122b        KU-RO             65      -50    5    1    1 False True True
+HT123+124a    KU-RO          151/6        —   13    4    0  True True True
+HT123+124b    KU-RO             20 1073/120    8    0    0 False True False
+HT127b        KU-RO            292       13    7    2    2 False True True
+HT13          KU-RO          261/2      1/2    6    0    1 False True True
+HT25b         KU-RO             16        —    0    0    0  True False False
+HT25b         KU-RO             52       16    3    1    2 False False False
+HT27a         KU-RO            335      -13    8    3    0  True True True
+HT46a         KU-RO           87/2    -85/2    1    1    0 False True True
+HT67          KU-RO            420        —    0    0    0  True True True
+HT74          KU-RO             20        —    0    0    0  True True True
+HT85a         KU-RO             66        0    7    0    1 False True True
+HT88          KU-RO              6       33    9    0    0 False False False
+HT89          KU-RO             87        0    5    0    1  True False False
+HT94a         KU-RO            110        1    5    0    0 False False False
+HT94b         KU-RO              5        0    5    0    0  True False False
+HT9a          KU-RO          127/4     -3/4    7    0    0 False False False
+HT9b          KU-RO             24        0    7    0    6 False False False
+HT122b        PO-TO-KU-RO       97      -17    6    1    1  True True True
+HT131b        PO-TO-KU-RO    905/2   -841/2    2    1    0 False True True
+
+KU-RO с окном и вычислимым fullD: 25
+  точных (fullD=0): 7; из них с underdot в окне/итоге: 6; полностью чистых (без underdot и без approx/doubt корпуса): 1
+  расходящихся: 18; из них с underdot: 12, с любой грязью: 13
+  расходящиеся БЕЗ каких-либо помет (candidates на реальную ошибку/непонимание):
+    HT9a fullD=-3/4
+    HT88 fullD=33
+    HT94a fullD=1
+    HT118 fullD=20
+    HT119 fullD=-2
+
+HT9a: [{'doc': 'HT9a', 'kind': 'KU-RO', 'V': Fraction(127, 4), 'n_win': 7, 'fullD': Fraction(-3, 4), 'ent_num_dot': 0, 'ent_word_dot': 0, 'tot_num_dot': False, 'tot_word_dot': False, 'approx': False, 'doubt_corpus': False, 'sym_total': False}]

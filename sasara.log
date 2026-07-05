@@ -1,0 +1,41 @@
+=== все вхождения слов с SA-SA ===
+   A-SA-SA-*802-ME              PRZa1      PR   Stone vessel     цел.
+   A-SA-SA-RA                   PKZa4      PK   Stone vessel     повр.
+   A-SA-SA-RA-ME                IOZb10     IO   Clay vessel      повр.
+   A-SA-SA-RA-ME                PKZa11     PK   Stone vessel     цел.
+   JA-SA-SA                     PKZa14     PK   Stone vessel     повр.
+   JA-SA-SA-RA-MA-NA            KNZa10     KN   Stone vessel     цел.
+   JA-SA-SA-RA-ME               IOZa2      IO   Stone vessel     повр.
+   JA-SA-SA-RA-ME               IOZa6      IO   Stone vessel     цел.
+   JA-SA-SA-RA-ME               IOZa9      IO   Stone vessel     повр.
+   JA-SA-SA-RA-ME               IOZa12     IO   Stone vessel     цел.
+   JA-SA-SA-RA-ME               IOZa16     IO   Stone vessel     цел.
+   JA-SA-SA-RA-ME               PLZf1      PL   Metal object     цел.
+   JA-SA-SA-RA-ME               PSZa2      PS   Stone vessel     цел.
+   JA-SA-SA-RA-ME               TLZa1      TL   Stone vessel     цел.
+   JA-SA-SA-RA-ME               PKZa27     PK   Stone vessel     цел.
+   RI-QE-TI-A-SA-SA-RA-*325     POZc1      PO   Inked inscription цел.
+   SA-SA-ME                     HT23a      HT   Tablet           цел.
+   SA-SA-RA-ME                  KHZc106    KH   Inked inscription цел.
+   WI-SA-SA-NE                  KH5        KH   Tablet           цел.
+
+=== структурный разбор форм (целые) ===
+форма                       приставка   ядро          хвост       сайты
+A-SA-SA-*802-ME             A           SA-SA-*802    ME          PR
+A-SA-SA-RA                  A           SA-SA-RA      ∅           PK
+A-SA-SA-RA-ME               A           SA-SA-RA      ME          IO,PK
+JA-SA-SA                    JA          SA-SA         ∅           PK
+JA-SA-SA-RA-MA-NA           JA          SA-SA-RA      MA-NA       KN
+JA-SA-SA-RA-ME              JA          SA-SA-RA      ME          IO,PK,PL,PS,TL
+RI-QE-TI-A-SA-SA-RA-*325    RI-QE-TI-A  SA-SA-RA      *325        PO
+SA-SA-ME                    ∅           SA-SA         ME          HT
+SA-SA-RA-ME                 ∅           SA-SA-RA      ME          KH
+WI-SA-SA-NE                 WI          SA-SA         NE          KH
+
+Сверка с калиброванным инвентарём маркеров (§L/§M):
+  приставки A-/JA- — реплицируемое ядро инвентаря: обе засвидетельствованы
+  на этом стеме (A-SA-SA-RA-ME против JA-SA-SA-RA-ME/-MA-NA);
+  хвосты -ME / -MA-NA — чередование хвостов на одном стеме (кандидат-пара
+  маркеров; -ME сам по себе значим в §L: p=0.03, семейно нет);
+  голая основа (A-)SA-SA-RA без хвоста; композит RI-QE-TI-…-*325;
+  вариант ядра SA-SA-*802 (PRZa1) — знаковая замена внутри стема.

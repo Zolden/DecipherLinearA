@@ -1,0 +1,29 @@
+=== все вхождения A-DU и A-DU-* ===
+   A-DU             HT85a      HT   tab  ЗАГОЛОВОК  без числа      след: *307+*387
+   A-DU             HT86a      HT   tab  запись     без числа      след: DA-ME
+   A-DU             HT88       HT   tab  ЗАГОЛОВОК  без числа      след: VIR+KA
+   A-DU             HT92       HT   tab  запись     без числа      след: GRA
+   A-DU             HT95b      HT   tab  ЗАГОЛОВОК  без числа      след: SA-RU
+   A-DU             HT99a      HT   tab  ЗАГОЛОВОК  без числа      след: SA-RA2
+   A-DU             HT133      HT   tab  ЗАГОЛОВОК  без числа      след: TE
+   A-DU-RE          KH4        KH   tab  ЗАГОЛОВОК  без числа      след: *306
+   A-DU             KH11       KH   tab  ЗАГОЛОВОК  без числа      след: ZA
+   A-DU             KH23       KH   tab  ЗАГОЛОВОК  без числа      след: CYP
+   A-DU-ZA          PK1        PK   tab  запись     число=1        след: TA2-TA-RE
+   A-DU             TY3a       TY   tab  запись     без числа      след: OLE+KI
+   A-DU-KU-MI-NA    ZA10a      ZA   tab  запись     число=1        след: DA-I-PI-TA
+   A-DU-NI-TA-NA    ARKH5      ARKH tab  ЗАГОЛОВОК  число=41       след: A-DA-RO
+
+=== содержимое документов с заголовком A-DU ===
+   HT85a: A-DU *307+*387 VIR+[?] / DA-RI-DA 12 / PA3-NI 12 / U-*325-ZA 6 / DA-SI-*118 24 / KU-ZU-NI 5 …
+   HT86a: A-KA-RU / KU-NI-SU GRA+K+L 20 / SA-RU 20 / DI-DE-RU 20 / QA-RA2-WA 10 / / / A-DU …
+   HT88: A-DU VIR+KA 20 / RE-ZA 6 / NI KI-KI-NA 7 / KI-RO / KU-PA3-PA3 1 / KA-JU 1 …
+   HT133: A-DU TE GRA+DA 55
+   HT95a: DA-DU-MA-TA GRA / DA-ME 10 / MI-NU-TE 10 / SA-RU 20 / KU-NI-SU 10 / DI-DE-RU 10 / …
+   HT95b: A-DU / SA-RU 10 / / DA-ME 10 / MI-NU-TE 10 / KU-NI-SU 10 / DI-DE-RU 10 / …
+   HT99a: A-DU / SA-RA2 CYP 4 / NI 4 / VIN 7/6 / GRA+QE /
+
+=== сравнение элементов ===
+   A-DU     свободно ×7, расширений 3 (['A,DU,ZA', 'A,DU,KU,MI,NA', 'A,DU,NI,TA,NA']), rel-доля 0/10, сайты ['ARKH', 'HT', 'PK', 'ZA']
+   I-DA     свободно ×2, расширений 5 (['I,DA,A', 'I,DA,PA3,I,SA,RI', 'I,DA,MI', 'I,DA,MA,TE']), rel-доля 5/7, сайты ['AR', 'CR', 'KO', 'PH', 'PK', 'SY', 'ZA']
+   PU2-RE   свободно ×0, расширений 1 (['JA,DI,KI,TE,TE,*307,PU2,RE']), rel-доля 1/1, сайты ['PK']

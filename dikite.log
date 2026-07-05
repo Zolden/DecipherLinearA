@@ -1,0 +1,43 @@
+=== 1. все слова с DI-KI / DI-KA ===
+   DI-KA-KI                         HT52a      HT    tab  Tablet         
+   DI-KI-SE                         HT87       HT    tab  Tablet         
+   DI-KI-SE                         HT117b     HT    tab  Tablet         
+   JA-DI-KI-TU                      IOZa2      IO    rel  Stone vessel   
+   RA-O-DI-KI                       PH2        PH    tab  Tablet         
+   JA-DI-KI-TE-TE-*307-PU2-RE       PKZa8      PK    rel  Stone vessel   
+   A-DI-KI-TE-TE                    PKZa11     PK    rel  Stone vessel   
+   A-DI-KI-TE                       PKZa12     PK    rel  Stone vessel   
+   JA-DI-KI-TE-TE-DU-PU2-RE         PKZa15     PK    rel  Stone vessel   
+   DI-KI                            ZA27       ZA    tab  Tablet         
+   DI-DI-KA-SE                      ZAZb3      ZA    rel  Stone vessel   
+
+=== 2. все слова с PU2 ===
+   SU-PU2-*188                      HT8b       HT    tab  Tablet         
+   A-PU2-NA-DU                      HT14       HT    tab  Tablet         
+   ZU-JU-PU2                        HT25a      HT    tab  Tablet         
+   TU-SU-PU2                        HT49a      HT    tab  Tablet         
+   SU-PU2                           HT63       HT    tab  Tablet         
+   PA-TA-DA-DU-PU2-RE               HTZb160    HT    rel  Clay vessel    
+   PU2                              KEZb6      KE    rel  Clay vessel    
+   JA-DI-KI-TE-TE-*307-PU2-RE       PKZa8      PK    rel  Stone vessel   
+   JA-DI-KI-TE-TE-DU-PU2-RE         PKZa15     PK    rel  Stone vessel   
+   PU2                              PKZa16     PK    rel  Stone vessel   
+   PU2-RA2                          ZA6a       ZA    tab  Tablet         
+   PU2-RE-JA                        ZAZb34     ZA    rel  Stone vessel   
+   PA3-PU2                          MILZb2     MIL   rel  Clay vessel    
+   PU2-RE                           PKZa28     PK    rel  Stone vessel   
+
+=== 3. оформление стема DI-KI-T- по сайтам ===
+   IO: JA-DI-KI-TU (IOZa2)
+   PK: JA-DI-KI-TE-TE-*307-PU2-RE (PKZa8); A-DI-KI-TE-TE (PKZa11); A-DI-KI-TE (PKZa12); JA-DI-KI-TE-TE-DU-PU2-RE (PKZa15)
+
+справка: LB di-ka-ta/di-ka-ta-de/di-ka-ta-jo — гласные A-A против LA I-E:
+   DI-KI-TE ≠ di-ka-ta по 2-й и 3-й гласной; тождество НЕ утверждается,
+   фиксируется только совместная локализация культа (Палекастро) и слота.
+
+концовки после DI-KI-T-: 
+   ...TE: ['PK']
+   ...TE-TE: ['PK']
+   ...TE-TE-*307-PU2-RE: ['PK']
+   ...TE-TE-DU-PU2-RE: ['PK']
+   ...TU: ['IO']

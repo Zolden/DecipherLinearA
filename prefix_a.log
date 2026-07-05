@@ -1,0 +1,39 @@
+=== стем-парный тест A-: 14 основ ===
+   A-*325-ZA (n=1) ~ U-*325-ZA(n=3)
+   A-DA-RA (n=1) ~ MI-DA-RA(n=1)
+   A-DA-RO (n=1) ~ SI-DA-RO(n=1), KI-DA-RO(n=1)
+   A-KA-RU (n=3) ~ KA-RU(n=1)
+   A-KI-RO (n=1) ~ KI-RO(n=13)
+   A-MI-TA (n=1) ~ SI-MI-TA(n=1)
+   A-PA-RA-NE (n=2) ~ PA-RA-NE(n=2)
+   A-SA-RA2 (n=1) ~ SA-RA2(n=19)
+   A-SA-SA-RA-ME (n=1) ~ SA-SA-RA-ME(n=1), JA-SA-SA-RA-ME(n=7)
+   A-SE-JA (n=1) ~ PA-SE-JA(n=2)
+   A-SI-KI-RA (n=1) ~ SI-KI-RA(n=1)
+   A-TA-NA-TE (n=1) ~ TA-NA-TE(n=1)
+   A-TA-RE (n=1) ~ DA-TA-RE(n=1), TA2-TA-RE(n=1)
+   A-WA-PI (n=1) ~ JA-WA-PI(n=1)
+num: Δ=-0.226 (знак-переворот p=0.1953); пул A-формы 5/17 против альтернатив 22/57 (Фишер p=0.5749)
+rel: Δ=+0.000 (знак-переворот p=1.0000); пул A-формы 3/17 против альтернатив 10/57 (Фишер p=1.0000)
+init: Δ=-0.095 (знак-переворот p=0.5625); пул A-формы 6/17 против альтернатив 11/57 (Фишер p=0.1966)
+tab: Δ=+0.071 (знак-переворот p=1.0000); пул A-формы 14/17 против альтернатив 45/57 (Фишер p=1.0000)
+
+=== варианты открытия формулы возлияний ===
+   A-TA-I-*301-WA-JA        IOZa2      IO   Stone vessel
+   A-TA-I-*301-WA-JA        IOZa3      IO   Stone vessel
+   A-TA-I-*301-WA-JA        IOZa7      IO   Stone vessel
+   A-TA-I-*301-WA-JA        KOZa1      KO   Stone vessel
+   A-TA-I-*301-WA-E         PKZa11     PK   Stone vessel
+   A-TA-I-*301-WA-JA        PKZa12     PK   Stone vessel
+   A-TA-I-*301-WA-JA        SYZa1      SY   Stone vessel
+   A-TA-I-*301-WA-JA        SYZa2      SY   Stone vessel
+   A-TA-I-*301-WA-JA        SYZa3      SY   Stone vessel
+   A-TA-I-*301-WA-JA        SYZa4      SY   Stone vessel
+   A-TA-I-*301-WA-JA        SYZa8      SY   Stone vessel
+   A-TA-I-*301-WA-JA        TLZa1      TL   Stone vessel
+   A-TA-I-*301-DE-KA        ZAZb3      ZA   Stone vessel
+   JA-TA-I-*301-U-JA        APZa1      AP   Stone vessel
+
+основ с A-: 68; из A-форм оканчиваются на -JA: 4 (['A,SE,JA', 'A,SU,JA', 'A,MA,JA', 'A,TA,I,*301,WA,JA'])
+основы, имеющие и A-форму, и -JA-форму: 0: []
+справка: доля слов на -JA в лексиконе 29/618 = 4.7%; среди A-форм 4/68 = 5.9%

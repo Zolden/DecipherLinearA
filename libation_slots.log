@@ -1,0 +1,40 @@
+документов в таблице слотов этапа 2: 37
+rel-документы с >=3 словами вне таблицы (не в формуле, по этапу 2): 5: [('IOZa11', 'IO', 3), ('KNZc6', 'KN', 3), ('KNZf31', 'KN', 9), ('ZAZb34', 'ZA', 3), ('CRZf1', 'CR', 5)]
+
+=== инвентарь слота 2 (кандидат «место/посвящение») ===
+   HT   HT55a      ['KI-RO', 'MA-RE', '*301']
+   HT   HT90       ['I-KU-RI-NA', 'SA-RA2', 'GRA', 'NI', 'OLE+DI']
+   IO   IOZa2      ['JA-DI-KI-TU']
+   IO   IOZa3      ['AU']
+   IO   IOZa6      ['I-NA-TA-I-ZU-DI-SI-KA']
+   IO   IOZa7      ['JA-TI-*321']
+   IO   IOZa16     ['AROM']
+   KN   KNZa10     ['TA-NU-MU-TI']
+   KN   KNZc7      ['A-KA-NU-ZA-TI', 'DU-RA-RE', 'A-ZU-RA']
+   KO   KOZa1      ['TU-RU-SA', 'DU-*314-RE', 'I-DA-A']
+   PK   PKZa8      ['NU', 'PA3-E', 'JA-DI-KI-TE-TE-*307-PU2-RE', 'TU-ME-I']
+   PK   PKZa10     ['SI']
+   PK   PKZa11     ['A-DI-KI-TE-TE', 'RE', 'PI-TE-RI', 'A-KO-A-NE']
+   PK   PKZa12     ['A-DI-KI-TE', 'SI']
+   PL   PLZf1      ['TA', 'WI-TE-JA-MU', 'U-QE-TI']
+   PR   PRZa1      ['TA-NA-SU-TE-KE', 'SE-TO-I-JA']
+   PS   PSZa2      ['𐄌-JA-TI']
+   SY   SYZa1      ['I-DA-MI', 'JA']
+   SY   SYZa2      ['JA-SU-MA-TU-OLIV']
+   SY   SYZa4      ['JA-I-NWA-ZA', 'PA3-NI-WI']
+   SY   SYZa8      ['JA-JA']
+   TL   TLZa1      ['O-SU-QA-RE']
+   ZA   ZAZb3      ['A-RE-PI-RE-NA', 'TI-TI-KU']
+
+=== сайт-специфичность по слотам ===
+слот  док пар same пар diff   Δ(точн)       p   Δ(бигр)       p
+   1   16       17      103     0.357  0.0412     0.000  1.0000
+   2   23       24      229     0.042  0.0929     0.103  0.0426
+   3   18       22      131     0.248  0.0726    -0.007  0.7773
+   4   12       10       56     0.011  0.6814     0.089  0.4432
+   5    9        4       32     0.062  0.5318     0.000  1.0000
+   6   10        4       41     0.287  0.2921     0.000  1.0000
+
+повторы элементов слота 2 между документами:
+   SI: 2 — [('PKZa10', 'PK'), ('PKZa12', 'PK')]
+частые бигамы слота 2: [('DI-KI', 4), ('KI-TE', 3), ('JA-DI', 2), ('JA-TI', 2), ('I-DA', 2), ('TE-TE', 2)]

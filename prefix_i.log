@@ -1,0 +1,32 @@
+=== поддержка I- (комбинированная модель): 5 основ ===
+   I+DA-MA-TE   (I-форма: I-DA-MA-TE)
+   I+DA-MI   (I-форма: I-DA-MI)
+   I+QA-*118   (I-форма: I-QA-*118)
+   I+RU-JA   (I-форма: I-RU-JA)
+   I+TA-JA   (I-форма: I-TA-JA)
+нуль (Null-B, R=2000): 3.68±1.81, p=0.3200
+
+=== функциональный тест: 5 основ с альтернативами ===
+   I-DA-MI ~ DA-MI-NU
+   I-QA-*118 ~ QA-*118
+   I-DA-MA-TE ~ DA-MA-TE
+   I-RU-JA ~ RU-JA
+   I-TA-JA ~ PI-TA-JA, TA-JA
+   num: I-формы 1/6, альтернативы 3/6, Фишер p=0.5455
+   rel: I-формы 2/6, альтернативы 2/6, Фишер p=1.0000
+   init: I-формы 2/6, альтернативы 2/6, Фишер p=1.0000
+   tab: I-формы 4/6, альтернативы 3/6, Фишер p=1.0000
+
+=== досье: все слова, начинающиеся с I-DA, и DA-MA-TE ===
+   I-DA-A             KOZa1        KO    Kophinas       rel  Stone vessel
+   DA-MA-TE           KYZa2        KY    Kythera        rel  Stone vessel
+   I-DA               NEZa1        NE    Nerokurou      rel  Stone vessel
+   I-DA-PA3-I-SA-RI   PH6          PH    Phaistos       tab  Tablet
+   I-DA               PKZa17       PK    Palaikastro    rel  Stone vessel
+   I-DA               PKZa18       PK    Palaikastro    rel  Stone vessel
+   I-DA-MI            SYZa1        SY    Syme           rel  Stone vessel
+   I-DA               ZA21b        ZA    Zakros         tab  Tablet
+   I-DA               ZA24a        ZA    Zakros         tab  Tablet
+   I-DA-MA-TE         ARZf1        AR    Arkhalkhori    rel  Metal object
+   I-DA-MA-TE         ARZf2        AR    Arkhalkhori    rel  Metal object
+   I-DA-DA            CRZg4        CR    Crete          rel  Stone object

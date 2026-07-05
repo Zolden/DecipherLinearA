@@ -1,0 +1,21 @@
+NAME_SLOT: 1553 слов
+
+совпадений LA×NAME_SLOT: 13 (длинных >=3: 4)
+   i-ja-te          len=3 LA×1 ['PHZb4'] | слоты N4, табличек 1 [PY Eq]
+   i-ta-ja          len=3 LA×1 ['HT28a'] | слоты N1, табличек 1 [KN Ap,KN Xe]
+   pa-ra-ne         len=3 LA×2 ['HT115a', 'HT115b'] | слоты N5, табличек 1 [KN Vc]
+   ta-na-ti         len=3 LA×3 ['HT10b', 'HT7a', 'HT98a'] | слоты N5, табличек 1 [KN Uf]
+   a-pi             len=2 LA×1 ['KNZe16'] | слоты N4, табличек 1 [KN G,PY Ep,PY Ta]
+   di-de            len=2 LA×1 ['HT86b'] | слоты N1b, табличек 1 [KN B]
+   i-ja             len=2 LA×1 ['CRZf1'] | слоты N1,N3, табличек 1 [KN Do,KN Xd]
+   ka-ti            len=2 LA×1 ['HT63'] | слоты N1, табличек 1 [KN Ce,PY Tn]
+   ma-di            len=2 LA×4 ['HT118', 'HT85b', 'HT97a'] | слоты N1, табличек 1 [KN As,KN Db]
+   pu-ko            len=2 LA×1 ['HT31'] | слоты N3, табличек 1 [KN Dv]
+   re-ro            len=2 LA×1 ['HTWc3012'] | слоты N1, табличек 1 [PY Cn]
+   ti-ma            len=2 LA×1 ['HTZf(HM767)'] | слоты N5, табличек 1 [KN Vc]
+   u-su             len=2 LA×1 ['HT117a'] | слоты N5, табличек 1 [KN V]
+все: наблюдаемо 13, нуль 14.53±3.61, p=0.7071
+длинные >=3: наблюдаемо 4, нуль 0.75±0.87, p=0.0078
+
+топ-30 поведенческих кандидатов против NAME_SLOT:
+попаданий: 0/30
