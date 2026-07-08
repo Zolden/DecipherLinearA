@@ -1,0 +1,39 @@
+разночтений всего: 234 в 98 документах (divergences.tsv)
+
+по классам:
+   SigLA   край±1        18
+   SigLA   прочее        13
+   SigLA   сегментация   15
+   SigLA   чтение-1      40
+   corpus  край±1        17
+   corpus  прочее        79
+   corpus  сегментация   11
+   corpus  чтение-1      41
+
+самые расходящиеся документы:
+   HT31       11
+   ZA15a      10
+   TY2        8
+   HT115a     7
+   HT140      6
+   KNZc7      6
+   HT87       5
+   HT95a      5
+
+примеры «чтение-1» (кандидаты точечной сверки):
+   HT115a     SigLA   NA-QI-NE-MI-NA         ~ ('NA', '*21F', 'NE', 'MI', 'NA')
+   HT115a     corpus  NA-*21F-NE-MI-NA       ~ ('NA', 'QI', 'NE', 'MI', 'NA')
+   HT117a     SigLA   TE-PA3-RE              ~ ('TE', 'JA', 'RE')
+   HT117a     corpus  TE-JA-RE               ~ ('TE', 'PA3', 'RE')
+   HT117b     SigLA   QI-TU-NE               ~ ('*21F', 'TU', 'NE')
+   HT117b     corpus  *21F-TU-NE             ~ ('QI', 'TU', 'NE')
+   HT122a     SigLA   PA-RI-NE               ~ ('PA', 'TA', 'NE')
+   HT122a     corpus  PA-TA-NE               ~ ('PA', 'RI', 'NE')
+   HT128a     SigLA   TU-RU-PA3-SE-ME        ~ ('TU', 'RU', 'NU', 'SE', 'ME')
+   HT128a     corpus  TU-RU-NU-SE-ME         ~ ('TU', 'RU', 'PA3', 'SE', 'ME')
+   HT129      SigLA   TU-QI-RI-NA            ~ ('TU', '*21F', 'RI', 'NA')
+   HT129      corpus  TU-*21F-RI-NA          ~ ('TU', 'QI', 'RI', 'NA')
+
+Чтение: классы автоматические, «прочее» включает лакуны и решения
+редакторов о нечитаемом; каталог — не приговор какой-то стороне, а
+рабочий список для эпиграфической сверки (corpus.pkl не правится).

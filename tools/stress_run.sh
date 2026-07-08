@@ -86,5 +86,10 @@ run analyze_suffix_complementarity.py suffix_complementarity.log
 run analyze_headers.py headers.log
 run analyze_onomasticon9.py onomasticon9.log
 run analyze_formula_dated.py formula_dated.log
+# этап 19 (analyze_divergences.py читает закоммиченный sigla_signs.tsv)
+run analyze_final_alternation.py final_alternation.log
+run analyze_divergences.py divergences.log
+run analyze_topic_class.py topic_class.log
+run analyze_crossword4.py crossword4.log
 echo "FAIL=$FAIL"
 echo STRESS_DONE
