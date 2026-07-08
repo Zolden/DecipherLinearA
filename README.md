@@ -9,8 +9,8 @@ decipherment claims, no translations. Every claim is of the form
 is reproduced by a seeded script in this repository.
 
 **Main document: [`linear_a_full_report_v2.md`](linear_a_full_report_v2.md)**
-(sections §0–§BU; in Russian). The journal-style English
-[preprint](preprint.md) (v1.1) condenses it; a popular-science summary is
+(sections §0–§CG; in Russian). The journal-style English
+[preprint](preprint.md) (v1.2) condenses it; a popular-science summary is
 available in [English](article_popular_en.md) and
 [Russian](article_popular_ru.md). See also the [FAQ](FAQ.md).
 

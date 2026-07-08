@@ -91,5 +91,9 @@ run analyze_final_alternation.py final_alternation.log
 run analyze_divergences.py divergences.log
 run analyze_topic_class.py topic_class.log
 run analyze_crossword4.py crossword4.log
+# этап 20 (analyze_source_check.py вне ростера: читает corpus_raw.json,
+# восстановимый tools/fetch_sources.sh)
+run analyze_o_rule_strata.py o_rule_strata.log
+run analyze_internal_alternation.py internal_alternation.log
 echo "FAIL=$FAIL"
 echo STRESS_DONE

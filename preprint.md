@@ -1,14 +1,20 @@
 # Structure without Reading: a Reproducible Statistical Framework for Linear A
 
-**Preprint v1.1 — 2026-07-08** (v1.0: 2026-07-06)
+**Preprint v1.2 — 2026-07-08** (v1.1: 2026-07-08; v1.0: 2026-07-06)
 Repository: https://github.com/Zolden/DecipherLinearA —
-DOI v1.1: https://doi.org/10.5281/zenodo.21264336 (all versions: https://doi.org/10.5281/zenodo.21262274)
+DOI (latest release): https://doi.org/10.5281/zenodo.21264336 (all versions: https://doi.org/10.5281/zenodo.21262274)
 (Full research log with all intermediate tests: `linear_a_full_report_v2.md`,
-sections §0–§BP; every number regenerates under seed=42, PYTHONHASHSEED=0.)
-*New in v1.1:* consolidated anchor table (11 words, `anchors.tsv`); stronger
-slot-level replication on the second Linear B digitization (p=0.0096);
-positional grammar of operator words with family-wise control (§5); one
-verdict withdrawn by a rare-sign concentration audit (*815, §7).
+sections §0–§CG; every number regenerates under seed=42, PYTHONHASHSEED=0.)
+*New in v1.2:* a three-slot record grammar (header → second-position
+operator → closing totals block, §5); SigLA integration — a dating layer
+cross-validated against a second source (533/534 epoch agreement) and a
+sign-level transcription cross-validation of two digitization traditions
+(90%/84%, §7); union-of-digitizations onomastics (six slot-confirmed name
+candidates, p=0.0004, §3); a candidate final-vowel adaptation rule
+(LA -u/-e/-a ↔ Linear B -o, §3) with its sensitivity honestly stated.
+*New in v1.1:* consolidated anchor table (11 words, `anchors.tsv`);
+slot-level replication on the second Linear B digitization; positional
+grammar of operators; *815 verdict withdrawn.
 
 ## Abstract
 
@@ -22,10 +28,13 @@ values transfer to Linear A. (2) *Onomastics:* exact Linear A / Linear B
 homographs are chance-level for two-sign words but exceed chance by an
 order of magnitude for words of three or more signs (p<0.0001 for ≥4);
 the excess concentrates in personal-name record slots and toponyms, and
-replicates across two independent digitizations of the Linear B corpus.
-Six personal-name candidates (da-i-pi-ta, i-ta-ja, ki-da-ro, pa-ra-ne,
-ta-na-ti, i-ja-te) join three toponyms (pa-i-to, se-to-i-ja, su-ki-ri-ta)
-as anchor words. (3) *Morphology:* suffix -JA and prefix A- survive
+replicates across two independent digitizations of the Linear B corpus
+(union of digitizations: six slot-confirmed name candidates vs 0.93
+expected, p=0.0004). Six personal-name candidates (da-i-pi-ta, i-ta-ja,
+ki-da-ro, pa-ra-ne, ta-na-ti, i-ja-te) join three toponyms (pa-i-to,
+se-to-i-ja, su-ki-ri-ta) as anchor words; a candidate adaptation rule —
+Linear A finals in -u/-e/-a matching Linear B slot-name forms in -o —
+survives permutation control in aggregate (p=0.0018). (3) *Morphology:* suffix -JA and prefix A- survive
 family-wise permutation control and replicate across independent archives;
 -JA marks the non-administrative register (Fisher p=0.016 within shared
 stems). A data-driven inventory of 34 two-sign "bimorphs" (elements attested
@@ -67,7 +76,12 @@ research log).
 **Comparison corpora.** Linear B: two independent digitizations — a
 Wayback-archived scholarly transliteration site (4,275 tablets parsed) and
 the open linearb.xyz dataset (5,832 documents; 4,791 word types) — plus
-the public LiBER index (5,638 tablets) as a completeness benchmark.
+the public LiBER index (5,638 tablets) as a completeness benchmark. For
+Linear A itself we additionally unpacked the public data layer of the
+SigLA palaeographic database (Salgarella & Castellan): 748 documents with
+support type, site and period, and a sign-level layer (451 documents,
+3,174 sign instances), via a purpose-built reader for its serialization
+format.
 Personal-name *record slots* are extracted structurally (word before
 VIR/MUL/livestock/AES logograms; after pa-ro; first word of KN D/B/As/V/Ap
 records; word+numeral in name-list series; word before GRA in land series).
@@ -101,11 +115,27 @@ the excess sits exclusively in toponyms and name contexts; secure Greek
 vocabulary contributes zero long matches. At the strictest level —
 record-slot confirmation — six name candidates survive (p<0.0001 on
 digitization A; independently re-found on digitization B: four
-slot-confirmed long matches vs 0.79 expected, p=0.0096, after the slot
-inventory was extended to land-tenure contexts). A consolidated anchor
-table (`anchors.tsv`) lists all 11 anchor words — 3 toponyms and 8
-name-candidates — with the full evidence chain for each; 9 of 11 carry
-slot-level confirmation in at least one digitization. Behaviourally, the Knossos-series candidates
+slot-confirmed long matches vs 0.79 expected, p=0.0096; on the union of
+both digitizations all six are slot-confirmed, 6 vs 0.93 expected,
+p=0.0004). A consolidated anchor table (`anchors.tsv`) lists all 11
+anchor words — 3 toponyms and 8 name-candidates — with the full evidence
+chain for each; 9 of 11 carry slot-level confirmation in at least one
+digitization.
+
+Beyond exact homographs, a *final-vowel adaptation rule* emerges: Linear A
+words whose final sign changes only its vowel (same consonant row) match
+Linear B slot-names 16 times vs 6.7 expected (p=0.0018), and 11 of the 16
+variants end in Linear B -o (family-controlled over the five target
+vowels, p=0.0147): di-de-ru ~ di-de-ro, qa-qa-ru ~ qa-qa-ro, pa-ja-re ~
+pa-ja-ro, se-to-i-ja ~ se-to-i-jo, su-ki-ri-ta ~ su-ki-ri-to, etc. —
+consistent with thematic (-o-stem) adaptation of Minoan names in Greek
+administration. Two honest caveats: under a stricter exclusion regime the
+name-stratum enrichment is borderline (9 vs 4.9, p=0.059) and the
+names-vs-lexicon contrast is not significant (p=0.23); and final vowels
+also alternate *within* Linear A (five internal pairs vs 1.75 expected,
+p=0.037, e.g. ta-na-te ~ ta-na-ti), with a scattered vowel inventory —
+which supports the adaptation reading of the -o pattern but shows the
+final slot is not inert inside Minoan either. Behaviourally, the Knossos-series candidates
 appear in Linear A as list entries with small integers (name-like), while
 the Pylos-matching words (da-ma-te, i-ja-te, a-ro-te) are number-free and
 vessel/stone-bound — a different phenomenon, honestly separated. The
@@ -165,6 +195,19 @@ document-initial (it tags the word it follows), and KI-RO ("deficit"),
 unlike KU-RO, shows no positional preference — consistent with a line-level
 annotation rather than a closing total.
 
+Extending the test to second and penultimate positions resolves the TE
+nuance and completes a three-slot record grammar: TE sits in *second*
+position (54% vs ~11% uniform, family-adjusted p=0.0012), as does the
+account term SA-RA2 (56%, p=0.0029; never first, never last), while KU-RO
+occupies the closing block (69% of tokens in the last two positions;
+penultimate excess family-adjusted p=0.028). First position, by contrast,
+has an *open* vocabulary: first-word repetition across documents is at
+chance (p=0.76), and the words heading TE/SA-RA2 records split into
+commodity logograms (SI, NI) and name-like hapaxes. The resulting schema —
+[open topic] [closed second-position operator] … [closing total block] —
+again has an Etruscan echo (turce "dedicated": 52% second position,
+family-adjusted p=0.004, found there after our frame predicted it).
+
 ## 6. Metrology and typology
 
 People are counted in integers (97%); grain values are covered 100% by a
@@ -179,7 +222,26 @@ and Georgian, while the remaining cluster (Sumerian, Etruscan, Anatolian,
 Basque) is not separable at current sample sizes; Etruscan shows a
 suggestive final-vowel parallel (o-poor, a-rich) at n=234.
 
-## 7. What did not survive
+## 7. External validation layers
+
+Unpacking SigLA's public data yielded two independent checks of our own
+foundations. First, *dating*: SigLA carries per-document periods (726 of
+748 documents), and the lineara.xyz source data carries a parallel
+`context` field (1,388 of 1,721) — the two layers agree on the epoch
+(MM vs LM) in 533 of 534 shared documents, with one conflict (KN Zf 13)
+and 16 phase-level differences. A first diachronic test is nevertheless
+blocked by the data themselves: period is almost functionally confounded
+with site (Phaistos/Mallia = MM, Haghia Triada/Khania/Zakros = LM IB), so
+no within-site contrast exists yet. Second, *transcriptions*: SigLA's
+sign-level tracings, converted to our sign names, agree with our corpus on
+90% of SigLA words and 84% of corpus words across 310 shared documents;
+of 41 one-sign divergences checked against the raw source, 39 confirm our
+pipeline is faithful — the residue is genuine editorial disagreement
+between the GORILA line and the tracing line (systematically: QI vs *21F,
+and PA3 confused with JA/NU), catalogued in `divergences.tsv` for
+epigraphic adjudication.
+
+## 8. What did not survive
 
 Short-word Linear A ≡ Linear B lists (including most published
 "identical word" collections) are fully explained by the positional null.
@@ -190,29 +252,42 @@ claim and the site-specificity of the formula opening were retracted after
 stricter tests; the V-like verdict for the rare sign *815 was withdrawn in
 v1.1 after a concentration audit (all occurrences in one document — a
 lesson imported from the Etruscan sibling project, where a "special
-grapheme" turned out to be a single monument's habit). Substitution tournaments for unknown-sign values are
+grapheme" turned out to be a single monument's habit). Further honest
+negatives from v1.2: the name-slot target does not constrain any unknown
+sign (zero crossword hits even with the adaptation-rule-extended target),
+and the weak Z-row candidacy of *306 is now contradicted by a weak
+vowel-row vote from the name channel — its confidence is downgraded; a
+suffix-pair complementarity test that separates stem classes in Etruscan
+hits a power wall at Linear A's lexicon size (618 types); and the
+pre-declared a→o form of the adaptation rule was not confirmed — the
+aggregate toward -o carries the signal. Substitution tournaments for unknown-sign values are
 non-resolving at current corpus sizes (a weak repeated signal: *306
 leading normalized row Z on both Linear B digitizations; *118 neighbours
 and a single crossword vote converge on row R).
 
-## 8. Reproducibility
+## 9. Reproducibility
 
 A clean-clone stress test (fresh venv) reproduces every statistic; the
-runner now covers 56 scripts. With PYTHONHASHSEED=0 pinned, all canonical
+runner now covers 70 scripts. With PYTHONHASHSEED=0 pinned, all canonical
 logs reproduce byte-for-byte (empty `git diff`). The only nondeterminism
 ever found — tie-break ordering under unpinned hash seeds — is documented
 and fixed in the run protocol. Third-party inputs are not redistributed;
-pinned fetch scripts (`tools/fetch_sources.sh`, `tools/fetch_lbxyz.sh`)
-restore them byte-identically from upstream commits.
+pinned fetch scripts (`tools/fetch_sources.sh`, `tools/fetch_lbxyz.sh`,
+`tools/fetch_sigla.sh`) restore them byte-identically from upstream
+commits (the SigLA fetch pins a SHA-256).
 
-## 9. Outlook
+## 10. Outlook
 
-Three datasets with known addresses would upgrade the framework from
+Two datasets with known addresses would upgrade the framework from
 "structure" toward "partial reading": the full edition of the Anetaki
-sceptre (slot engine ready); a complete curated Linear B corpus with
-record contexts (the value tournament and the onomasticon scale directly);
-and the SigLA palaeographic database (Salgarella & Castellan), whose
-public data layer carries per-document dating absent from our base corpus.
+sceptre (slot engine ready) and a complete curated Linear B corpus with
+record contexts (the value tournament and the onomasticon scale directly).
+The SigLA integration performed for v1.2 shows the pattern such upgrades
+follow: an external layer first cross-validates the foundations
+(transcriptions, dating), then adds a new dimension of structure. The
+divergence catalogue (QI/*21F, PA3) is a concrete, finite list an
+epigrapher could adjudicate; the adaptation rule (-u/-e/-a ↔ -o) is a
+concrete, finite prediction the Anetaki edition could test on fresh names.
 In the best case — all anchors confirmed and extended — we estimate a
 realistic ceiling of ~40–60 securely anchored words, several new sign
 values, and a grammatically annotated libation formula: the state from
