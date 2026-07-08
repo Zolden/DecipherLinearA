@@ -9,10 +9,10 @@ decipherment claims, no translations. Every claim is of the form
 is reproduced by a seeded script in this repository.
 
 **Main document: [`linear_a_full_report_v2.md`](linear_a_full_report_v2.md)**
-(sections §0–§BF; in Russian — an English preprint is in preparation).
-A popular-science summary is available in
-[English](article_popular_en.md) and [Russian](article_popular_ru.md).
-See also the [FAQ](FAQ.md) and the journal-style [preprint](preprint.md).
+(sections §0–§BP; in Russian). The journal-style English
+[preprint](preprint.md) (v1.1) condenses it; a popular-science summary is
+available in [English](article_popular_en.md) and
+[Russian](article_popular_ru.md). See also the [FAQ](FAQ.md).
 
 ## Headline results (all permutation-controlled, seed=42)
 
@@ -61,8 +61,13 @@ See also the [FAQ](FAQ.md) and the journal-style [preprint](preprint.md).
   (3694 types) and record-slot personal-name candidates (1641), derived
   from public scholarly transliterations (Killen & Olivier; Bennett) via
   archived pages of minoan.deaditerranean.com.
+- `lb2_lexicon.tsv`, `lb2_name_slots.tsv` — an independent second
+  digitization (4791 types; 1751 slot names) from the
+  [linearb.xyz](https://github.com/mwenge/linearb.xyz) dataset, used for
+  cross-replication.
 - Raw third-party source files are **not redistributed** here; run
-  `tools/fetch_sources.sh` to obtain them from the pinned upstream commit.
+  `tools/fetch_sources.sh` and `tools/fetch_lbxyz.sh` to obtain them from
+  the pinned upstream commits.
 
 ## Reproduce
 

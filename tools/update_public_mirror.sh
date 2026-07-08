@@ -16,8 +16,9 @@ git ls-files | while read -r f; do
 done
 cd "$DEST"
 git add -A
+MSG="${1:-Update from research repo}"
 git -c user.name="Zolden" -c user.email="sc2zolden@gmail.com" commit -q \
-  -m "Update: full Linear B corpus (linearb.xyz) onomasticon v6, preprint, Etruscan feasibility pilot" \
+  -m "$MSG" \
   || echo "нет изменений"
 echo "готово; для публикации: cd $DEST && git push"
 git log --oneline | head -3

@@ -1,9 +1,13 @@
 # Structure without Reading: a Reproducible Statistical Framework for Linear A
 
-**Preprint v1.0 — 2026-07-06**
-Repository: https://github.com/Zolden/DecipherLinearA — DOI: https://doi.org/10.5281/zenodo.21262275
+**Preprint v1.1 — 2026-07-08** (v1.0: 2026-07-06)
+Repository: https://github.com/Zolden/DecipherLinearA — DOI: https://doi.org/10.5281/zenodo.21262274 (all versions)
 (Full research log with all intermediate tests: `linear_a_full_report_v2.md`,
-sections §0–§BL; every number regenerates under seed=42, PYTHONHASHSEED=0.)
+sections §0–§BP; every number regenerates under seed=42, PYTHONHASHSEED=0.)
+*New in v1.1:* consolidated anchor table (11 words, `anchors.tsv`); stronger
+slot-level replication on the second Linear B digitization (p=0.0096);
+positional grammar of operator words with family-wise control (§5); one
+verdict withdrawn by a rare-sign concentration audit (*815, §7).
 
 ## Abstract
 
@@ -78,8 +82,10 @@ the consonant row at 14.3% vs ~10% null on the strict morphological sample
 by R/K/T rows. A leave-one-out calibration of the positional classifier on
 known signs reaches 89% accuracy, licensing class verdicts for signs
 without Linear B homomorphs: *301, *21F, *118, *49 pattern as CV-like;
-*312, *333, *815 as V-like; the *4XX-VS series is identified as vessel
-logograms (excluded from phonology). One anomaly is flagged: QA behaves
+*312 and *333 as V-like (a third V-like candidate, *815, was withdrawn in
+v1.1: a concentration audit found all its occurrences in a single document,
+so its profile may be one scribe's habit); the *4XX-VS series is identified
+as vessel logograms (excluded from phonology). One anomaly is flagged: QA behaves
 V-like (log10LR=+2.97) across eight sites.
 
 ## 3. The onomastic layer
@@ -93,8 +99,12 @@ Class-stratified (toponyms / name-series / secure Greek lexicon / other):
 the excess sits exclusively in toponyms and name contexts; secure Greek
 vocabulary contributes zero long matches. At the strictest level —
 record-slot confirmation — six name candidates survive (p<0.0001 on
-digitization A; independently re-found on digitization B, p=0.042 with a
-narrower slot extractor). Behaviourally, the Knossos-series candidates
+digitization A; independently re-found on digitization B: four
+slot-confirmed long matches vs 0.79 expected, p=0.0096, after the slot
+inventory was extended to land-tenure contexts). A consolidated anchor
+table (`anchors.tsv`) lists all 11 anchor words — 3 toponyms and 8
+name-candidates — with the full evidence chain for each; 9 of 11 carry
+slot-level confirmation in at least one digitization. Behaviourally, the Knossos-series candidates
 appear in Linear A as list entries with small integers (name-like), while
 the Pylos-matching words (da-ma-te, i-ja-te, a-ro-te) are number-free and
 vessel/stone-bound — a different phenomenon, honestly separated. The
@@ -140,6 +150,20 @@ readings stands ready for the 119-sign Anetaki ivory sceptre (Kanta,
 Nakassis, Palaima & Perna 2025), whose ring layout the editors themselves
 compare to a libation table.
 
+The operator vocabulary also has a *positional grammar*. Testing each
+operator against a uniform within-document position null (367 documents
+with ≥2 words; Westfall–Young family-wise control over 16 tests): the
+total KU-RO is final far above chance (39% vs 8% initial, family-adjusted
+p=0.008), while the header operator A-DU (67% initial, p=0.005) and the
+libation-formula opening A-TA-I-*301-WA-JA (100% initial, p=0.0001) are
+initial. The same polarity — deictic/header elements initial, predicate-like
+elements final — was independently found in Etruscan by our sibling project
+(github.com/Zolden/DecipherEtruscan), where the hypothesis originated;
+Linear A confirmed it out-of-sample. Two honest nuances: TE is *not*
+document-initial (it tags the word it follows), and KI-RO ("deficit"),
+unlike KU-RO, shows no positional preference — consistent with a line-level
+annotation rather than a closing total.
+
 ## 6. Metrology and typology
 
 People are counted in integers (97%); grain values are covered 100% by a
@@ -162,25 +186,32 @@ The HT 118 "transaction sign" pattern does not generalize (commodity
 columns P=0.105; syllabograms P=0.052 with trivial hits). Scribal identity
 does not explain spelling variants. An early "complementary distribution"
 claim and the site-specificity of the formula opening were retracted after
-stricter tests. Substitution tournaments for unknown-sign values are
+stricter tests; the V-like verdict for the rare sign *815 was withdrawn in
+v1.1 after a concentration audit (all occurrences in one document — a
+lesson imported from the Etruscan sibling project, where a "special
+grapheme" turned out to be a single monument's habit). Substitution tournaments for unknown-sign values are
 non-resolving at current corpus sizes (a weak repeated signal: *306
 leading normalized row Z on both Linear B digitizations; *118 neighbours
 and a single crossword vote converge on row R).
 
 ## 8. Reproducibility
 
-A clean-clone stress test (fresh venv, 47 scripts) reproduces every
-statistic; with PYTHONHASHSEED=0 pinned, all canonical logs reproduce
-byte-for-byte (empty `git diff`). The only nondeterminism ever found —
-tie-break ordering under unpinned hash seeds — is documented and fixed in
-the run protocol.
+A clean-clone stress test (fresh venv) reproduces every statistic; the
+runner now covers 56 scripts. With PYTHONHASHSEED=0 pinned, all canonical
+logs reproduce byte-for-byte (empty `git diff`). The only nondeterminism
+ever found — tie-break ordering under unpinned hash seeds — is documented
+and fixed in the run protocol. Third-party inputs are not redistributed;
+pinned fetch scripts (`tools/fetch_sources.sh`, `tools/fetch_lbxyz.sh`)
+restore them byte-identically from upstream commits.
 
 ## 9. Outlook
 
-Two datasets with known addresses would upgrade the framework from
+Three datasets with known addresses would upgrade the framework from
 "structure" toward "partial reading": the full edition of the Anetaki
-sceptre (slot engine ready) and a complete curated Linear B corpus with
-record contexts (the value tournament and the onomasticon scale directly).
+sceptre (slot engine ready); a complete curated Linear B corpus with
+record contexts (the value tournament and the onomasticon scale directly);
+and the SigLA palaeographic database (Salgarella & Castellan), whose
+public data layer carries per-document dating absent from our base corpus.
 In the best case — all anchors confirmed and extended — we estimate a
 realistic ceiling of ~40–60 securely anchored words, several new sign
 values, and a grammatically annotated libation formula: the state from
@@ -191,5 +222,6 @@ which Linear B's final assault was launched.
 GORILA (Godart & Olivier); J. Younger's Linear A texts; G. Douros's
 tabulation; lineara.xyz and linearb.xyz open datasets (R. Mwenge);
 Killen & Olivier's Knossos transliterations; LiBER (Del Freo &
-Di Filippo); Kanta, Nakassis, Palaima & Perna (Ariadne Suppl. 5). See
-DATA_SOURCES.md for the takedown policy. All errors are ours.
+Di Filippo); SigLA (Salgarella & Castellan); Kanta, Nakassis, Palaima &
+Perna (Ariadne Suppl. 5). See DATA_SOURCES.md for the takedown policy.
+All errors are ours.

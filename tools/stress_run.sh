@@ -61,5 +61,17 @@ run analyze_slot2_lb.py slot2_lb.log
 run analyze_operators.py operators.log
 run analyze_cm.py cm.log
 run formula_template.py formula_template.log
+# этапы 13–16. Вне ростера: typology_families*/lb-парсеры (сетевые кэши);
+# analyze_onomasticon6.py читает lb2_*.tsv — их детерминированно восстанавливает
+# parse_lbxyz.py из кэша .lbxyz_cache.js (tools/fetch_lbxyz.sh, pin 84e0b00e)
+run analyze_slot1.py slot1.log
+run analyze_aromatics.py aromatics.log
+run analyze_bimorphs.py bimorphs.log
+run analyze_onomasticon6.py onomasticon6.log
+run analyze_morphotactics.py morphotactics.log
+run analyze_cult_bridge.py cult_bridge.log
+run analyze_anchors.py anchors.log
+run analyze_operator_typology.py operator_typology.log
+run analyze_rare_signs.py rare_signs.log
 echo "FAIL=$FAIL"
 echo STRESS_DONE
