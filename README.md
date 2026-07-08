@@ -11,7 +11,7 @@ is reproduced by a seeded script in this repository.
 (sections §0–§BF; in Russian — an English preprint is in preparation).
 A popular-science summary is available in
 [English](article_popular_en.md) and [Russian](article_popular_ru.md).
-See also the [FAQ](FAQ.md).
+See also the [FAQ](FAQ.md) and the journal-style [preprint](preprint.md).
 
 ## Headline results (all permutation-controlled, seed=42)
 
