@@ -1,7 +1,7 @@
 # Structure without Reading: a Reproducible Statistical Framework for Linear A
 
 **Preprint v1.0 — 2026-07-06**
-Repository: https://github.com/Zolden/DecipherLinearA
+Repository: https://github.com/Zolden/DecipherLinearA — DOI: https://doi.org/10.5281/zenodo.21262275
 (Full research log with all intermediate tests: `linear_a_full_report_v2.md`,
 sections §0–§BL; every number regenerates under seed=42, PYTHONHASHSEED=0.)
 

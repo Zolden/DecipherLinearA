@@ -68,9 +68,27 @@ for key, rec in docs.items():
             lex_sites[tok].add(site)
             lex_docs[tok].add(label)
             if tok in GREEK or tok in TOPON: continue
-            nxt = tw[i + 1] if i + 1 < len(tw) else ''
-            nxt2 = tw[i + 2] if i + 2 < len(tw) else ''
-            prv = tw[i - 1] if i > 0 else ''
+            # скобки/лакуны прозрачны для смежности
+            def nx(k):
+                j = i + 1; seen = 0
+                while j < len(tw):
+                    t = tw[j]
+                    if isinstance(t, str) and t in ('[', ']', ']vest.', 'vest.'):
+                        j += 1; continue
+                    if seen == k: return t
+                    seen += 1; j += 1
+                return ''
+            def pv():
+                j = i - 1
+                while j >= 0:
+                    t = tw[j]
+                    if isinstance(t, str) and t in ('[', ']'):
+                        j -= 1; continue
+                    return t
+                return ''
+            nxt = nx(0)
+            nxt2 = nx(1)
+            prv = pv()
             if isinstance(nxt, str) and PEOPLE_LOGO.match(nxt):
                 slots[tok]['N1'].add(label)
             elif isinstance(nxt2, str) and isinstance(nxt, str) \
@@ -88,6 +106,9 @@ for key, rec in docs.items():
             if isinstance(nxt, str) and nxt.startswith('GRA') \
                     and GRA_SERIES.match(label):
                 slots[tok]['N7'].add(label)
+            # N4: слово перед e-ke / e-ke-qe / o-na-to (землевладельцы)
+            if nxt in ('e-ke', 'e-ke-qe', 'o-na-to'):
+                slots[tok]['N4'].add(label)
 
 print(f'лексикон: {len(lex)} типов, {sum(lex.values())} токенов')
 with open('lb2_lexicon.tsv', 'w', encoding='utf-8') as f:

@@ -1,4 +1,5 @@
 # Linear A: a reproducible statistical framework
+[![DOI](https://zenodo.org/badge/1291534873.svg)](https://doi.org/10.5281/zenodo.21262274)
 ### Kober-style combinatorics for an undeciphered Aegean script
 
 This project analyses the Linear A corpus (Minoan Crete, ~1800–1450 BCE)
@@ -90,6 +91,8 @@ ones; two of our own early claims were retracted by later tests (§AF, §BG).
 
 ## Citing / contact
 
-If you use this repository, please cite it and the underlying editions
-(GORILA; Younger; Douros; lineara.xyz; Killen & Olivier). Issues and
-questions: open a GitHub issue.
+Cite as: Zolden & Claude (2026). *Linear A: a reproducible statistical
+framework.* Zenodo. https://doi.org/10.5281/zenodo.21262275
+(concept DOI for all versions: 10.5281/zenodo.21262274) — and please cite
+the underlying editions (GORILA; Younger; Douros; lineara.xyz;
+Killen & Olivier). Issues and questions: open a GitHub issue.

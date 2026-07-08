@@ -1,0 +1,44 @@
+якорь        класс       lb2  слот v5          слот v7     LA-документы
+pa-i-to      TOP         да   —                —           HT120,HT97a
+se-to-i-ja   TOP         да   —                —           PRZa1
+su-ki-ri-ta  TOP         да   —                —           PHWa32
+da-i-pi-ta   NAME        да   N6 (KN B 799)    —           ZA10a,ZA8
+i-ta-ja      NAME        да   N1 (KN Ap 769)   N1          HT28a
+ki-da-ro     NAME        да   N7 (KN E 842)    N7          HT117a,HT47a
+pa-ra-ne     NAME        да   N5 (KN Vc)       N5,N6       HT115a,HT115b
+ta-na-ti     NAME        да   N5 (KN Uf)       —           HT10b,HT49a,HT7a,HT98a
+i-ja-te      NAME        да   N4 (PY Eq)       N4          PHZb4
+da-ma-te     OTHER/NAME  да   —                —           KYZa2
+a-ro-te      OTHER       да   —                —           CRZg4
+
+anchors.tsv записан
+
+=== кроссворд v2 (lb2): голосов 19 ===
+*350: 6 голосов {'wo': 1, 'qe': 1, 'ra': 1, 'o': 1, 'no': 1, 'ro': 1}
+     wo    A-TA-*350                == a-ta-wo           [СЛОТ-ИМЯ]
+     qe    A-TA-*350                == a-ta-qe           [СЛОТ-ИМЯ]
+     ra    A-TA-*350                == a-ta-ra           
+     o     A-TA-*350                == a-ta-o            [СЛОТ-ИМЯ]
+     no    A-TA-*350                == a-ta-no           [СЛОТ-ИМЯ]
+*34: 4 голосов {'ru': 1, 'ri': 1, 'wa': 1, 'te': 1}
+     ru    PI-*34-TE                == pi-ru-te          [СЛОТ-ИМЯ]
+     ri    PI-*34-TE                == pi-ri-te          
+     wa    U-*34-SI                 == u-wa-si           
+     te    U-*34-SI                 == u-te-si           
+*314: 2 голосов {'ti': 1, 'qa': 1}
+     ti    *314-TA-MA               == ti-ta-ma          
+     qa    RA-*314-RA               == ra-qa-ra          
+*301: 1 голосов {'ko': 1}
+     ko    *301-U-RA                == ko-u-ra           
+*309C: 1 голосов {'ku': 1}
+     ku    *309C-RU-KA              == ku-ru-ka          
+*324: 1 голосов {'pe': 1}
+     pe    *324-DI-RA               == pe-di-ra          
+*810: 1 голосов {'e': 1}
+     e     *810-PI-KA               == e-pi-ka           
+*325: 1 голосов {'ro': 1}
+     ro    A-*325-ZA                == a-ro-za           
+*49: 1 голосов {'ta': 1}
+     ta    DA-U-*49                 == da-u-ta           [СЛОТ-ИМЯ]
+*342: 1 голосов {'de': 1}
+     de    PA-*342-I                == pa-de-i           
