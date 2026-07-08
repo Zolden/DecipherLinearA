@@ -1,0 +1,4 @@
+документов corpus.pkl: 1721
+эпоха-консенсус: {'LM': 1442, '—': 181, 'MM': 96, 'CONFLICT': 1, 'MH': 1}
+конфликты: [('KNZf13', 'LMIA', 'MMIII', 'CONFLICT')]
+dating.tsv записан (сайдкар-слой; corpus.pkl не тронут)

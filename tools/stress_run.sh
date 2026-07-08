@@ -95,5 +95,10 @@ run analyze_crossword4.py crossword4.log
 # восстановимый tools/fetch_sources.sh)
 run analyze_o_rule_strata.py o_rule_strata.log
 run analyze_internal_alternation.py internal_alternation.log
+# этап 21 (parse_dating.py и analyze_divergence_residue.py вне ростера:
+# читают corpus_raw.json; их выходы dating.tsv/логи закоммичены;
+# analyze_pairs_deep.py читает dating.tsv)
+run analyze_pairs_deep.py pairs_deep.log
+run analyze_kober_grid2.py kober_grid2.log
 echo "FAIL=$FAIL"
 echo STRESS_DONE

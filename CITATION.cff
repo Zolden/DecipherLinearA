@@ -6,12 +6,15 @@ authors:
   - name: "Claude (Anthropic)"
 type: software
 repository-code: "https://github.com/Zolden/DecipherLinearA"
-doi: 10.5281/zenodo.21264336
-version: v1.1
+doi: 10.5281/zenodo.21266454
+version: v1.2
 identifiers:
   - type: doi
     value: 10.5281/zenodo.21262274
     description: "Concept DOI (all versions)"
+  - type: doi
+    value: 10.5281/zenodo.21264336
+    description: "Version DOI v1.1"
   - type: doi
     value: 10.5281/zenodo.21262275
     description: "Version DOI v1.0"

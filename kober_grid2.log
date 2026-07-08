@@ -1,0 +1,77 @@
+многофинальных основ: 29
+   A-TA             + {*350, DE, RE}
+   I-DA             + {A, DA, MI}
+   KU-PA            + {JA, RI, ZU}
+   SI-DA            + {RE, RO, TE}
+   A-DA             + {RA, RO}
+   A-MI-DA          + {O, U}
+   A-RA             + {JU, TU}
+   A-RI             + {PA, SU}
+   A-TA-I-*301-WA   + {E, JA}
+   A-TA-NA          + {JE, TE}
+   DA-NA            + {SI, TU}
+   DA-TA            + {RA, RE}
+   DI-NA            + {RO, U}
+   JA-SA            + {JA, MU}
+   KI-DA            + {RO, TA}
+   KI-RE            + {TA2, ZA}
+   KI-RI            + {SI, TA2}
+   KU-NI            + {SU, TE}
+   KU-PA3           + {NU, PA3}
+   KU-RU            + {KU, MA}
+   MA-KA-I          + {SE, TA}
+   MI-DA            + {NI, RA}
+   PA3-NI           + {NA, WI}
+   PI-TA            + {JA, RA}
+   QA-QA            + {DA, RU}
+   QA-TI            + {JU, KI}
+   SI-KI            + {NE, RA}
+   TA-NA            + {TE, TI}
+   TI-TI            + {KU, MA}
+нуль: 19.7±3.5, p=0.0071
+
+пары финалей с общими основами (вес >=1):
+   KU   ~ MA    вес 2  [KU-RU; TI-TI]
+   RA   ~ RO    вес 1  [A-DA]
+   O    ~ U     вес 1  [A-MI-DA]
+   JU   ~ TU    вес 1  [A-RA]
+   PA   ~ SU    вес 1  [A-RI]
+   *350 ~ DE    вес 1  [A-TA]
+   *350 ~ RE    вес 1  [A-TA]
+   DE   ~ RE    вес 1  [A-TA]
+   E    ~ JA    вес 1  [A-TA-I-*301-WA]
+   JE   ~ TE    вес 1  [A-TA-NA]
+   SI   ~ TU    вес 1  [DA-NA]
+   RA   ~ RE    вес 1  [DA-TA]
+   RO   ~ U     вес 1  [DI-NA]
+   A    ~ DA    вес 1  [I-DA]
+   A    ~ MI    вес 1  [I-DA]
+   DA   ~ MI    вес 1  [I-DA]
+   JA   ~ MU    вес 1  [JA-SA]
+   RO   ~ TA    вес 1  [KI-DA]
+   TA2  ~ ZA    вес 1  [KI-RE]
+   SI   ~ TA2   вес 1  [KI-RI]
+   SU   ~ TE    вес 1  [KU-NI]
+   JA   ~ RI    вес 1  [KU-PA]
+   JA   ~ ZU    вес 1  [KU-PA]
+   RI   ~ ZU    вес 1  [KU-PA]
+   NU   ~ PA3   вес 1  [KU-PA3]
+   SE   ~ TA    вес 1  [MA-KA-I]
+   NI   ~ RA    вес 1  [MI-DA]
+   NA   ~ WI    вес 1  [PA3-NI]
+   JA   ~ RA    вес 1  [PI-TA]
+   DA   ~ RU    вес 1  [QA-QA]
+   JU   ~ KI    вес 1  [QA-TI]
+   RE   ~ RO    вес 1  [SI-DA]
+   RE   ~ TE    вес 1  [SI-DA]
+   RO   ~ TE    вес 1  [SI-DA]
+   NE   ~ RA    вес 1  [SI-KI]
+   TE   ~ TI    вес 1  [TA-NA]
+
+компоненты финалей (рёбра веса >=2) — кандидаты класса окончаний:
+   {KU, MA}
+
+Чтение: p разведочное; «класс окончаний» здесь — строго комбинаторный
+объект (финали, систематически делящие основы), связь с падежами/родами —
+лишь возможная интерпретация при подтверждении на большем корпусе.
+Сопоставить с §C (чередования делят согласную) и §CE (гласные пары).
