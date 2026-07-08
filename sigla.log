@@ -1,0 +1,14 @@
+кэш: 2516528 симв.; sha256: cc624f148fd84c94fd2910b0adf92ecace25f52f9175664122bdf8384a8f1b9d
+signs: 15405 байт
+  объектов: 2535 (заявлено 2535), байт прочитано 15385/15385
+data: 487889 байт
+  объектов: 56734 (заявлено 56734), байт прочитано 487869/487869
+
+знаковая таблица: 376 кодов (AB с чтением: 0); примеры: []
+
+документов: 748; с периодом: 726; с сайтом: 748
+типы носителей: [('Tablet', 436), ('Nodule', 139), ('Roundel', 136), ('Sealing', 7), ('Pithos', 6), ('Libation Table', 4), ('Sherd', 4), ('Graffiti', 3), ('Libation table', 2), ('Cup', 2), ('Label', 1), ('Metal engraving', 1)]
+сайты: [('Haghia Triada', 340), ('Khania', 207), ('Phaistos', 63), ('Zakros', 44), ('Knossos', 33), ('Mallia', 18), ('Arkhanes', 10), ('Thera', 7), ('Kea', 5), ('Tylissos', 3), ('Petras', 3), ('Pyrgos', 2)]
+периоды: [('LM IB', 595), ('MM IIB', 34), ('MM IIIB', 28), ('', 22), ('MM II', 18), ('LM IA', 17), ('LM I', 17), ('MM III', 3), ('LM I general', 2), ('LM IA?', 2), ('MM III?', 2), ('LM II', 2), ('LM IB-II', 2), ('MM IIIA', 1), ('MM III-LM IA', 1), ('MM IIA', 1)]
+неклассифицированные строки (top): [('missing', 4), ('n/a', 1)]
+sigla_docs.tsv записан

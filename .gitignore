@@ -3,3 +3,4 @@ __pycache__/
 *.pyc
 .claude/
 .lbxyz_cache.js
+.sigla_cache.js

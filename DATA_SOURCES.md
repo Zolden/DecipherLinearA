@@ -37,6 +37,24 @@ digitized the Aegean corpora. Nothing here would exist without them.
   findspots, dating) of [LiBER](https://liber.cnr.it) (M. Del Freo &
   F. Di Filippo, CNR), saved as a completeness benchmark. Transliterations
   are NOT included.
+- `lb2_lexicon.tsv` / `lb2_name_slots.tsv` — word-level indexes derived
+  from the open [linearb.xyz](https://github.com/mwenge/linearb.xyz)
+  dataset (R. Mwenge), used as an independent second digitization. The
+  raw source file is not redistributed; `tools/fetch_lbxyz.sh` restores
+  it from the pinned upstream commit.
+
+## SigLA (Linear A palaeography and dating)
+
+- **Source**: [SigLA](https://sigla.phis.me) — *The signs of Linear A: a
+  palaeographical database* by Ester Salgarella (text) & Simon Castellan
+  (engine). Its public data layer (`database.js`) is fetched — not
+  redistributed — by `tools/fetch_sigla.sh` into a gitignored cache
+  (SHA-256 pinned in the script).
+- **What we ship**: `sigla_docs.tsv` — a document-level metadata index
+  (inscription ID, support type, site, period, source URL) extracted by
+  `parse_sigla.py`, used solely to add a dating layer to our corpus.
+  Sign tracings and palaeographic content are NOT included. Please cite
+  SigLA (Salgarella & Castellan) whenever this layer is used.
 
 ## Reference lists
 

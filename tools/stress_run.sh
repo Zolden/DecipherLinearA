@@ -73,5 +73,13 @@ run analyze_cult_bridge.py cult_bridge.log
 run analyze_anchors.py anchors.log
 run analyze_operator_typology.py operator_typology.log
 run analyze_rare_signs.py rare_signs.log
+# этап 17. parse_sigla.py вне ростера (кэш .sigla_cache.js гитигнорен,
+# восстанавливается tools/fetch_sigla.sh); analyze_diachrony.py читает
+# его закоммиченный выход sigla_docs.tsv
+run analyze_diachrony.py diachrony.log
+run analyze_record_syntax.py record_syntax.log
+run analyze_crossword3.py crossword3.log
+run analyze_onomasticon8.py onomasticon8.log
+run analyze_suffix_complementarity.py suffix_complementarity.log
 echo "FAIL=$FAIL"
 echo STRESS_DONE

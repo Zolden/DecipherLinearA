@@ -6,10 +6,14 @@ authors:
   - name: "Claude (Anthropic)"
 type: software
 repository-code: "https://github.com/Zolden/DecipherLinearA"
-doi: 10.5281/zenodo.21262275
+doi: 10.5281/zenodo.21264336
+version: v1.1
 identifiers:
   - type: doi
     value: 10.5281/zenodo.21262274
     description: "Concept DOI (all versions)"
+  - type: doi
+    value: 10.5281/zenodo.21262275
+    description: "Version DOI v1.0"
 license: MIT
-date-released: 2026-07-06
+date-released: 2026-07-08

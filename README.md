@@ -9,7 +9,7 @@ decipherment claims, no translations. Every claim is of the form
 is reproduced by a seeded script in this repository.
 
 **Main document: [`linear_a_full_report_v2.md`](linear_a_full_report_v2.md)**
-(sections §0–§BP; in Russian). The journal-style English
+(sections §0–§BU; in Russian). The journal-style English
 [preprint](preprint.md) (v1.1) condenses it; a popular-science summary is
 available in [English](article_popular_en.md) and
 [Russian](article_popular_ru.md). See also the [FAQ](FAQ.md).
@@ -65,9 +65,13 @@ available in [English](article_popular_en.md) and
   digitization (4791 types; 1751 slot names) from the
   [linearb.xyz](https://github.com/mwenge/linearb.xyz) dataset, used for
   cross-replication.
+- `sigla_docs.tsv` — document-level dating/metadata layer (687 corpus
+  documents get an MM/LM period) extracted from the public data of
+  [SigLA](https://sigla.phis.me) (Salgarella & Castellan) by our OCaml
+  Marshal reader (`parse_sigla.py`).
 - Raw third-party source files are **not redistributed** here; run
-  `tools/fetch_sources.sh` and `tools/fetch_lbxyz.sh` to obtain them from
-  the pinned upstream commits.
+  `tools/fetch_sources.sh`, `tools/fetch_lbxyz.sh` and
+  `tools/fetch_sigla.sh` to obtain them from the pinned upstream commits.
 
 ## Reproduce
 
@@ -97,7 +101,7 @@ ones; two of our own early claims were retracted by later tests (§AF, §BG).
 ## Citing / contact
 
 Cite as: Zolden & Claude (2026). *Linear A: a reproducible statistical
-framework.* Zenodo. https://doi.org/10.5281/zenodo.21262275
+framework.* v1.1. Zenodo. https://doi.org/10.5281/zenodo.21264336
 (concept DOI for all versions: 10.5281/zenodo.21262274) — and please cite
 the underlying editions (GORILA; Younger; Douros; lineara.xyz;
 Killen & Olivier). Issues and questions: open a GitHub issue.
