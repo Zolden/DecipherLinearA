@@ -81,5 +81,10 @@ run analyze_record_syntax.py record_syntax.log
 run analyze_crossword3.py crossword3.log
 run analyze_onomasticon8.py onomasticon8.log
 run analyze_suffix_complementarity.py suffix_complementarity.log
+# этап 18. parse_sigla_signs.py вне ростера (кэш .sigla_cache.js);
+# analyze_formula_dated.py читает закоммиченный sigla_docs.tsv
+run analyze_headers.py headers.log
+run analyze_onomasticon9.py onomasticon9.log
+run analyze_formula_dated.py formula_dated.log
 echo "FAIL=$FAIL"
 echo STRESS_DONE
