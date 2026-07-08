@@ -164,7 +164,8 @@ with open('sigla_signs.tsv', 'w', encoding='utf-8') as f:
 print('sigla_signs.tsv записан')
 
 # --- кросс-валидация с corpus.pkl
-SUBSCRIPT = {56: 'PA3', 66: 'TA2', 76: 'RA2', 68: 'RO2', 118: '*118'}
+SUBSCRIPT = {56: 'PA3', 66: 'TA2', 76: 'RA2', 68: 'RO2', 79: 'ZU',
+             118: '*118'}                  # 79: в таблице SigLA нет чтения
 def code_to_our(code, reading):
     if code.startswith('AB'):
         n = int(code[2:])

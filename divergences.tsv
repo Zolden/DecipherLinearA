@@ -1,16 +1,14 @@
 doc	side	word	class	match
+ARKH2	SigLA	ZU-*301-SE-DE-QI-*118	чтение-1	('ZU', '*301', 'SE', 'DE', '*21F', '*118')
 ARKH2	corpus	KU-RA	прочее	
-ARKH2	corpus	ZU-*301-SE-DE-*21F-*118	прочее	
+ARKH2	corpus	ZU-*301-SE-DE-*21F-*118	чтение-1	('ZU', '*301', 'SE', 'DE', 'QI', '*118')
 ARKH4a	SigLA	A-JU	прочее	
 ARKH4a	corpus	DE-SU	прочее	
 ARKH4a	corpus	*47-TE	прочее	
 ARKH4b	corpus	I-*47	прочее	
-ARKH4b	corpus	ZA-SI-ZU	прочее	
 ARKH6	corpus	TE-RI	прочее	
-HT1	corpus	ZU-SU	прочее	
 HT101	corpus	ZU-*22F-DI	прочее	
 HT101	corpus	KU-PA3	прочее	
-HT102	corpus	MA-ZU	прочее	
 HT103	SigLA	PA3-DA-KU-SE-NE	край±1	('DA', 'KU', 'SE', 'NE')
 HT108	SigLA	RA2-TI-JU	край±1	('RA2', 'TI')
 HT108	corpus	RA2-TI	край±1	('RA2', 'TI', 'JU')
@@ -28,7 +26,6 @@ HT117a	corpus	TE-JA-RE	чтение-1	('TE', 'PA3', 'RE')
 HT117b	SigLA	QI-TU-NE	чтение-1	('*21F', 'TU', 'NE')
 HT117b	corpus	*21F-TU-NE	чтение-1	('QI', 'TU', 'NE')
 HT11b	corpus	*86-KA	прочее	
-HT11b	corpus	RU-ZU-NA	прочее	
 HT120	corpus	DA-U-*49	прочее	
 HT122a	SigLA	PA-RI-NE	чтение-1	('PA', 'TA', 'NE')
 HT122a	corpus	PA-TA-NE	чтение-1	('PA', 'RI', 'NE')
@@ -39,7 +36,6 @@ HT129	SigLA	TU-RU-TA2	прочее
 HT129	SigLA	TU-QI-RI-NA	чтение-1	('TU', '*21F', 'RI', 'NA')
 HT129	corpus	KI-RE-TA2	прочее	
 HT129	corpus	TU-*21F-RI-NA	чтение-1	('TU', 'QI', 'RI', 'NA')
-HT13	corpus	KU-ZU-NI	прочее	
 HT130	corpus	KU-RO	прочее	
 HT135a	SigLA	NA-QI-NE	чтение-1	('NA', '*21F', 'NE')
 HT135a	corpus	NA-*21F-NE	чтение-1	('NA', 'QI', 'NE')
@@ -59,12 +55,12 @@ HT24a	corpus	KI-MA-RU	прочее
 HT24a	corpus	MA-RU-ME	прочее	
 HT24a	corpus	MA-RU-ME	прочее	
 HT24a	corpus	MA-RU-ME	прочее	
-HT25a	corpus	ZU-JU-PU2	прочее	
+HT25a	SigLA	ZU-JU-PU	чтение-1	('ZU', 'JU', 'PU2')
+HT25a	corpus	ZU-JU-PU2	чтение-1	('ZU', 'JU', 'PU')
 HT26a	SigLA	U-NU-QI	чтение-1	('U', 'NU', '*21F')
 HT26a	corpus	U-NU-*21F	чтение-1	('U', 'NU', 'QI')
 HT26b	SigLA	PA-RO-NI	край±1	('RO', 'NI')
 HT26b	corpus	RO-NI	край±1	('PA', 'RO', 'NI')
-HT26b	corpus	KA-U-ZU-NI	прочее	
 HT26b	corpus	*188-*86	прочее	
 HT28a	SigLA	JA-QI	чтение-1	('JA', '*21F')
 HT28a	corpus	JA-*21F	чтение-1	('JA', 'QI')
@@ -84,13 +80,11 @@ HT31	corpus	*415-VS-SU-PU	прочее
 HT31	corpus	*416-VS-KA-RO-PA3	прочее	
 HT31	corpus	*815-SU-PA3-RA	край±1	('SU', 'PA3', 'RA')
 HT31	corpus	*815-PA-TA-QE	край±1	('PA', 'TA', 'QE')
-HT36	corpus	DU-ZU-WA	прочее	
 HT37	SigLA	A-NA	прочее	
 HT38	corpus	*403-VS	прочее	
 HT38	corpus	*554-*118	прочее	
 HT49a	SigLA	TU-SU-PU	чтение-1	('TU', 'SU', 'PU2')
 HT49a	corpus	TU-SU-PU2	чтение-1	('TU', 'SU', 'PU')
-HT51b	corpus	ZU-DU	прочее	
 HT52a	SigLA	DI-KA-TU	чтение-1	('DI', 'KA', 'KI')
 HT52a	corpus	DI-KA-KI	чтение-1	('DI', 'KA', 'TU')
 HT54a	SigLA	MI-RA2	край±1	('KI', 'MI', 'RA2')
@@ -100,7 +94,6 @@ HT62+73	SigLA	I-TI	чтение-1	('*28B', 'TI')
 HT62+73	corpus	*28B-TI	чтение-1	('I', 'TI')
 HT63	SigLA	SU-PU	чтение-1	('SU', 'PU2')
 HT63	corpus	SU-PU2	чтение-1	('SU', 'PU')
-HT64	corpus	KU-ZU-NA	прочее	
 HT6b	SigLA	MA-RI-I	прочее	
 HT6b	SigLA	DU-KI	чтение-1	('DA', 'KI')
 HT6b	corpus	MA-RI-RE-I	прочее	
@@ -109,7 +102,6 @@ HT7b	SigLA	QI-TU-NE	чтение-1	('*21F', 'TU', 'NE')
 HT7b	corpus	*21F-TU-NE	чтение-1	('QI', 'TU', 'NE')
 HT84	SigLA	QI-JA-DU	чтение-1	('*21F', 'JA', 'DU')
 HT84	corpus	*21F-JA-DU	чтение-1	('QI', 'JA', 'DU')
-HT85a	corpus	KU-ZU-NI	прочее	
 HT87	SigLA	QI-TU-NE	чтение-1	('*21F', 'TU', 'NE')
 HT87	SigLA	A-RA-A-TU	сегментация	(('A', 'RA'), ('A', 'TU'))
 HT87	corpus	*21F-TU-NE	чтение-1	('QI', 'TU', 'NE')
@@ -135,7 +127,6 @@ HT96a	corpus	TE-NI	прочее
 HT97a	SigLA	NA-TI-MA-DI	сегментация	(('NA', 'TI'), ('MA', 'DI'))
 HT97a	corpus	NA-TI	чтение-1	('TA', 'TI')
 HT97a	corpus	MA-DI	сегментация	('NA', 'TI', 'MA', 'DI')
-HT99b	corpus	ZU-DU	прочее	
 HT9a	SigLA	A-RU-KU-RO	сегментация	(('A', 'RU'), ('KU', 'RO'))
 HT9a	corpus	A-RU	сегментация	('A', 'RU', 'KU', 'RO')
 HT9a	corpus	KU-RO	чтение-1	('SA', 'RO')
@@ -148,7 +139,6 @@ KH105	SigLA	KI-TI	край±1	('DE', 'KI', 'TI')
 KH105	corpus	DE-KI-TI	край±1	('KI', 'TI')
 KH11	SigLA	A-DU-ZA	край±1	('A', 'DU')
 KH11	corpus	A-DU	край±1	('A', 'DU', 'ZA')
-KH5	corpus	KU-PA-ZU	прочее	
 KH74	corpus	SI-*805-MI	прочее	
 KH7a	SigLA	KU-KO-E	край±1	('KO', 'E')
 KH7a	corpus	KO-E	край±1	('KU', 'KO', 'E')
@@ -162,11 +152,9 @@ KN22c	SigLA	MA-SU-MI-NA	край±1	('MA', 'SU', 'MI')
 KN22c	corpus	MA-SU-MI	край±1	('MA', 'SU', 'MI', 'NA')
 KNZc6	SigLA	A-DI-DA-KI-TI-PA-KU	сегментация	('*34', 'TI', 'RI', 'A', 'DI', 'DA', 'KI', 'TI', 'PA', 'KU')
 KNZc6	corpus	*34-TI-RI-A-DI-DA-KI-TI-PA-KU	прочее	
-KNZc6	corpus	JU-KU-NA-PA-KU-NU-U-I-ZU	прочее	
 KNZc7	SigLA	A-KA-NU-ZE-TI	чтение-1	('A', 'KA', 'NU', 'ZA', 'TI')
 KNZc7	SigLA	JA-SA-RA-A-NA-NE-WI-PI	сегментация	(('JA', 'SA', 'RA', 'A', 'NA', 'NE'), ('WI', 'PI'))
 KNZc7	corpus	A-KA-NU-ZA-TI	чтение-1	('A', 'KA', 'NU', 'ZE', 'TI')
-KNZc7	corpus	A-ZU-RA	прочее	
 KNZc7	corpus	JA-SA-RA-A-NA-NE	сегментация	('JA', 'SA', 'RA', 'A', 'NA', 'NE', 'WI', 'PI')
 KNZc7	corpus	WI-PI	сегментация	('JA', 'SA', 'RA', 'A', 'NA', 'NE', 'WI', 'PI')
 MA1a	SigLA	I-DU-WI	край±1	('*903', 'I', 'DU', 'WI')
@@ -187,7 +175,6 @@ PH31a	corpus	AU-SI-RE	прочее
 PH31b	corpus	NE-*22M	прочее	
 PH31b	corpus	AU-SI-RE	прочее	
 PH54	SigLA	DU-TI	прочее	
-PH6	corpus	I-ZU-RI-NI-TA	прочее	
 PHWa32	SigLA	SU-KI-RA-TA	чтение-1	('SU', 'KI', 'RI', 'TA')
 PHWa32	corpus	SU-KI-RI-TA	чтение-1	('SU', 'KI', 'RA', 'TA')
 PSZa2	SigLA	JA-TI	прочее	
@@ -201,7 +188,6 @@ TY2	corpus	*309C-RU-KA	прочее
 TY2	corpus	*309B-RI-JU	чтение-1	('*309', 'RI', 'JU')
 TY3a	corpus	NE-KI	прочее	
 TY3b	SigLA	PA-MI	прочее	
-TY3b	corpus	PI-KU-ZU	прочее	
 ZA10b	corpus	U-*49	прочее	
 ZA14	SigLA	QI-*118	чтение-1	('*21F', '*118')
 ZA14	corpus	*21F-*118	чтение-1	('QI', '*118')
@@ -210,14 +196,12 @@ ZA15a	SigLA	SI-KI	прочее
 ZA15a	SigLA	MI-DA-E	край±1	('SA', 'MI', 'DA', 'E')
 ZA15a	SigLA	*364-KE-MA-SE	чтение-1	('*363', 'KE', 'MA', 'SE')
 ZA15a	corpus	*47-KU-NA	прочее	
-ZA15a	corpus	QE-SI-ZU-E	прочее	
 ZA15a	corpus	*28B-NU-MA-RE	чтение-1	('I', 'NU', 'MA', 'RE')
 ZA15a	corpus	SI-PI-KI	прочее	
 ZA15a	corpus	SA-MI-DA-E	край±1	('MI', 'DA', 'E')
 ZA15a	corpus	*363-KE-MA-SE	чтение-1	('*364', 'KE', 'MA', 'SE')
 ZA4a	SigLA	PI-SE	прочее	
 ZA4a	SigLA	I-NU-MA-RE	чтение-1	('*28B', 'NU', 'MA', 'RE')
-ZA4a	corpus	QE-SI-ZU-E	прочее	
 ZA4a	corpus	*28B-NU-MA-RE	чтение-1	('I', 'NU', 'MA', 'RE')
 ZA4a	corpus	E-*82	прочее	
 ZA5a	SigLA	QI-*118	чтение-1	('*21F', '*118')

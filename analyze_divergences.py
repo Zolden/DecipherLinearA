@@ -16,7 +16,8 @@ from collections import Counter, defaultdict
 
 sys.stdout.reconfigure(encoding='utf-8')
 
-SUBSCRIPT = {56: 'PA3', 66: 'TA2', 76: 'RA2', 68: 'RO2', 118: '*118'}
+SUBSCRIPT = {56: 'PA3', 66: 'TA2', 76: 'RA2', 68: 'RO2', 79: 'ZU',
+             118: '*118'}                  # 79: в таблице SigLA нет чтения
 def code_to_our(code, reading):
     if code.startswith('AB'):
         n = int(code[2:])

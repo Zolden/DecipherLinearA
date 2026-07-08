@@ -100,5 +100,9 @@ run analyze_internal_alternation.py internal_alternation.log
 # analyze_pairs_deep.py читает dating.tsv)
 run analyze_pairs_deep.py pairs_deep.log
 run analyze_kober_grid2.py kober_grid2.log
+# этап 22
+run analyze_genre_openness.py genre_openness.log
+run analyze_geo_finals.py geo_finals.log
+run analyze_kober_grid21.py kober_grid21.log
 echo "FAIL=$FAIL"
 echo STRESS_DONE

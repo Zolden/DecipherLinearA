@@ -103,6 +103,26 @@ waiting: the day the full transliteration appears, it runs in minutes.
 Everything in this project — code, data tables, and every negative
 result — is open and re-runs from scratch to the byte.
 
+**12. Update (July 2026): the record turned out to have a syntax, and the
+names a translation rule.** A new battery of tests showed that a Minoan
+administrative record is a three-part formula: the first word says "of
+whom or of what" (different nearly every time — a name or a commodity),
+the second is a service tag from a closed list (TE or SA-RA2: 54–56% of
+their occurrences sit exactly in second position, which chance does not
+do), and the end belongs to the totals block with KU-RO. The very same
+logic — "pointer, second-position particle, predicate at the end" — was
+found independently in Etruscan inscriptions by our sibling project: two
+unread languages, two scripts, one grammar of the document; and the
+"openness" of the first slot proved to be a property of the *genre*, not
+the language — a prediction that then held on the Minoan side too.
+Comparing with the Mycenaean archives yielded a candidate "translation
+rule" for Minoan names entering Greek records: Minoan finals in -u/-e/-a
+correspond to Greek -o — the way Greek would later refit foreign names
+with -os. And all our readings are now cross-checked against the
+independent palaeographic database SigLA: 90% of words match sign for
+sign, and the short list of divergences is published for the epigraphers
+to settle.
+
 The moral: deciphering a dead script is not a lightning bolt of genius but
 bookkeeping — thousands of small checks, nine out of ten returning an
 honest "no". The remaining "yes"es accumulate. A century ago Linear A "could
