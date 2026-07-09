@@ -1,0 +1,139 @@
+документы кандидатов: ['HT108', 'HT10a', 'HT114a', 'HT120', 'HT121', 'HT129', 'HT2', 'HT85b', 'HT86a', 'HT86b', 'HT8a', 'HT95a', 'HT95b']
+
+ко-встречаемость (документ × кандидаты):
+   HT108      KI-RE-TA-NA
+   HT10a      KU-NI-SU
+   HT114a     KI-RI-TA2
+   HT120      KI-RE-TA-NA
+   HT121      KI-RI-TA2
+   HT129      KI-RE-TA2
+   HT2        KI-RE-TA-NA
+   HT85b      KI-RE-TA2
+   HT86a      KU-NI-SU, DI-DE-RU, QA-RA2-WA
+   HT86b      KU-NI-SU
+   HT8a       KI-RE-TA-NA
+   HT95a      KU-NI-SU, DI-DE-RU
+   HT95b      KU-NI-SU, DI-DE-RU
+
+=== полная разметка документов ===
+--- HT108 (HT) ---
+   >>KI-RE-TA-NA<< VIR+[?] [1]
+   GRA+H [70]
+   DI-NA-RO [2]
+   DU-SU-NI [5]
+   RA2-TI [10]
+   JU
+   …
+--- HT10a (HT) ---
+   >>KU-NI-SU<<
+   SA-MA [4]
+   PA
+   DA-RE [33/2]
+   U-*325-ZA [4]
+   *301 [6]
+   U-*325-ZA [14]
+   *305-RU [5/2]
+   DA-RI-DA [8]
+   ME-ZA [3]
+--- HT114a (HT) ---
+   >>KI-RI-TA2<<
+   SA-RA2 GRA [10]
+   OLE [7]
+   NI [1]
+   VIN [1]
+   *23M [3]
+--- HT120 (HT) ---
+   DA-QE-RA
+   DA-ME GRA+K+L [74]
+   GRA+PA [62]
+   DA-U-*49 I-GRA+PA [20]
+   >>KI-RE-TA-NA<< GRA+B [60]
+   GRA+PA [48]
+   PA-I-TO [16/5]
+--- HT121 (HT) ---
+   >>KI-RI-TA2<< OLE+QE+DI [10]
+   SA-RA2 GRA [5]
+   OLE [4]
+   NI [2]
+   VIN [3]
+   *23M [3]
+--- HT129 (HT) ---
+   >>KI-RE-TA2<< GRA [33]
+   *304 [10]
+   NI [22]
+   TU-*21F-RI-NA GRA [81/2]
+   OLE+DI [1]
+   OLE+KI [6]
+   OLE
+   …
+--- HT2 (HT) ---
+   A-KA-RU OLE+U [20]
+   OLE+A [17]
+   OLE+E [3]
+   >>KI-RE-TA-NA<< OLE+U [54]
+   OLE+A [47]
+   [1]
+--- HT85b (HT) ---
+   KI-KI-RA-JA
+   >>KI-RE-TA2<< [1]
+   QE-KA [1]
+   PA [1]
+   TE-TU [1]
+   KA [1]
+   DI [1]
+   ME-ZA [1]
+   RE-DI-SE [1]
+   WA-DU-NI-MI [1]
+   MA-DI [1]
+   QA-*310-I [1]
+--- HT86a (HT) ---
+   A-KA-RU
+   >>KU-NI-SU<< GRA+K+L [20]
+   SA-RU [20]
+   >>DI-DE-RU<< [20]
+   >>QA-RA2-WA<< [10]
+   A-DU
+   DA-ME GRA+B [20]
+   MI-NU-TE [20]
+--- HT86b (HT) ---
+   A-KA-RU
+   >>KU-NI-SU<< GRA+K+L [20]
+   SA-RU [20]
+   DI-DE
+--- HT8a (HT) ---
+   JE-DI OLE+KI [10]
+   PA3-KA-RA-TI [3/2]
+   PA [7/2]
+   TE-*301 [2]
+   QA-*310-I [3/4]
+   SI-KI-RA [1/4]
+   >>KI-RE-TA-NA<< [1/2]
+--- HT95a (HT) ---
+   DA-DU-MA-TA GRA
+   DA-ME [10]
+   MI-NU-TE [10]
+   SA-RU [20]
+   >>KU-NI-SU<< [10]
+   >>DI-DE-RU<< [10]
+   QE-RA2-U [7]
+--- HT95b (HT) ---
+   A-DU
+   SA-RU [10]
+   … …
+   DA-ME [10]
+   MI-NU-TE [10]
+   >>KU-NI-SU<< [10]
+   >>DI-DE-RU<< [10]
+   QE-RA2-U [10]
+
+=== числа непосредственно после кандидатов ===
+   KU-NI-SU       [('HT95a', '10'), ('HT95b', '10')]
+   KI-RI-TA2      []
+   KI-RE-TA-NA    [('HT8a', '1/2')]
+   KI-RE-TA2      [('HT85b', '1')]
+   DI-DE-RU       [('HT86a', '20'), ('HT95a', '10'), ('HT95b', '10')]
+   QA-RA2-WA      [('HT86a', '10')]
+
+Чтение: дистрибутивная разметка; «профиль списка сортов» = несколько
+кандидатов в одном документе, каждый со своим числом, при документной
+логограмме GRA. Чтения не приписываются.
