@@ -104,5 +104,10 @@ run analyze_kober_grid2.py kober_grid2.log
 run analyze_genre_openness.py genre_openness.log
 run analyze_geo_finals.py geo_finals.log
 run analyze_kober_grid21.py kober_grid21.log
+# этап 23 (concept_lexicon.csv закоммичен — таблица DecipherEtruscan)
+run analyze_concepts.py concepts.log
+run analyze_geo_map.py geo_map.log
+run analyze_kober_grid3.py kober_grid3.log
+run analyze_kireta.py kireta.log
 echo "FAIL=$FAIL"
 echo STRESS_DONE

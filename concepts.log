@@ -1,0 +1,40 @@
+понятий: 230; форм: 1237 (CSV DecipherEtruscan)
+конвергентных понятий (счёт>=2, p<0.05): 16
+слов LA (полных, читаемых): 488; документов: 299
+форм в зонде: 518 (ярус A: 87; ярус B akk+grc: 431)
+
+=== первоочередной тест: KU-NI-SU ↔ kunāšu «полба» ===
+скелеты: KU-NI-SU=KNS, kunāšu=KNS, sim=1.00
+документы KU-NI-SU: ['HT10a', 'HT86a', 'HT86b', 'HT95a', 'HT95b']
+со-встречаемость с GRA: 3/5 документов (нуль 0.65, p=0.0150)
+негативный контроль (VIN): 0/5 (нуль 0.44, p=1.0000)
+
+туман: 209 слов с sim>=0.75 → concept_fog_la.csv
+строки с распределительной проверкой (товарные домены):
+   A-KA-NU-ZA-TI    ~ kunashu      [emmer/полба] sim=1.000 GRA(emmer):0/1 (нуль 0.2, p=1.000)
+   A-KI-PI-E-TE     ~ kibtu        [wheat/пшеница] sim=1.000 GRA(wheat):1/1 (нуль 0.1, p=0.141)
+   A-SA-MU-NE       ~ samane|shamnu [eight|olive oil/восемь|оливковое масло] sim=1.000 OLE(olive oil):0/1 (нуль 0.1, p=1.000)
+   A-SI-JA-KA       ~ sykon|zygon|psyche [fig|yoke|soul-spirit/инжир|ярмо|душа] sim=0.750 NI(fig):0/2 (нуль 0.0, p=1.000)
+   DA-SE-RA-TE      ~ serdu        [olive/олива] sim=0.750 OLIV(olive):0/1 (нуль 0.0, p=1.000)
+   DU-MI-TA-TI-RA2  ~ uttatu|tittu|dimtu|almattu [barley|fig|tower|widow/ячмень|инжир|башня|вдова] sim=0.750 GRA(barley):0/1 (нуль 0.1, p=1.000)
+   I-KU-RI-NA       ~ karanu|karanu?|krene [wine|grape|spring-water/вино|виноград|источник] sim=1.000 VIN(wine):0/1 (нуль 0.1, p=1.000)
+   KA-RO-NA         ~ karanu|karanu?|krene [wine|grape|spring-water/вино|виноград|источник] sim=1.000 VIN(wine):0/1 (нуль 0.1, p=1.000)
+   KI-RE-TA-NA      ~ egertu?|kardia|krithe [letter-missive|heart|barley/письмо|сердце|ячмень] sim=1.000 GRA(barley):2/3 (нуль 0.4, p=0.044)
+   KI-RE-TA2        ~ egertu?|kardia|krithe [letter-missive|heart|barley/письмо|сердце|ячмень] sim=1.000 GRA(barley):1/2 (нуль 0.3, p=0.241)
+   KI-RI-TA2        ~ egertu?|kardia|krithe [letter-missive|heart|barley/письмо|сердце|ячмень] sim=1.000 GRA(barley):2/2 (нуль 0.3, p=0.014)
+   KU-NI-SU         ~ kunashu      [emmer/полба] sim=1.000 GRA(emmer):3/5 (нуль 0.7, p=0.021)
+   KU-PA3-NA-TU     ~ kibtu|sponde|spondai|kabattu [wheat|libation|peace-treaty|liver/пшеница|возлияние|мир-договор|печень] sim=0.750 GRA(wheat):0/2 (нуль 0.3, p=1.000)
+   QA-RE-TO         ~ egertu?|kardia|krithe [letter-missive|heart|barley/письмо|сердце|ячмень] sim=1.000 GRA(barley):0/1 (нуль 0.1, p=1.000)
+   QE-PI-TA         ~ kibtu        [wheat/пшеница] sim=1.000 GRA(wheat):0/1 (нуль 0.1, p=1.000)
+   SI-RU-TE         ~ serdu        [olive/олива] sim=1.000 OLIV(olive):0/4 (нуль 0.1, p=1.000)
+   TA2-TI-TE        ~ uttatu|tittu [barley|fig/ячмень|инжир] sim=1.000 GRA(barley):0/1 (нуль 0.1, p=1.000)
+   TI-DA-TA         ~ uttatu|tittu [barley|fig/ячмень|инжир] sim=1.000 GRA(barley):0/1 (нуль 0.1, p=1.000)
+   TI-DI-TE-QA-TI   ~ uttatu|tittu [barley|fig/ячмень|инжир] sim=0.750 GRA(barley):0/1 (нуль 0.1, p=1.000)
+   U-NA-KA-NA-SI    ~ kunashu|enchos [emmer|spear/полба|копьё] sim=0.750 GRA(emmer):0/2 (нуль 0.3, p=1.000)
+
+Чтение: глосс-калибровки в LA НЕ существует — туман строго
+гипотезогенераторный; единственная внутренняя проверка — со-встречаемость
+с логограммой товара (перестановочный нуль по документам). Ни одна строка
+не является «переводом»; формулировки — «кандидат-соответствие,
+согласующееся с товарным классом». Таблица понятий — данные
+DecipherEtruscan (кураторская), метод — их etr_concepts.py.

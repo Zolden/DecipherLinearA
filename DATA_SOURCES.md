@@ -47,9 +47,12 @@ digitized the Aegean corpora. Nothing here would exist without them.
 
 - **Source**: [SigLA](https://sigla.phis.me) — *The signs of Linear A: a
   palaeographical database* by Ester Salgarella (text) & Simon Castellan
-  (engine). Its public data layer (`database.js`) is fetched — not
-  redistributed — by `tools/fetch_sigla.sh` into a gitignored cache
-  (SHA-256 pinned in the script).
+  (engine). Dataset and drawings are published under **CC BY-NC-SA 4.0**
+  (per the SigLA site); our derived metadata index is non-commercial,
+  attributed, and shared under compatible terms. The raw data layer
+  (`database.js`) is fetched — not redistributed — by
+  `tools/fetch_sigla.sh` into a gitignored cache (SHA-256 pinned in the
+  script).
 - **What we ship**: `sigla_docs.tsv` — a document-level metadata index
   (inscription ID, support type, site, period, source URL) extracted by
   `parse_sigla.py`, used solely to add a dating layer to our corpus.
