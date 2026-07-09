@@ -112,5 +112,7 @@ run analyze_kireta.py kireta.log
 # этап 24
 run analyze_fog2.py fog2.log
 run analyze_grain_class.py grain_class.log
+# этап 25
+run analyze_fog3.py fog3.log
 echo "FAIL=$FAIL"
 echo STRESS_DONE
