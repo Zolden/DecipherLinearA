@@ -41,3 +41,7 @@ print('imagemap.json ok')
 PY
 rm -rf "$TMP"
 echo "fetched: commentary.tar, corpus_raw.json, imagemap.json (pinned $PIN)"
+# 4) Hogan's transaction classification (network graph data) -> gitignored cache
+git -C "$TMP" -c core.protectNTFS=false show "$PIN:network/transactions.js" > .hogan_cache.js 2>/dev/null || \
+  curl -sL "https://raw.githubusercontent.com/mwenge/lineara.xyz/$PIN/network/transactions.js" -o .hogan_cache.js
+echo "fetched: .hogan_cache.js (Hogan transactions, pinned $PIN)"

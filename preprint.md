@@ -1,20 +1,24 @@
 # Structure without Reading: a Reproducible Statistical Framework for Linear A
 
-**Preprint v1.2 — 2026-07-08** (v1.1: 2026-07-08; v1.0: 2026-07-06)
+**Preprint v1.3 — 2026-07-09** (v1.2: 2026-07-08; v1.1: 2026-07-08; v1.0: 2026-07-06)
 Repository: https://github.com/Zolden/DecipherLinearA —
-DOI v1.2: https://doi.org/10.5281/zenodo.21266454 (all versions: https://doi.org/10.5281/zenodo.21262274)
+DOI (latest release): https://doi.org/10.5281/zenodo.21266454 (all versions: https://doi.org/10.5281/zenodo.21262274)
 (Full research log with all intermediate tests: `linear_a_full_report_v2.md`,
-sections §0–§CG; every number regenerates under seed=42, PYTHONHASHSEED=0.)
-*New in v1.2:* a three-slot record grammar (header → second-position
-operator → closing totals block, §5); SigLA integration — a dating layer
-cross-validated against a second source (533/534 epoch agreement) and a
-sign-level transcription cross-validation of two digitization traditions
-(90%/84%, §7); union-of-digitizations onomastics (six slot-confirmed name
-candidates, p=0.0004, §3); a candidate final-vowel adaptation rule
-(LA -u/-e/-a ↔ Linear B -o, §3) with its sensitivity honestly stated.
-*New in v1.1:* consolidated anchor table (11 words, `anchors.tsv`);
-slot-level replication on the second Linear B digitization; positional
-grammar of operators; *815 verdict withdrawn.
+sections §0–§DB; every number regenerates under seed=42, PYTHONHASHSEED=0.)
+*New in v1.3:* a grain commodity-word class established through a cascade
+of independent arbiters — areal-lexicon phonetics, commodity-logogram
+co-occurrence (pre-declared KU-NI-SU test p=0.015; family-wise
+P(three grain hits)=0.0003), metrological environment (0% duodecimal),
+and list microstructure (§4a); genre-dependence of positional openness
+(religious inversion, p=0.041, §5); external convergences with the 2026
+AURA volume — our record grammar quantifies Hogan's transaction classes,
+and five of five anchors present in his annotation carry his independent
+agent roles (§7).
+*New in v1.2:* three-slot record grammar; SigLA integration (dating
+533/534; transcriptions 90%/86%); union onomastics (p=0.0004); the
+final-vowel adaptation rule with sensitivity stated.
+*New in v1.1:* anchor table; slot replication; operator grammar; *815
+withdrawn.
 
 ## Abstract
 
@@ -135,7 +139,33 @@ names-vs-lexicon contrast is not significant (p=0.23); and final vowels
 also alternate *within* Linear A (five internal pairs vs 1.75 expected,
 p=0.037, e.g. ta-na-te ~ ta-na-ti), with a scattered vowel inventory —
 which supports the adaptation reading of the -o pattern but shows the
-final slot is not inert inside Minoan either. Behaviourally, the Knossos-series candidates
+final slot is not inert inside Minoan either.
+
+## 4a. A commodity-word class through cascaded arbiters
+
+Porting an areal-lexicon probe developed in our Etruscan sibling project
+(230 Bronze-Age concepts × 7 deciphered languages; sound-class skeleton
+matching), and replacing its gloss calibration — impossible for Linear A —
+with a *distributional arbiter* (a commodity-domain candidate must
+co-occur with its commodity logogram), yields a coherent grain class. The
+pre-declared first test passed: KU-NI-SU matches Akkadian *kunāšu*
+("emmer") skeleton-exactly, and its five documents carry the GRA logogram
+three times vs 0.65 expected (p=0.015; wine-logogram control 0/5).
+Exploratively, KI-RI-TA₂ (~ *krithē* "barley", GRA 2/2, p=0.0175) and
+KI-RE-TA-NA (GRA 2/3, p=0.048) join it; family-wise, the probability of
+three significant hits among twenty commodity checks *all landing in the
+grain domain* is 0.0003. Two further arbiters agree: the numeral
+environment of all four candidates is purely integer/binary (0% duodecimal
+admixture, vs 5% in the GRA-document baseline and 9% in the oil baseline),
+and tablet HT 86a shows the candidates as parallel list entries, each with
+its own round number under GRA+ligature headings. Both roots are
+long-standing loanword conjectures in the literature; the pipeline
+reproduced them blind. Honest boundaries: the remaining list vocabulary of
+HT 86/95 passes the same arbiter but on overlapping documents (a coherent
+class, not independent confirmations); non-commodity domains fail their
+arbiters (no positional or register concentration) — on Linear A the probe
+works only where a material anchor (logograms, measures) exists. No row is
+a translation; the claim is class membership. Behaviourally, the Knossos-series candidates
 appear in Linear A as list entries with small integers (name-like), while
 the Pylos-matching words (da-ma-te, i-ja-te, a-ro-te) are number-free and
 vessel/stone-bound — a different phenomenon, honestly separated. The
@@ -207,6 +237,11 @@ commodity logograms (SI, NI) and name-like hapaxes. The resulting schema —
 [open topic] [closed second-position operator] … [closing total block] —
 again has an Etruscan echo (turce "dedicated": 52% second position,
 family-adjusted p=0.004, found there after our frame predicted it).
+Genre modulates the schema: in the religious genre the polarity inverts
+(the libation formula monopolizes first position while second position is
+fully open — TTR Δ=−0.182, p=0.041, vs +0.075 in the administrative
+genre), matching the genre-dependence independently found in Etruscan —
+"slot openness" is a property of document genre, not of the language.
 
 ## 6. Metrology and typology
 
@@ -235,11 +270,22 @@ with site (Phaistos/Mallia = MM, Haghia Triada/Khania/Zakros = LM IB), so
 no within-site contrast exists yet. Second, *transcriptions*: SigLA's
 sign-level tracings, converted to our sign names, agree with our corpus on
 90% of SigLA words and 84% of corpus words across 310 shared documents;
-of 41 one-sign divergences checked against the raw source, 39 confirm our
-pipeline is faithful — the residue is genuine editorial disagreement
-between the GORILA line and the tracing line (systematically: QI vs *21F,
-and PA3 confused with JA/NU), catalogued in `divergences.tsv` for
-epigraphic adjudication.
+of 41 one-sign divergences checked against the raw source, all 41 confirm
+our pipeline is faithful (two apparent failures were gloss renderings in
+the source) — the residue is genuine editorial disagreement between the
+GORILA line and the tracing line (systematically: QI vs *21F, and PA3
+confused with JA/NU), catalogued in `divergences.tsv` for epigraphic
+adjudication. A consolidated per-document dating layer (`dating.tsv`,
+1,540 of 1,721 documents) merges both sources.
+
+The 2026 AURA volume (*The Wor(l)ds of Linear A*, ASASA(RAME) 1) supplies
+external convergences: Hogan's expert transaction classification of the
+tablets (Entity/Transfer Lists) is the qualitative counterpart of our
+record grammar, and of our six slot-confirmed name candidates five appear
+in his machine-readable annotation — all five carrying his independently
+assigned agent roles; Davis's survey reaches our morphotactic conclusion
+(Minoan uses both prefixes and suffixes) on separate evidence, and his
+index contains our internal alternation pair A-MI-DA-O/A-MI-DA-U.
 
 ## 8. What did not survive
 
@@ -258,9 +304,14 @@ sign (zero crossword hits even with the adaptation-rule-extended target),
 and the weak Z-row candidacy of *306 is now contradicted by a weak
 vowel-row vote from the name channel — its confidence is downgraded; a
 suffix-pair complementarity test that separates stem classes in Etruscan
-hits a power wall at Linear A's lexicon size (618 types); and the
+hits a power wall at Linear A's lexicon size (618 types); the
 pre-declared a→o form of the adaptation rule was not confirmed — the
-aggregate toward -o carries the signal. Substitution tournaments for unknown-sign values are
+aggregate toward -o carries the signal; site-level "favourite finals"
+vanish once operators are excluded (they were operator geography); and
+the areal-lexicon probe fails outside commodity domains (ritual-domain
+candidates show no register concentration; no action-domain candidate has
+enough tokens) — its verdicts are confined to where material arbiters
+exist. Substitution tournaments for unknown-sign values are
 non-resolving at current corpus sizes (a weak repeated signal: *306
 leading normalized row Z on both Linear B digitizations; *118 neighbours
 and a single crossword vote converge on row R).
@@ -281,7 +332,9 @@ commits (the SigLA fetch pins a SHA-256).
 Two datasets with known addresses would upgrade the framework from
 "structure" toward "partial reading": the full edition of the Anetaki
 sceptre (slot engine ready) and a complete curated Linear B corpus with
-record contexts (the value tournament and the onomasticon scale directly).
+record contexts (the value tournament and the onomasticon scale directly);
+inquiries to the Anetaki editors, the LiBER team and the SigLA authors
+are out.
 The SigLA integration performed for v1.2 shows the pattern such upgrades
 follow: an external layer first cross-validates the foundations
 (transcriptions, dating), then adds a new dimension of structure. The

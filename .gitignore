@@ -4,3 +4,4 @@ __pycache__/
 .claude/
 .lbxyz_cache.js
 .sigla_cache.js
+.hogan_cache.js

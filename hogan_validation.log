@@ -1,0 +1,14 @@
+табличек в разметке Хогана: 129
+типы: [('Transfer List', 50), ('Single Named Commodity Inter-Entity Transfer List', 20), ('Multiple-Commodity Inter-Entity Transfer List', 18), ('Entity List', 12), ('Single Unnamed Commodity Inter-Entity Transfer List', 12), ('Single-Commodity Transfer List', 8), ('Multiple Entity Heading and Entity List', 4), ('Hybrid Commodity/Entity List', 3), ('Multiple-Commodity Multiple-Entity Transfer List', 1), ('Too fragmentary to make sense of', 1)]
+роли слов: [('recipient', 360), ('commodity', 193), ('', 127), ('sender', 96), ('quantity', 2)]
+
+(A) пул 129 табличек; Entity-16 в пуле: 14; именных доков: 22; пересечение: 4 ['HT29', 'ZA10a', 'ZA14', 'ZA4a']
+гипергеометрика: p=0.1952
+
+(B) слова >=3 знаков: recipient/sender∩слот-имя=5, recipient прочие=184; не-recipient∩слот-имя=0, прочие=17
+Fisher (односторонний): OR=inf, p=0.6472
+его агенты, являющиеся нашими слот-именами: ['DA-I-PI-TA', 'I-TA-JA', 'KI-DA-RO', 'PA-RA-NE', 'TA-NA-TI']
+
+Чтение: разметка Хогана интерпретационная (роли по структуре табличек),
+наша — по LB-слотам; согласие двух независимых каналов = взаимная
+валидация именного слоя. p разведочные.
