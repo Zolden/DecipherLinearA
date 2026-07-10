@@ -1,10 +1,25 @@
 # Structure without Reading: a Reproducible Statistical Framework for Linear A
 
-**Preprint v1.4 — 2026-07-10** (v1.3: 2026-07-09; v1.2/v1.1: 2026-07-08; v1.0: 2026-07-06)
+**Preprint v1.5 — 2026-07-11** (v1.4: 2026-07-10; v1.3: 2026-07-09; v1.2/v1.1: 2026-07-08; v1.0: 2026-07-06)
 Repository: https://github.com/Zolden/DecipherLinearA —
-DOI v1.4: https://doi.org/10.5281/zenodo.21298882 (all versions: https://doi.org/10.5281/zenodo.21262274)
+DOI (latest release): https://doi.org/10.5281/zenodo.21298882 (all versions: https://doi.org/10.5281/zenodo.21262274)
 (Full research log with all intermediate tests: `linear_a_full_report_v2.md`,
-sections §0–§DG; every number regenerates under seed=42, PYTHONHASHSEED=0.)
+sections §0–§DM; every number regenerates under seed=42, PYTHONHASHSEED=0.)
+*New in v1.5:* the onomastic result is **confirmed on a held-out curated
+source**: a pre-registered, single-run test on the DĀMOS corpus (rules
+frozen by commit before the data was downloaded) found 6 slot-confirmed
+long homographs vs 0.68 expected, **p=0.0002** (secondary endpoints
+p=0.0023 / p=0.0001) — status upgraded to CONFIRMED-HOLDOUT, with the
+caveat that DĀMOS covers the same physical tablets (no other Mycenaean
+corpus exists), so this confirms robustness to an independent curated
+digitization with post-selection removed by pre-registration. Three
+anchors are now slot-confirmed in all three Linear B sources (i-ta-ja,
+pa-ra-ne, i-ja-te). The substitution tournament re-run on the curated
+lexicon resolves the *306 conflict in favour of row Z (third base) and
+fails to reproduce the *118-R hint (downgraded). A second pre-registered
+test (roundel words as names, via a hapax-share proxy) FAILED and is
+published as such — the proxy, not necessarily the hypothesis, was wrong
+(sealings repeat the same words by design).
 *New in v1.4 — after an independent external audit (report archived as
 INPUT_FROM_SOL.md in the research repository):* the V/CV positional test
 is confirmed by exhaustive enumeration (p=0.00049) and is our single
@@ -130,14 +145,21 @@ the excess sits exclusively in toponyms and name contexts; secure Greek
 vocabulary contributes zero long matches. At the strictest level —
 record-slot confirmation — six name candidates are slot-confirmed on the
 union of our two Linear B transcription sources (6 vs 0.93 expected,
-p=0.0004). *v1.4 status (audit): post-selected discovery.* Two of the
-slot rules (N6/N7) were added after diagnosing specific missed candidates,
-and the two sources are overlapping transcriptions of the same underlying
-corpus (Jaccard 0.652), not independent archives; the honest
-pre-adaptation figure is four slot-confirmed candidates at p≈0.0054. A
-confirmatory version requires a held-out curated corpus (a DĀMOS export
-is being requested). A consolidated anchor table (`anchors.tsv`) lists
-all 11 anchor words with the full evidence chain and these caveats.
+p=0.0004; audit status: post-selected discovery, since two slot rules
+were added adaptively and the two sources overlap, Jaccard 0.652; the
+pre-adaptation figure is 4 at p≈0.0054). *v1.5: the confirmatory version
+has now been run.* With the full slot pipeline frozen by a pre-registration
+commit **before** the held-out curated corpus (DĀMOS, 5,832 documents) was
+downloaded, a single confirmatory run found **6 slot-confirmed long
+homographs vs 0.68 expected (p=0.0002)**, with secondary endpoints
+(lexicon matches of length 3 and ≥4) at p=0.0023 and p=0.0001. Status:
+CONFIRMED-HOLDOUT — with the honest caveat that DĀMOS covers the same
+physical tablets (there is only one Mycenaean corpus), so the confirmation
+establishes robustness to an independent curated digitization under a
+pre-registered, selection-free protocol; genuinely new tablets await the
+Anetaki edition. Three anchors are slot-confirmed in all three sources
+(i-ta-ja, pa-ra-ne, i-ja-te; `anchors2.tsv` carries the full three-source
+table).
 
 Beyond exact homographs, a *final-vowel adaptation rule* emerges: Linear A
 words whose final sign changes only its vowel (same consonant row) match
@@ -338,7 +360,12 @@ vanish once operators are excluded (they were operator geography); and
 the areal-lexicon probe fails outside commodity domains (ritual-domain
 candidates show no register concentration; no action-domain candidate has
 enough tokens) — its verdicts are confined to where material arbiters
-exist. Substitution tournaments for unknown-sign values are
+exist. The *118-R row hint did not reproduce on the curated DĀMOS lexicon
+and is downgraded to unresolved (while *306-Z gained a third independent
+base). And our second pre-registered test failed honestly: roundel (Wc)
+words do NOT show an elevated hapax share (0.38 vs 0.57 expected,
+one-sided p≈1.0) — the hapax proxy is wrong for sealings, which repeat
+the same words by design; the failure is published per protocol. Substitution tournaments for unknown-sign values are
 non-resolving at current corpus sizes (a weak repeated signal: *306
 leading normalized row Z on both Linear B digitizations; *118 neighbours
 and a single crossword vote converge on row R).

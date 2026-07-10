@@ -1,0 +1,12 @@
+anchor	class	damos_freq	damos_slots	lb1_slots	lb2_slots	n_slot_sources
+PA-I-TO	топоним	43	N3			1
+SE-TO-I-JA	топоним	12	N1,N3,N6			1
+SU-KI-RI-TA	топоним	5	N3			1
+DA-I-PI-TA	имя	1		N6		1
+I-TA-JA	имя	2	N1	N1	N1	3
+KI-DA-RO	имя	1		N7	N7	2
+PA-RA-NE	имя	1	N5,N6	N5,N6	N5,N6	3
+TA-NA-TI	имя	1		N5		1
+I-JA-TE	имя	1	N4	N4	N4	3
+DA-MA-TE	особый (PY-класс)	1				0
+A-RO-TE	особый (PY-класс)	1				0

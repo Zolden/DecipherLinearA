@@ -9,8 +9,8 @@ decipherment claims, no translations. Every claim is of the form
 is reproduced by a seeded script in this repository.
 
 **Main document: [`linear_a_full_report_v2.md`](linear_a_full_report_v2.md)**
-(sections §0–§DG; in Russian). The journal-style English
-[preprint](preprint.md) (v1.4) condenses it; a popular-science summary is
+(sections §0–§DM; in Russian). The journal-style English
+[preprint](preprint.md) (v1.5) condenses it; a popular-science summary is
 available in [English](article_popular_en.md) and
 [Russian](article_popular_ru.md). See also the [FAQ](FAQ.md).
 
@@ -69,9 +69,16 @@ available in [English](article_popular_en.md) and
   documents get an MM/LM period) extracted from the public data of
   [SigLA](https://sigla.phis.me) (Salgarella & Castellan) by our OCaml
   Marshal reader (`parse_sigla.py`).
+- `damos_lexicon.tsv`, `damos_name_slots.tsv`, `damos_context.tsv` —
+  word-level indexes derived from the curated
+  [DĀMOS](https://damos.hf.uio.no/) corpus (F. Aurora, University of
+  Oslo; 5,832 documents fetched politely via its public per-document
+  JSON), used as the held-out source for the pre-registered confirmatory
+  onomasticon test.
 - Raw third-party source files are **not redistributed** here; run
-  `tools/fetch_sources.sh`, `tools/fetch_lbxyz.sh` and
-  `tools/fetch_sigla.sh` to obtain them from the pinned upstream commits.
+  `tools/fetch_sources.sh`, `tools/fetch_lbxyz.sh`, `tools/fetch_sigla.sh`
+  and `tools/fetch_damos.py` to obtain them from the pinned upstream
+  commits / public endpoints.
 
 ## Reproduce
 
