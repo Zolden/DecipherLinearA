@@ -1,0 +1,19 @@
+   [A-TA]: A-TA-*350=recipient; A-TA-RE=sender   <-- РАЗНЫЕ роли
+   [DA-TA]: DA-TA-RA=sender; DA-TA-RE=recipient   <-- РАЗНЫЕ роли
+   [DI-NA]: DI-NA-RO=recipient; DI-NA-U=?/recipient   <-- РАЗНЫЕ роли
+   [KI-DA]: KI-DA-RO=recipient; KI-DA-TA=recipient
+   [KU-PA]: KU-PA-JA=recipient; KU-PA-RI=recipient; KU-PA-ZU=recipient
+   [KU-RU]: KU-RU-KU=commodity; KU-RU-MA=recipient   <-- РАЗНЫЕ роли
+   [MA-KA-I]: MA-KA-I-SE=sender; MA-KA-I-TA=recipient   <-- РАЗНЫЕ роли
+   [PI-TA]: PI-TA-JA=sender; PI-TA-RA=recipient   <-- РАЗНЫЕ роли
+   [QA-QA]: QA-QA-DA=recipient; QA-QA-RU=recipient
+   [QA-TI]: QA-TI-JU=recipient; QA-TI-KI=recipient
+   [SI-DA]: SI-DA-RE=recipient/sender; SI-DA-TE=sender   <-- РАЗНЫЕ роли
+   [SI-KI]: SI-KI-NE=recipient; SI-KI-RA=recipient
+   [TA-NA]: TA-NA-TE=recipient; TA-NA-TI=recipient
+
+многофинальных основ: 29; с ролями у >=2 форм: 13; из них с разными ролями: 7
+
+Чтение: дескриптивно (разметка Хогана даёт роли не всем словам, и почти
+все длинные слова у него агентивны — §DA); «разные роли у форм одной
+основы» — лишь намёк для будущих тестов, не вывод.

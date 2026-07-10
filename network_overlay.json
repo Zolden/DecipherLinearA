@@ -1,0 +1,8539 @@
+{
+ "documents": {
+  "ANZb1": {
+   "genre": "religious",
+   "site": "AN"
+  },
+  "APZa1": {
+   "genre": "religious",
+   "site": "AP"
+  },
+  "APZa2": {
+   "genre": "religious",
+   "site": "AP"
+  },
+  "APZa<3>": {
+   "genre": "religious",
+   "site": "AP"
+  },
+  "ARGZg1": {
+   "genre": "religious",
+   "site": "ARG"
+  },
+  "ARKH1a": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "ARKH"
+  },
+  "ARKH1b": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "ARKH"
+  },
+  "ARKH2": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "ARKH"
+  },
+  "ARKH3a": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "ARKH"
+  },
+  "ARKH3b": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "ARKH"
+  },
+  "ARKH4a": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "ARKH"
+  },
+  "ARKH4b": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "ARKH"
+  },
+  "ARKH5": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "ARKH"
+  },
+  "ARKH6": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "ARKH"
+  },
+  "ARKH7": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "ARKH"
+  },
+  "ARKHZc8": {
+   "epoch": "MM",
+   "genre": "religious",
+   "site": "ARKH"
+  },
+  "ARKHZf9": {
+   "epoch": "LM",
+   "genre": "religious",
+   "site": "ARKH"
+  },
+  "ARMZg1": {
+   "epoch": "MM",
+   "genre": "religious",
+   "site": "ARM"
+  },
+  "ARZf1": {
+   "genre": "religious",
+   "site": "AR"
+  },
+  "ARZf2": {
+   "genre": "religious",
+   "site": "AR"
+  },
+  "CRZf1": {
+   "genre": "religious",
+   "site": "CR"
+  },
+  "CRZf5": {
+   "genre": "religious",
+   "site": "CR"
+  },
+  "CRZg3": {
+   "genre": "religious",
+   "site": "CR"
+  },
+  "CRZg4": {
+   "genre": "religious",
+   "site": "CR"
+  },
+  "DRAZg1": {
+   "genre": "religious",
+   "site": "DRA"
+  },
+  "FOZc1": {
+   "genre": "religious",
+   "site": "FO"
+  },
+  "GO2r": {
+   "genre": "administrative",
+   "site": "GO"
+  },
+  "GO2v": {
+   "genre": "administrative",
+   "site": "GO"
+  },
+  "GOWc1a": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "GO"
+  },
+  "GOWc1b": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "GO"
+  },
+  "GOWc3": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "GO"
+  },
+  "HSZg1": {
+   "epoch": "MH",
+   "genre": "religious",
+   "site": "HS"
+  },
+  "HT1": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT100": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT101": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT102": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT103": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT104": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT105": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT106": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT107": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT108": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT109": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT10a": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT10b": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT110a": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT110b": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT111a": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT111b": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT112a": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT112b": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT113": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT113ter": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT114a": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT114b": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT115a": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT115b": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT116a": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT116b": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT117a": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT117b": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT118": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT119": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT11a": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT11b": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT12": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT120": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT121": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT122a": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT122b": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT123+124a": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT123+124b": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT125a": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT125b": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT126a": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT126b": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT127a": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT127b": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT128a": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT128b": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT129": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT13": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT130": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT131a": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT131b": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT132": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT133": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT135a": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT135b": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT136a": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT136b": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT137": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT139": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT14": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT140": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT141": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT142": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT144": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT146": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT147": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT15": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT154.": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT154a": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT154b": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT154c": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT154e": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT154g": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT154ja": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT154jb": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT154k": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT154l": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT154m": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT154n": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT16": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT17": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT18": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT19": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT2": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT20": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT21": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT22": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT23a": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT23b": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT24a": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT24b": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT25a": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT25b": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT26a": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT26b": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT27a": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT27b": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT28a": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT28b": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT29": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT3": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT30": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT31": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT32": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT33": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT34": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT35": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT36": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT37": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT38": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT39": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT4": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT40": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT41a": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT41b": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT42+59": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT43": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT44a": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT44b": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT45a": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT45b": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT46a": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT46b": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT47a": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT47b": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT49a": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT49b": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT5": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT50a": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT50b": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT51a": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT51b": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT52a": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT52b": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT53a": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT53b": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT54a": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT54b": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT55a": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT55b": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT56a": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT56b": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT57a": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT57b": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT58": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT60": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT61": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT62+73": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT63": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT64": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT65": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT66": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT67": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT68": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT69": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT6a": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT6b": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT70": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT72": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT74": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT75": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT78": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT79+83": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT7a": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT7b": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT80": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT81": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT82": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT84": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT85a": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT85b": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT86a": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT86b": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT87": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT88": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT89": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT8a": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT8b": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT90": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT91": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT92": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT93a": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT93b": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT94a": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT94b": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT95a": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT95b": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT96a": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT96b": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT97a": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT97b": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT98a": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT98b": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT99a": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT99b": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT9a": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HT9b": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTW231a": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTW231b": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTW231c": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTW231d": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTW231e": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTW231f": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1001": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1002": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1003": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1004": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1005": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1006": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1007": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1008": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1009": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1010": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1011": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1012": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1013": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1014": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1015": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1016": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1017": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1018": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1019": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1020": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1021": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1021bis": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1022": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1023": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1024": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1025": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1026": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1027": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1028": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1029": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1030": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1031": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1032": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1033": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1034": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1035": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1036": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1037": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1038": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1039": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1040": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1041": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1042": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1043": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1044": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1045": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1046": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1047": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1048": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1049": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1050": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1051": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1052": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1053": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1054": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1055": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1056": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1057": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1058": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1059": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1060": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1061": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1062": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1063": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1064": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1065": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1066": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1067": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1068": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1069": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1070": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1073": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1074": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1075": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1076": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1077": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1078": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1079": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1080": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1081": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1082": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1083": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1084": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1085": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1086": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1087": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1088": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1089": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1090": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1091": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1092": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1093": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1094": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1095": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1096": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1097": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1098": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1099": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1100": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1101": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1102": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1103": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1104": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1105": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1106": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1107": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1108": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1109": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1110": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1111": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1112": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1113": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1114": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1115": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1116": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1117": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1118": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1119": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1120": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1121": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1122": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1123": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1124": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1125": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1126": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1127": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1128": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1129": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1130": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1131": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1132": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1133": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1134": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1135": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1136": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1137": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1138": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1139": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1140": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1141": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1142": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1143": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1144": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1145": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1146": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1147": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1148": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1149": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1150": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1151": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1152": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1153": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1154": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1155": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1156": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1157": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1158": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1159": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1160": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1161": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1162": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1163": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1164": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1165": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1166": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1167": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1168": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1169": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1170": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1171": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1172": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1173": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1174": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1175": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1176": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1177": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1178": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1179": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1180": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1181": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1182": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1183": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1184": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1185": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1186": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1187": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1188": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1189": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1190": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1191": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1192": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1193": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1194": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1195": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1196": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1197": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1198": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1199": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1200": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1201": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1202": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1203": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1204": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1205": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1206": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1207": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1208": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1209": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1210": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1211": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1212": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1213": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1214": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1215": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1216": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1217": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1218": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1219": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1220": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1221": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1222": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1223": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1224": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1225": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1226": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1227": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1228": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1229": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1230": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1231": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1232": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1233": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1234": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1235": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1236": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1237": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1238": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1239": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1240": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1241": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1242": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1243": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1244": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1245": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1246": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1247": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1248": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1249": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1250": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1251": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1252": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1253": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1254": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1255": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1256": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1257": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1258": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1259": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1260": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1261": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1262": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1263": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1264": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1265": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1266": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1267": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1268": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1269": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1270": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1271": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1272": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1273": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1274": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1275": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1276": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1277": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1278": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1279": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1280": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1281": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1282": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1283": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1284": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1285": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1286": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1287": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1288": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1289": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1290": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1291": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1292": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1293": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1294": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1295": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1296": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1297": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1298": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1299": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1300": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1301": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1302": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1303": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1304": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1305": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1306": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1307": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1308": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1309": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1310": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1311": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1312": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1313": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1314": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1315": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1316": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1317": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1318": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1319": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1320": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1321": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1322": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1323": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1324": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1325": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1326": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1327": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1328": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1329": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1330": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1331": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1332": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1333": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1334": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1335": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1336": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1337": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1338": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1339": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1340": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1341": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1342": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1343": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1344": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1345": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1346": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1347": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1348": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1349": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1350": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1351": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1352": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1353": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1354": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1355": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1356": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1357": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1358": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1359": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1360": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1361": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1362": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1363": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1364": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1365": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1366": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1367": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1368": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1369": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1370": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1371": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1372": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1373": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1374": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1375": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1376": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1377": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1378": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1379": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1380": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1381": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1382": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1383": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1384": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1385": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1386": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1387": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1388": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1389": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1390": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1391": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1392": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1393": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1394": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1395": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1396": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1397": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1398": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1399": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1400": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1401": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1402": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1403": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1404": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1405": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1406": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1407": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1408": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1409": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1410": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1411": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1412": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1413": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1414": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1415": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1416": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1417": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1418": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1419": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1420": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1421": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1422": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1423": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1424": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1425": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1426": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1427": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1428": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1429": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1430": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1431": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1432": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1433": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1434": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1435": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1436": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1437": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1438": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1439": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1440": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1441": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1442": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1443": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1444": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1445": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1446": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1447": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1448": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1449": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1450": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1451": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1452": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1453": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1454": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1455": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1456": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1457": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1458": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1459": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1460": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1461": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1462": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1463": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1464": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1465": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1466": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1467": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1468": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1469": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1470": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1471": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1472": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1473": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1474": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1475": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1476": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1477": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1478": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1479": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1480": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1481": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1482": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1483": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1484": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1485": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1486": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1487": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1488": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1489": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1490": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1491": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1492": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1493": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1494": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1495": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1496": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1497": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1498": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1499": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1500": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1501": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1502": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1503": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1504": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1505": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1506": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1507": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1508": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1509": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1510": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1511": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1512": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1513": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1514": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1515": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1516": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1517": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1518": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1519": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1520": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1521": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1522": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1523": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1524": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1525": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1526": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1527": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1528": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1529": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1530": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1531": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1532": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1533": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1534": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1535": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1536": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1537": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1538": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1539": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1540": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1541": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1542": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1543": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1544": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1545": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1546": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1547": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1548": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1549": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1550": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1551": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1552": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1553": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1554": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1555": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1556": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1557": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1558": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1559": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1560": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1561": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1562": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1563": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1564": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1565": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1566": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1567": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1568": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1569": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1570": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1571": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1572": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1573": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1574": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1575": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1576": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1577": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1578": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1579": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1580": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1581": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1582": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1583": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1584": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1585": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1586": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1587": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1588": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1589": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1590": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1591": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1592": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1593": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1594": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1595": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1596": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1597": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1598": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1599": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1600": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1601": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1602": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1603": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1604": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1605": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1606": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1607": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1608": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1609": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1610": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1611": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1612": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1613": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1614": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1615": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1616": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1618": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1619": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1620": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1621": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1622": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1623": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1624": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1625": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1626": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1627": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1628": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1629": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1630": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1631": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1632": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1633": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1634": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1635": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1636": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1637": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1638": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1639": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1640": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1641": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1642": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1643": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1644": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1645": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1646": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1647": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1648": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1649": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1650": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1651": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1652": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1653": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1654": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1655": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1656": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1657": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1658": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1659": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1660": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1661": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1662": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1664": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1665": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1666": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1667": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1668": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1669": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1670": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1671": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1672": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1673": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1674": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1675": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1676": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1677": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1678": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1679": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1680": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1681": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1682": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1683": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1684": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1685": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1686": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1687": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1688": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1689": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1690": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1691": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1692": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1693": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1694": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1695": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1696": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1697": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1698": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1699": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1700": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1701": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1702": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1703": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1704": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1705": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1706": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1707": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1708": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1709": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1710": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1711": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1712": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1713": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1714": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1715": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1716": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1717": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1718": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1719": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1720": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1721": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1722": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1723": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1724": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1725": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1726": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1727": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1728": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1729": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1730": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1731": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1732": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1733": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1734": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1735": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1736": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1737": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1738": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1739": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1740": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1741": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1742": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1743": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1744": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1745": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1746": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1747": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1748": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1749": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1750": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1751": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1752": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1753": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1754": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1755": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1756": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1757": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1758": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1759": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1760": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1761": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1762": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1763": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1764": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1765": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1766": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1767": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1768": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1769": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1770": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1771": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1772": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1773": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1774": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1775": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1776": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1777": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1778": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1779": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1780": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1781": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1782": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1783": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1784": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1785": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1786": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1787": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1788": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1789": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1790": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1791": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1792": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1793": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1794": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1795": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1796": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1797": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1798": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1799": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1800": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1801": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1802": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1803": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1804": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1805": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1806": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1807": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1808": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1809": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1810": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1811": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1812": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1813": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1814": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1815": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1816": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1817": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1818": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1819": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1820": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1821": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1822": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1823": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1824": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1825": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1826": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1827": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1828": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1829": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1830": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1831": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1832": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1833": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1834": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1835": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1836": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1837": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1838": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1839": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1840": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1841": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1842": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1843": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1844": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1845+1733": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1846": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1847": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1848": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1849": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1850": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1851": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1852": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1853": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1854": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1855": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1856": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1857": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1858": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1859": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1860": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWa1861": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWb2001": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWb2002": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWb229": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWc3001": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWc3002": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWc3003": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWc3004": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWc3005": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWc3006": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWc3007": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWc3008": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWc3009": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWc3010": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWc3011": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWc3012": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWc3013": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWc3014": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWc3015": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWc3016": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWc3017": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWc3019": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWc3021": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWc3022": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWc3023": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWc3024": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWc<3018>": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWd1617": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWd1663": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTWeWc3020": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "HT"
+  },
+  "HTZb158a": {
+   "epoch": "LM",
+   "genre": "religious",
+   "site": "HT"
+  },
+  "HTZb158b": {
+   "epoch": "LM",
+   "genre": "religious",
+   "site": "HT"
+  },
+  "HTZb159": {
+   "epoch": "LM",
+   "genre": "religious",
+   "site": "HT"
+  },
+  "HTZb160": {
+   "epoch": "LM",
+   "genre": "religious",
+   "site": "HT"
+  },
+  "HTZb161": {
+   "epoch": "LM",
+   "genre": "religious",
+   "site": "HT"
+  },
+  "HTZb162": {
+   "epoch": "LM",
+   "genre": "religious",
+   "site": "HT"
+  },
+  "HTZb162bis": {
+   "epoch": "LM",
+   "genre": "religious",
+   "site": "HT"
+  },
+  "HTZd155": {
+   "epoch": "LM",
+   "genre": "religious",
+   "site": "HT"
+  },
+  "HTZd157+156": {
+   "epoch": "LM",
+   "genre": "religious",
+   "site": "HT"
+  },
+  "HTZf(HM767)": {
+   "epoch": "LM",
+   "genre": "religious",
+   "site": "HT"
+  },
+  "HTZf163": {
+   "epoch": "LM",
+   "genre": "religious",
+   "site": "HT"
+  },
+  "HTZf164": {
+   "epoch": "LM",
+   "genre": "religious",
+   "site": "HT"
+  },
+  "HTZf165": {
+   "epoch": "LM",
+   "genre": "religious",
+   "site": "HT"
+  },
+  "HTZf166": {
+   "epoch": "LM",
+   "genre": "religious",
+   "site": "HT"
+  },
+  "HTZf167": {
+   "epoch": "LM",
+   "genre": "religious",
+   "site": "HT"
+  },
+  "HTZf168": {
+   "epoch": "LM",
+   "genre": "religious",
+   "site": "HT"
+  },
+  "HTZf169": {
+   "epoch": "LM",
+   "genre": "religious",
+   "site": "HT"
+  },
+  "HTZg163": {
+   "epoch": "LM",
+   "genre": "religious",
+   "site": "HT"
+  },
+  "INZb1": {
+   "genre": "religious",
+   "site": "IN"
+  },
+  "IOZa11": {
+   "genre": "religious",
+   "site": "IO"
+  },
+  "IOZa12": {
+   "epoch": "LM",
+   "genre": "religious",
+   "site": "IO"
+  },
+  "IOZa13": {
+   "genre": "religious",
+   "site": "IO"
+  },
+  "IOZa14": {
+   "genre": "religious",
+   "site": "IO"
+  },
+  "IOZa15": {
+   "genre": "religious",
+   "site": "IO"
+  },
+  "IOZa16": {
+   "genre": "religious",
+   "site": "IO"
+  },
+  "IOZa2": {
+   "genre": "religious",
+   "site": "IO"
+  },
+  "IOZa3": {
+   "genre": "religious",
+   "site": "IO"
+  },
+  "IOZa4": {
+   "genre": "religious",
+   "site": "IO"
+  },
+  "IOZa5": {
+   "genre": "religious",
+   "site": "IO"
+  },
+  "IOZa6": {
+   "epoch": "LM",
+   "genre": "religious",
+   "site": "IO"
+  },
+  "IOZa7": {
+   "epoch": "LM",
+   "genre": "religious",
+   "site": "IO"
+  },
+  "IOZa8": {
+   "epoch": "LM",
+   "genre": "religious",
+   "site": "IO"
+  },
+  "IOZa9": {
+   "genre": "religious",
+   "site": "IO"
+  },
+  "IOZa<1>": {
+   "genre": "religious",
+   "site": "IO"
+  },
+  "IOZb10": {
+   "epoch": "LM",
+   "genre": "religious",
+   "site": "IO"
+  },
+  "KAMZb1": {
+   "genre": "religious",
+   "site": "KAM"
+  },
+  "KANZa1": {
+   "genre": "religious",
+   "site": "KAN"
+  },
+  "KAZf1": {
+   "genre": "religious",
+   "site": "KA"
+  },
+  "KE1": {
+   "epoch": "MM",
+   "genre": "administrative",
+   "site": "KE"
+  },
+  "KE6": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KE"
+  },
+  "KEWc2": {
+   "epoch": "MM",
+   "genre": "administrative",
+   "site": "KE"
+  },
+  "KEZb3": {
+   "epoch": "LM",
+   "genre": "religious",
+   "site": "KE"
+  },
+  "KEZb4": {
+   "epoch": "MM",
+   "genre": "religious",
+   "site": "KE"
+  },
+  "KEZb5": {
+   "epoch": "LM",
+   "genre": "religious",
+   "site": "KE"
+  },
+  "KEZb6": {
+   "genre": "religious",
+   "site": "KE"
+  },
+  "KEZb7": {
+   "genre": "religious",
+   "site": "KE"
+  },
+  "KH1": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH10": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH100": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH101": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH102": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH103": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH104": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH105": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH11": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH12": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH13": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH14": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH15": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH16": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH17": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH18": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH19": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH2": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH20": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH21": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH22": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH23": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH24": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH25": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH26": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH27": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH28": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH29": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH3": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH30": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH31": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH32": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH33": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH34": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH35": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH36": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH37": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH38": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH39": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH4": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH40": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH41": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH42": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH43": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH44": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH45": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH46": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH47": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH49": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH5": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH50": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH51": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH52": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH53": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH54": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH55": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH56": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH57": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH58": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH59": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH6": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH60": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH61": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH62": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH63": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH64": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH65": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH66": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH67": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH68+71": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH69": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH70": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH72": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH73": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH74": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH75": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH76": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH77": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH78": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH79": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH79+89": {
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH7a": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH7b": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH8": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH80": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH81": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH82": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH83": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH84": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH85": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH86": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH87": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH88": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH9": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH90": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH91": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH92": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH93": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH94": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH95": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH96": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH97a": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH97b": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KH99": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWa1001": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWa1002": {
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWa1003": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWa1004": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWa1005": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWa1006": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWa1007": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWa1008": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWa1009": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWa1010": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWa1011": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWa1012": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWa1013": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWa1014": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWa1015": {
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWa1016": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWa1017": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWa1018": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWa1019": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWa1020": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2001": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2002": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2003": {
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2004": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2005": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2006": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2007": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2008": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2009": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2010": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2011": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2012": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2013": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2014": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2015": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2016": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2017": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2018": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2019": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2020": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2021": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2022": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2023": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2024": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2025": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2026": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2027": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2028": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2029": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2030": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2031": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2032": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2033": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2034": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2035": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2036": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2037": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2038": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2039": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2040": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2041": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2042": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2043": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2044": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2045": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2046": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2047": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2048": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2049": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2050": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2051": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2052": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2053": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2054": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2055": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2056": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2057": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2058": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2059": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2060": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2061": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2062": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2063": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2064": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2065": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2066": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2067": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2068": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2069": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2070": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2074": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2079": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2084": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2088": {
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2089": {
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2091": {
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2092": {
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2095": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2096": {
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2097": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2098": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2099": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2100": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2101": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2102": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2103": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2104": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2105": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2106": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2109": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2110": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2111": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2113": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2114": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2115": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2117": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2118": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2121": {
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2122": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2123": {
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHWc2124": {
+   "genre": "administrative",
+   "site": "KH"
+  },
+  "KHZb98": {
+   "epoch": "MM",
+   "genre": "religious",
+   "site": "KH"
+  },
+  "KHZc106": {
+   "genre": "religious",
+   "site": "KH"
+  },
+  "KKHZb1": {
+   "epoch": "LM",
+   "genre": "religious",
+   "site": "KKH"
+  },
+  "KN1a": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KN"
+  },
+  "KN1b": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KN"
+  },
+  "KN2": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KN"
+  },
+  "KN22a": {
+   "genre": "administrative",
+   "site": "KN"
+  },
+  "KN22b": {
+   "genre": "administrative",
+   "site": "KN"
+  },
+  "KN22c": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KN"
+  },
+  "KN28a": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KN"
+  },
+  "KN28b": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "KN"
+  },
+  "KN32a": {
+   "genre": "administrative",
+   "site": "KN"
+  },
+  "KN32b": {
+   "genre": "administrative",
+   "site": "KN"
+  },
+  "KN49": {
+   "epoch": "MM",
+   "genre": "administrative",
+   "site": "KN"
+  },
+  "KN54": {
+   "genre": "administrative",
+   "site": "KN"
+  },
+  "KNWa50": {
+   "genre": "administrative",
+   "site": "KN"
+  },
+  "KNWa51": {
+   "genre": "administrative",
+   "site": "KN"
+  },
+  "KNWb33": {
+   "epoch": "MM",
+   "genre": "administrative",
+   "site": "KN"
+  },
+  "KNWb50": {
+   "genre": "administrative",
+   "site": "KN"
+  },
+  "KNWb51": {
+   "genre": "administrative",
+   "site": "KN"
+  },
+  "KNWc23": {
+   "genre": "administrative",
+   "site": "KN"
+  },
+  "KNWc26": {
+   "genre": "administrative",
+   "site": "KN"
+  },
+  "KNWc29": {
+   "epoch": "MM",
+   "genre": "administrative",
+   "site": "KN"
+  },
+  "KNWc3": {
+   "epoch": "MM",
+   "genre": "administrative",
+   "site": "KN"
+  },
+  "KNWc30": {
+   "epoch": "MM",
+   "genre": "administrative",
+   "site": "KN"
+  },
+  "KNWc42": {
+   "genre": "administrative",
+   "site": "KN"
+  },
+  "KNWc43": {
+   "genre": "administrative",
+   "site": "KN"
+  },
+  "KNWc48": {
+   "genre": "administrative",
+   "site": "KN"
+  },
+  "KNZa10": {
+   "epoch": "LM",
+   "genre": "religious",
+   "site": "KN"
+  },
+  "KNZa17": {
+   "epoch": "LM",
+   "genre": "religious",
+   "site": "KN"
+  },
+  "KNZa18": {
+   "epoch": "LM",
+   "genre": "religious",
+   "site": "KN"
+  },
+  "KNZa19": {
+   "genre": "religious",
+   "site": "KN"
+  },
+  "KNZb20": {
+   "epoch": "LM",
+   "genre": "religious",
+   "site": "KN"
+  },
+  "KNZb34": {
+   "epoch": "LM",
+   "genre": "religious",
+   "site": "KN"
+  },
+  "KNZb35": {
+   "epoch": "MM",
+   "genre": "religious",
+   "site": "KN"
+  },
+  "KNZb4": {
+   "genre": "religious",
+   "site": "KN"
+  },
+  "KNZb40": {
+   "epoch": "LM",
+   "genre": "religious",
+   "site": "KN"
+  },
+  "KNZb5": {
+   "epoch": "MM",
+   "genre": "religious",
+   "site": "KN"
+  },
+  "KNZb52": {
+   "epoch": "LM",
+   "genre": "religious",
+   "site": "KN"
+  },
+  "KNZb56": {
+   "genre": "religious",
+   "site": "KN"
+  },
+  "KNZb<27>": {
+   "epoch": "MM",
+   "genre": "religious",
+   "site": "KN"
+  },
+  "KNZb<36>": {
+   "genre": "religious",
+   "site": "KN"
+  },
+  "KNZb<37>": {
+   "genre": "religious",
+   "site": "KN"
+  },
+  "KNZb<38>": {
+   "genre": "religious",
+   "site": "KN"
+  },
+  "KNZb<39>": {
+   "genre": "religious",
+   "site": "KN"
+  },
+  "KNZc6": {
+   "epoch": "MM",
+   "genre": "religious",
+   "site": "KN"
+  },
+  "KNZc7": {
+   "epoch": "MM",
+   "genre": "religious",
+   "site": "KN"
+  },
+  "KNZd46": {
+   "genre": "religious",
+   "site": "KN"
+  },
+  "KNZe16": {
+   "epoch": "LM",
+   "genre": "religious",
+   "site": "KN"
+  },
+  "KNZe44": {
+   "genre": "religious",
+   "site": "KN"
+  },
+  "KNZe45": {
+   "genre": "religious",
+   "site": "KN"
+  },
+  "KNZe49": {
+   "genre": "religious",
+   "site": "KN"
+  },
+  "KNZe56": {
+   "genre": "religious",
+   "site": "KN"
+  },
+  "KNZf13": {
+   "genre": "religious",
+   "site": "KN"
+  },
+  "KNZf31": {
+   "genre": "religious",
+   "site": "KN"
+  },
+  "KNZg55": {
+   "epoch": "LM",
+   "genre": "religious",
+   "site": "KN"
+  },
+  "KNZg57a": {
+   "genre": "religious",
+   "site": "KN"
+  },
+  "KNZg57b": {
+   "genre": "religious",
+   "site": "KN"
+  },
+  "KNZg58": {
+   "genre": "religious",
+   "site": "KN"
+  },
+  "KNZg<21>": {
+   "epoch": "LM",
+   "genre": "religious",
+   "site": "KN"
+  },
+  "KNsceau": {
+   "genre": "administrative",
+   "site": "KN"
+  },
+  "KOZa1": {
+   "genre": "religious",
+   "site": "KO"
+  },
+  "KOZf2": {
+   "genre": "religious",
+   "site": "KO"
+  },
+  "KYZa2": {
+   "genre": "religious",
+   "site": "KY"
+  },
+  "KYZg1": {
+   "epoch": "LM",
+   "genre": "religious",
+   "site": "KY"
+  },
+  "LACHZa1": {
+   "genre": "religious",
+   "site": "LACH"
+  },
+  "LAZb1(bis)": {
+   "genre": "religious",
+   "site": "LA"
+  },
+  "MA10a": {
+   "epoch": "MM",
+   "genre": "administrative",
+   "site": "MA"
+  },
+  "MA10b": {
+   "epoch": "MM",
+   "genre": "administrative",
+   "site": "MA"
+  },
+  "MA10c": {
+   "epoch": "MM",
+   "genre": "administrative",
+   "site": "MA"
+  },
+  "MA10d": {
+   "epoch": "MM",
+   "genre": "administrative",
+   "site": "MA"
+  },
+  "MA1a": {
+   "epoch": "MM",
+   "genre": "administrative",
+   "site": "MA"
+  },
+  "MA1b": {
+   "epoch": "MM",
+   "genre": "administrative",
+   "site": "MA"
+  },
+  "MA1c": {
+   "epoch": "MM",
+   "genre": "administrative",
+   "site": "MA"
+  },
+  "MA2a": {
+   "epoch": "MM",
+   "genre": "administrative",
+   "site": "MA"
+  },
+  "MA2b": {
+   "epoch": "MM",
+   "genre": "administrative",
+   "site": "MA"
+  },
+  "MA2c": {
+   "epoch": "MM",
+   "genre": "administrative",
+   "site": "MA"
+  },
+  "MA4a": {
+   "epoch": "MM",
+   "genre": "administrative",
+   "site": "MA"
+  },
+  "MA4b": {
+   "epoch": "MM",
+   "genre": "administrative",
+   "site": "MA"
+  },
+  "MA6a": {
+   "epoch": "MM",
+   "genre": "administrative",
+   "site": "MA"
+  },
+  "MA6b": {
+   "epoch": "MM",
+   "genre": "administrative",
+   "site": "MA"
+  },
+  "MA6c": {
+   "epoch": "MM",
+   "genre": "administrative",
+   "site": "MA"
+  },
+  "MA6d": {
+   "epoch": "MM",
+   "genre": "administrative",
+   "site": "MA"
+  },
+  "MA9": {
+   "epoch": "MM",
+   "genre": "administrative",
+   "site": "MA"
+  },
+  "MARGWa1-26": {
+   "genre": "administrative",
+   "site": "MARG"
+  },
+  "MAWc7": {
+   "epoch": "MM",
+   "genre": "administrative",
+   "site": "MA"
+  },
+  "MAWc<5>": {
+   "genre": "administrative",
+   "site": "MA"
+  },
+  "MAZb15": {
+   "genre": "religious",
+   "site": "MA"
+  },
+  "MAZb8": {
+   "epoch": "LM",
+   "genre": "religious",
+   "site": "MA"
+  },
+  "MAZe11": {
+   "genre": "religious",
+   "site": "MA"
+  },
+  "MI2": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "MI"
+  },
+  "MILZb1": {
+   "genre": "religious",
+   "site": "MIL"
+  },
+  "MILZb2": {
+   "genre": "religious",
+   "site": "MIL"
+  },
+  "MILZb3": {
+   "genre": "religious",
+   "site": "MIL"
+  },
+  "MILZb4": {
+   "genre": "religious",
+   "site": "MIL"
+  },
+  "MIZb1": {
+   "genre": "religious",
+   "site": "MI"
+  },
+  "MIZb3": {
+   "genre": "religious",
+   "site": "MI"
+  },
+  "MOZb2?": {
+   "genre": "religious",
+   "site": "MO"
+  },
+  "MOZb3?": {
+   "genre": "religious",
+   "site": "MO"
+  },
+  "MOZf1": {
+   "genre": "religious",
+   "site": "MO"
+  },
+  "MYZf1": {
+   "genre": "religious",
+   "site": "MY"
+  },
+  "MYZf2": {
+   "genre": "religious",
+   "site": "MY"
+  },
+  "MYZg1": {
+   "genre": "religious",
+   "site": "MY"
+  },
+  "NEZa1": {
+   "genre": "religious",
+   "site": "NE"
+  },
+  "PA1": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "PA"
+  },
+  "PE1": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "PE"
+  },
+  "PE2": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "PE"
+  },
+  "PETSWc": {
+   "genre": "administrative",
+   "site": "PETS"
+  },
+  "PEWs": {
+   "genre": "administrative",
+   "site": "PE"
+  },
+  "PEWy5": {
+   "genre": "administrative",
+   "site": "PE"
+  },
+  "PEZb": {
+   "genre": "religious",
+   "site": "PE"
+  },
+  "PEZb3": {
+   "epoch": "LM",
+   "genre": "religious",
+   "site": "PE"
+  },
+  "PEZb7": {
+   "epoch": "LM",
+   "genre": "religious",
+   "site": "PE"
+  },
+  "PEZb8": {
+   "epoch": "LM",
+   "genre": "religious",
+   "site": "PE"
+  },
+  "PEZc4": {
+   "epoch": "LM",
+   "genre": "religious",
+   "site": "PE"
+  },
+  "PEZg5": {
+   "epoch": "LM",
+   "genre": "religious",
+   "site": "PE"
+  },
+  "PEZg6": {
+   "genre": "religious",
+   "site": "PE"
+  },
+  "PH10": {
+   "epoch": "MM",
+   "genre": "administrative",
+   "site": "PH"
+  },
+  "PH11": {
+   "epoch": "MM",
+   "genre": "administrative",
+   "site": "PH"
+  },
+  "PH12a": {
+   "epoch": "MM",
+   "genre": "administrative",
+   "site": "PH"
+  },
+  "PH12b": {
+   "epoch": "MM",
+   "genre": "administrative",
+   "site": "PH"
+  },
+  "PH12c": {
+   "epoch": "MM",
+   "genre": "administrative",
+   "site": "PH"
+  },
+  "PH13a": {
+   "epoch": "MM",
+   "genre": "administrative",
+   "site": "PH"
+  },
+  "PH13b": {
+   "epoch": "MM",
+   "genre": "administrative",
+   "site": "PH"
+  },
+  "PH13c": {
+   "epoch": "MM",
+   "genre": "administrative",
+   "site": "PH"
+  },
+  "PH14a": {
+   "epoch": "MM",
+   "genre": "administrative",
+   "site": "PH"
+  },
+  "PH14b": {
+   "epoch": "MM",
+   "genre": "administrative",
+   "site": "PH"
+  },
+  "PH15a": {
+   "epoch": "MM",
+   "genre": "administrative",
+   "site": "PH"
+  },
+  "PH15b": {
+   "epoch": "MM",
+   "genre": "administrative",
+   "site": "PH"
+  },
+  "PH16a": {
+   "epoch": "MM",
+   "genre": "administrative",
+   "site": "PH"
+  },
+  "PH16b": {
+   "epoch": "MM",
+   "genre": "administrative",
+   "site": "PH"
+  },
+  "PH17a": {
+   "epoch": "MM",
+   "genre": "administrative",
+   "site": "PH"
+  },
+  "PH17b": {
+   "epoch": "MM",
+   "genre": "administrative",
+   "site": "PH"
+  },
+  "PH18a": {
+   "epoch": "MM",
+   "genre": "administrative",
+   "site": "PH"
+  },
+  "PH18b": {
+   "epoch": "MM",
+   "genre": "administrative",
+   "site": "PH"
+  },
+  "PH19": {
+   "epoch": "MM",
+   "genre": "administrative",
+   "site": "PH"
+  },
+  "PH1a": {
+   "epoch": "MM",
+   "genre": "administrative",
+   "site": "PH"
+  },
+  "PH1b": {
+   "epoch": "MM",
+   "genre": "administrative",
+   "site": "PH"
+  },
+  "PH2": {
+   "genre": "administrative",
+   "site": "PH"
+  },
+  "PH22a": {
+   "epoch": "MM",
+   "genre": "administrative",
+   "site": "PH"
+  },
+  "PH22b": {
+   "epoch": "MM",
+   "genre": "administrative",
+   "site": "PH"
+  },
+  "PH24": {
+   "epoch": "MM",
+   "genre": "administrative",
+   "site": "PH"
+  },
+  "PH25": {
+   "epoch": "MM",
+   "genre": "administrative",
+   "site": "PH"
+  },
+  "PH26": {
+   "epoch": "MM",
+   "genre": "administrative",
+   "site": "PH"
+  },
+  "PH27": {
+   "epoch": "MM",
+   "genre": "administrative",
+   "site": "PH"
+  },
+  "PH28a": {
+   "epoch": "MM",
+   "genre": "administrative",
+   "site": "PH"
+  },
+  "PH28b": {
+   "epoch": "MM",
+   "genre": "administrative",
+   "site": "PH"
+  },
+  "PH29a": {
+   "genre": "administrative",
+   "site": "PH"
+  },
+  "PH29b": {
+   "genre": "administrative",
+   "site": "PH"
+  },
+  "PH30": {
+   "epoch": "MM",
+   "genre": "administrative",
+   "site": "PH"
+  },
+  "PH31a": {
+   "genre": "administrative",
+   "site": "PH"
+  },
+  "PH31b": {
+   "genre": "administrative",
+   "site": "PH"
+  },
+  "PH3a": {
+   "epoch": "MM",
+   "genre": "administrative",
+   "site": "PH"
+  },
+  "PH3b": {
+   "epoch": "MM",
+   "genre": "administrative",
+   "site": "PH"
+  },
+  "PH54": {
+   "epoch": "MM",
+   "genre": "administrative",
+   "site": "PH"
+  },
+  "PH6": {
+   "epoch": "MM",
+   "genre": "administrative",
+   "site": "PH"
+  },
+  "PH7a": {
+   "epoch": "MM",
+   "genre": "administrative",
+   "site": "PH"
+  },
+  "PH7b": {
+   "epoch": "MM",
+   "genre": "administrative",
+   "site": "PH"
+  },
+  "PH8a": {
+   "epoch": "MM",
+   "genre": "administrative",
+   "site": "PH"
+  },
+  "PH8b": {
+   "epoch": "MM",
+   "genre": "administrative",
+   "site": "PH"
+  },
+  "PH9a": {
+   "epoch": "MM",
+   "genre": "administrative",
+   "site": "PH"
+  },
+  "PH9b": {
+   "epoch": "MM",
+   "genre": "administrative",
+   "site": "PH"
+  },
+  "PHWa32": {
+   "epoch": "MM",
+   "genre": "administrative",
+   "site": "PH"
+  },
+  "PHWa52": {
+   "epoch": "MM",
+   "genre": "administrative",
+   "site": "PH"
+  },
+  "PHWb33": {
+   "epoch": "MM",
+   "genre": "administrative",
+   "site": "PH"
+  },
+  "PHWb34": {
+   "epoch": "MM",
+   "genre": "administrative",
+   "site": "PH"
+  },
+  "PHWb35": {
+   "epoch": "MM",
+   "genre": "administrative",
+   "site": "PH"
+  },
+  "PHWb36": {
+   "epoch": "MM",
+   "genre": "administrative",
+   "site": "PH"
+  },
+  "PHWb55": {
+   "epoch": "MM",
+   "genre": "administrative",
+   "site": "PH"
+  },
+  "PHWc37": {
+   "epoch": "MM",
+   "genre": "administrative",
+   "site": "PH"
+  },
+  "PHWc38": {
+   "epoch": "MM",
+   "genre": "administrative",
+   "site": "PH"
+  },
+  "PHWc39": {
+   "epoch": "MM",
+   "genre": "administrative",
+   "site": "PH"
+  },
+  "PHWc40": {
+   "epoch": "MM",
+   "genre": "administrative",
+   "site": "PH"
+  },
+  "PHWc41": {
+   "epoch": "MM",
+   "genre": "administrative",
+   "site": "PH"
+  },
+  "PHWc43": {
+   "epoch": "MM",
+   "genre": "administrative",
+   "site": "PH"
+  },
+  "PHWc44": {
+   "epoch": "MM",
+   "genre": "administrative",
+   "site": "PH"
+  },
+  "PHWc46": {
+   "epoch": "MM",
+   "genre": "administrative",
+   "site": "PH"
+  },
+  "PHWg45": {
+   "epoch": "MM",
+   "genre": "administrative",
+   "site": "PH"
+  },
+  "PHWy42": {
+   "epoch": "MM",
+   "genre": "administrative",
+   "site": "PH"
+  },
+  "PHZb4": {
+   "genre": "religious",
+   "site": "PH"
+  },
+  "PHZb48": {
+   "epoch": "MM",
+   "genre": "religious",
+   "site": "PH"
+  },
+  "PHZb5": {
+   "genre": "religious",
+   "site": "PH"
+  },
+  "PHZb<47>": {
+   "epoch": "MM",
+   "genre": "religious",
+   "site": "PH"
+  },
+  "PK1": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "PK"
+  },
+  "PK3": {
+   "genre": "administrative",
+   "site": "PK"
+  },
+  "PKZa10": {
+   "genre": "religious",
+   "site": "PK"
+  },
+  "PKZa11": {
+   "genre": "religious",
+   "site": "PK"
+  },
+  "PKZa12": {
+   "genre": "religious",
+   "site": "PK"
+  },
+  "PKZa14": {
+   "genre": "religious",
+   "site": "PK"
+  },
+  "PKZa15": {
+   "genre": "religious",
+   "site": "PK"
+  },
+  "PKZa16": {
+   "genre": "religious",
+   "site": "PK"
+  },
+  "PKZa17": {
+   "genre": "religious",
+   "site": "PK"
+  },
+  "PKZa18": {
+   "genre": "religious",
+   "site": "PK"
+  },
+  "PKZa20": {
+   "genre": "religious",
+   "site": "PK"
+  },
+  "PKZa27": {
+   "genre": "religious",
+   "site": "PK"
+  },
+  "PKZa28": {
+   "genre": "religious",
+   "site": "PK"
+  },
+  "PKZa4": {
+   "genre": "religious",
+   "site": "PK"
+  },
+  "PKZa8": {
+   "genre": "religious",
+   "site": "PK"
+  },
+  "PKZa9": {
+   "genre": "religious",
+   "site": "PK"
+  },
+  "PKZb19": {
+   "genre": "religious",
+   "site": "PK"
+  },
+  "PKZb21": {
+   "genre": "religious",
+   "site": "PK"
+  },
+  "PKZb23": {
+   "genre": "religious",
+   "site": "PK"
+  },
+  "PKZb24": {
+   "genre": "religious",
+   "site": "PK"
+  },
+  "PKZb25": {
+   "genre": "religious",
+   "site": "PK"
+  },
+  "PKZb26": {
+   "genre": "religious",
+   "site": "PK"
+  },
+  "PKZb?": {
+   "genre": "religious",
+   "site": "PK"
+  },
+  "PKZc13": {
+   "genre": "religious",
+   "site": "PK"
+  },
+  "PKZg22": {
+   "genre": "religious",
+   "site": "PK"
+  },
+  "PLZf1": {
+   "genre": "religious",
+   "site": "PL"
+  },
+  "PORZf2": {
+   "genre": "religious",
+   "site": "POR"
+  },
+  "POZc1": {
+   "epoch": "LM",
+   "genre": "religious",
+   "site": "PO"
+  },
+  "PRZa1": {
+   "epoch": "LM",
+   "genre": "religious",
+   "site": "PR"
+  },
+  "PSIZa1": {
+   "epoch": "LM",
+   "genre": "religious",
+   "site": "PSI"
+  },
+  "PSIZa2": {
+   "epoch": "LM",
+   "genre": "religious",
+   "site": "PSI"
+  },
+  "PSZa2": {
+   "genre": "religious",
+   "site": "PS"
+  },
+  "PYR1": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "PYR"
+  },
+  "PYR2": {
+   "genre": "administrative",
+   "site": "PYR"
+  },
+  "PYRWc4": {
+   "genre": "administrative",
+   "site": "PYR"
+  },
+  "PYRZb5": {
+   "epoch": "LM",
+   "genre": "religious",
+   "site": "PYR"
+  },
+  "SAMWa1": {
+   "epoch": "MM",
+   "genre": "administrative",
+   "site": "SAM"
+  },
+  "SAMWe4": {
+   "genre": "administrative",
+   "site": "SAM"
+  },
+  "SEZf1": {
+   "genre": "religious",
+   "site": "SE"
+  },
+  "SIZg1": {
+   "genre": "religious",
+   "site": "SI"
+  },
+  "SKOZc1": {
+   "genre": "religious",
+   "site": "SKO"
+  },
+  "SKZb1": {
+   "genre": "religious",
+   "site": "SK"
+  },
+  "SYZa1": {
+   "epoch": "MM",
+   "genre": "religious",
+   "site": "SY"
+  },
+  "SYZa10": {
+   "epoch": "LM",
+   "genre": "religious",
+   "site": "SY"
+  },
+  "SYZa11": {
+   "epoch": "LM",
+   "genre": "religious",
+   "site": "SY"
+  },
+  "SYZa12": {
+   "epoch": "LM",
+   "genre": "religious",
+   "site": "SY"
+  },
+  "SYZa2": {
+   "epoch": "LM",
+   "genre": "religious",
+   "site": "SY"
+  },
+  "SYZa3": {
+   "epoch": "LM",
+   "genre": "religious",
+   "site": "SY"
+  },
+  "SYZa4": {
+   "epoch": "LM",
+   "genre": "religious",
+   "site": "SY"
+  },
+  "SYZa5": {
+   "genre": "religious",
+   "site": "SY"
+  },
+  "SYZa6": {
+   "epoch": "MM",
+   "genre": "religious",
+   "site": "SY"
+  },
+  "SYZa8": {
+   "epoch": "LM",
+   "genre": "religious",
+   "site": "SY"
+  },
+  "SYZa9": {
+   "epoch": "LM",
+   "genre": "religious",
+   "site": "SY"
+  },
+  "SYZb7": {
+   "genre": "religious",
+   "site": "SY"
+  },
+  "TELZb1": {
+   "genre": "religious",
+   "site": "TEL"
+  },
+  "THEZb1": {
+   "genre": "religious",
+   "site": "THE"
+  },
+  "THEZb13": {
+   "genre": "religious",
+   "site": "THE"
+  },
+  "THEZb15": {
+   "genre": "religious",
+   "site": "THE"
+  },
+  "THEZb2": {
+   "epoch": "LM",
+   "genre": "religious",
+   "site": "THE"
+  },
+  "THEZb3": {
+   "epoch": "LM",
+   "genre": "religious",
+   "site": "THE"
+  },
+  "THEZb4": {
+   "epoch": "LM",
+   "genre": "religious",
+   "site": "THE"
+  },
+  "THEZb5": {
+   "genre": "religious",
+   "site": "THE"
+  },
+  "THEZb6": {
+   "genre": "religious",
+   "site": "THE"
+  },
+  "THEZb7": {
+   "genre": "religious",
+   "site": "THE"
+  },
+  "THEZg15": {
+   "genre": "religious",
+   "site": "THE"
+  },
+  "THEZg16": {
+   "genre": "religious",
+   "site": "THE"
+  },
+  "THEZg5": {
+   "genre": "religious",
+   "site": "THE"
+  },
+  "THEfr.1": {
+   "genre": "administrative",
+   "site": "THE"
+  },
+  "THEfr.2": {
+   "genre": "administrative",
+   "site": "THE"
+  },
+  "THEfr.3": {
+   "genre": "administrative",
+   "site": "THE"
+  },
+  "THEtab.4": {
+   "genre": "administrative",
+   "site": "THE"
+  },
+  "THEtab.5": {
+   "genre": "administrative",
+   "site": "THE"
+  },
+  "THEtab.6": {
+   "genre": "administrative",
+   "site": "THE"
+  },
+  "TIZb1": {
+   "genre": "religious",
+   "site": "TI"
+  },
+  "TLZa1": {
+   "genre": "religious",
+   "site": "TL"
+  },
+  "TRAZb1": {
+   "genre": "religious",
+   "site": "TRA"
+  },
+  "TROZg1": {
+   "genre": "religious",
+   "site": "TRO"
+  },
+  "TROZg2": {
+   "genre": "religious",
+   "site": "TRO"
+  },
+  "TRYZb1": {
+   "genre": "religious",
+   "site": "TRY"
+  },
+  "TY2": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "TY"
+  },
+  "TY3a": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "TY"
+  },
+  "TY3b": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "TY"
+  },
+  "TYWc5": {
+   "genre": "administrative",
+   "site": "TY"
+  },
+  "TYZb4": {
+   "genre": "religious",
+   "site": "TY"
+  },
+  "TYZg1": {
+   "epoch": "LM",
+   "genre": "religious",
+   "site": "TY"
+  },
+  "VRYZa1": {
+   "genre": "religious",
+   "site": "VRY"
+  },
+  "VRYZb2": {
+   "genre": "religious",
+   "site": "VRY"
+  },
+  "VRYZb3": {
+   "genre": "religious",
+   "site": "VRY"
+  },
+  "ZA10a": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "ZA"
+  },
+  "ZA10b": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "ZA"
+  },
+  "ZA11a": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "ZA"
+  },
+  "ZA11b": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "ZA"
+  },
+  "ZA12a": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "ZA"
+  },
+  "ZA12b": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "ZA"
+  },
+  "ZA13": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "ZA"
+  },
+  "ZA14": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "ZA"
+  },
+  "ZA15a": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "ZA"
+  },
+  "ZA15b": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "ZA"
+  },
+  "ZA16": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "ZA"
+  },
+  "ZA17": {
+   "genre": "administrative",
+   "site": "ZA"
+  },
+  "ZA18a": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "ZA"
+  },
+  "ZA18b": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "ZA"
+  },
+  "ZA19": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "ZA"
+  },
+  "ZA1a": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "ZA"
+  },
+  "ZA1b": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "ZA"
+  },
+  "ZA20": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "ZA"
+  },
+  "ZA21a": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "ZA"
+  },
+  "ZA21b": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "ZA"
+  },
+  "ZA22": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "ZA"
+  },
+  "ZA23": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "ZA"
+  },
+  "ZA24a": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "ZA"
+  },
+  "ZA24b": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "ZA"
+  },
+  "ZA25": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "ZA"
+  },
+  "ZA26a": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "ZA"
+  },
+  "ZA26b": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "ZA"
+  },
+  "ZA27": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "ZA"
+  },
+  "ZA28": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "ZA"
+  },
+  "ZA29": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "ZA"
+  },
+  "ZA30": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "ZA"
+  },
+  "ZA31": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "ZA"
+  },
+  "ZA32": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "ZA"
+  },
+  "ZA33": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "ZA"
+  },
+  "ZA4a": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "ZA"
+  },
+  "ZA4b": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "ZA"
+  },
+  "ZA5a": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "ZA"
+  },
+  "ZA5b": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "ZA"
+  },
+  "ZA6a": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "ZA"
+  },
+  "ZA6b": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "ZA"
+  },
+  "ZA7a": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "ZA"
+  },
+  "ZA7b": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "ZA"
+  },
+  "ZA8": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "ZA"
+  },
+  "ZA9": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "ZA"
+  },
+  "ZAWa36": {
+   "genre": "administrative",
+   "site": "ZA"
+  },
+  "ZAWa38": {
+   "genre": "administrative",
+   "site": "ZA"
+  },
+  "ZAWb37": {
+   "genre": "administrative",
+   "site": "ZA"
+  },
+  "ZAWc2": {
+   "epoch": "LM",
+   "genre": "administrative",
+   "site": "ZA"
+  },
+  "ZAZb3": {
+   "epoch": "LM",
+   "genre": "religious",
+   "site": "ZA"
+  },
+  "ZAZb34": {
+   "epoch": "LM",
+   "genre": "religious",
+   "site": "ZA"
+  },
+  "ZAZb39": {
+   "genre": "religious",
+   "site": "ZA"
+  },
+  "ZAZg34": {
+   "genre": "religious",
+   "site": "ZA"
+  },
+  "ZAZg35": {
+   "epoch": "LM",
+   "genre": "religious",
+   "site": "ZA"
+  },
+  "ZO1": {
+   "genre": "administrative",
+   "site": "ZO"
+  },
+  "ZOZa1": {
+   "genre": "religious",
+   "site": "ZO"
+  }
+ },
+ "meta": {
+  "doi_all_versions": "10.5281/zenodo.21262274",
+  "license": "MIT (code); tags derive from open data credited in DATA_SOURCES.md",
+  "note": "Tags are statistical class labels with report sections and exploratory p-values; none is a translation.",
+  "repo": "https://github.com/Zolden/DecipherLinearA",
+  "source": "DecipherLinearA — reproducible statistical framework",
+  "version": "v1.3"
+ },
+ "words": {
+  "A-DI-KI-TE-TE": [
+   "formula:slot-2 geo-word, Petsofas cluster (site-specific p=0.012, §K; cf. Valério hypothesis)"
+  ],
+  "A-DU": [
+   "operator:header, document-initial (67%; §BO p_fam=0.005)"
+  ],
+  "A-KA-RU": [
+   "grain-class:list header (HT86; GRA 2/3, p=0.041, §CX)"
+  ],
+  "A-RA-NA-RE": [
+   "near-homograph: LB a-ra-na-ro (§BX/§BZ)"
+  ],
+  "A-TA-I-*301-WA-JA": [
+   "formula:libation opening, document-initial 100% (§BO p_fam=0.0001)"
+  ],
+  "DA-I-PI-TA": [
+   "anchor:name-candidate (LB record-slot confirmed; §BN/§BT p=0.0004 family)"
+  ],
+  "DA-ME": [
+   "grain-class:list entry (GRA 3/4, p=0.0064, §CX; overlapping documents caveat)"
+  ],
+  "DI-DE-RU": [
+   "grain-class:list entry (HT86a/95; also §BZ adaptation pair di-de-ro)"
+  ],
+  "DU-PU2-RE": [
+   "formula:productive second element of slot-2 (§X; cf. Valério hypothesis)"
+  ],
+  "I-DA": [
+   "operator:cultic counterpart of A-DU (§AK/§BC)"
+  ],
+  "I-JA-TE": [
+   "anchor:name-candidate (slot-confirmed; §BN/§BT)"
+  ],
+  "I-TA-JA": [
+   "anchor:name-candidate (slot-confirmed; §BN/§BT)"
+  ],
+  "JA-SA-SA-RA-ME": [
+   "formula:slot-3+ core (SA-SA-RA paradigm, 10 forms; §AW)"
+  ],
+  "KA-U-DE-TA": [
+   "near-homograph: LB ka-u-ti-ta (§BX); header before TE (HT13, §BW)"
+  ],
+  "KI-DA-RO": [
+   "anchor:name-candidate (slot-confirmed; §BN/§BT)"
+  ],
+  "KI-RE-TA-NA": [
+   "grain-class:candidate (GRA 2/3, p=0.048; §CP/§CT)"
+  ],
+  "KI-RE-TA2": [
+   "grain-class:candidate (family of KI-RI-TA2; §CP/§CU)"
+  ],
+  "KI-RI-TA2": [
+   "grain-class:candidate ~ krithē-type (GRA 2/2, p=0.0175; §CP/§CT)"
+  ],
+  "KI-RO": [
+   "operator:deficit, non-positional line annotation (§BO/§BR)"
+  ],
+  "KU-NI-SU": [
+   "grain-class:candidate ~ Akk. kunāšu (pre-declared test: GRA 3/5, p=0.015; metrology 0% duodecimal; §CP/§CT)"
+  ],
+  "KU-RO": [
+   "operator:total, closing block (39% final + 33% penultimate; §BO p_fam=0.008, §BR p_fam=0.028)"
+  ],
+  "PA-I-TO": [
+   "anchor:toponym (exact LB pa-i-to; report §H/§BN)"
+  ],
+  "PA-RA-NE": [
+   "anchor:name-candidate (slot-confirmed; §BN/§BT)"
+  ],
+  "PI-TA-KE-SI": [
+   "near-homograph: LB pi-ta-ke-u (§BX)"
+  ],
+  "PO-TO-KU-RO": [
+   "operator:grand total (§BC)"
+  ],
+  "QA-RA2-WA": [
+   "grain-class:list entry (HT86a; §BZ pair qa-ra2-wo)"
+  ],
+  "QA-TI-JU": [
+   "near-homograph: LB qa-ti-ja (§BZ list)"
+  ],
+  "SA-RA2": [
+   "operator:second-position account term (56% at position 2, never first/last; §BR p_fam=0.0029)"
+  ],
+  "SA-RU": [
+   "grain-class:list entry (GRA 3/6, p=0.027, §CX; overlapping documents caveat)"
+  ],
+  "SE-TO-I-JA": [
+   "anchor:toponym (LB se-to-i-ja/-jo; §BN/§BX)"
+  ],
+  "SI-RU-TE": [
+   "operator:libation-formula finalizer (100% religious; §BC)"
+  ],
+  "SU-KI-RI-TA": [
+   "anchor:toponym (LB su-ki-ri-ta/-to; §BN/§BX)"
+  ],
+  "TA-NA-TI": [
+   "anchor:name-candidate (slot-confirmed; §BN/§BT)"
+  ],
+  "TE": [
+   "operator:second-position tag (54% at position 2; §BR p_fam=0.0012)"
+  ]
+ }
+}

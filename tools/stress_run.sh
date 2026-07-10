@@ -114,5 +114,7 @@ run analyze_fog2.py fog2.log
 run analyze_grain_class.py grain_class.log
 # этап 25
 run analyze_fog3.py fog3.log
+# этап 27 (hogan_classes/grid_roles вне ростера — гитигнорный .hogan_cache.js)
+run make_network_overlay.py network_overlay.log
 echo "FAIL=$FAIL"
 echo STRESS_DONE
