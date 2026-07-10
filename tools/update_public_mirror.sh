@@ -8,7 +8,7 @@ DEST=../DecipherLinearA-public
 [ -d "$DEST/.git" ] || { echo "нет $DEST/.git — сначала make_public_mirror.sh"; exit 1; }
 git ls-files | while read -r f; do
   case "$f" in
-    corpus_raw.json|imagemap.json|commentary.tar|contact_draft.md|fractions_part.log|.lbxyz_cache.js)
+    corpus_raw.json|imagemap.json|commentary.tar|contact_draft.md|fractions_part.log|.lbxyz_cache.js|INPUT_FROM_SOL.md)
       continue;;
   esac
   mkdir -p "$DEST/$(dirname "$f")"

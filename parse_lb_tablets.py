@@ -17,7 +17,7 @@ from collections import Counter, defaultdict
 
 sys.stdout.reconfigure(encoding='utf-8')
 
-PAGES = r'C:\Users\Zolden\AppData\Local\Temp\claude\C--OtherProjects-DecipherLinearA\326d5771-1722-4f92-9507-d4b90f84c275\scratchpad\lb_pages'
+PAGES = r".lb_pages"  # локальный кэш Wayback-скрейпа (не в git); см. §AH
 
 TABLET = re.compile(r'\b(KN|PY|KH|MY|TI|TH|EL)\s+([A-Z][a-z]{0,2})\s*\(?(\d+)')
 WORD = re.compile(r'(?<![a-zA-Z0-9*-])((?:[a-z][a-z0-9]?|\*\d+)'

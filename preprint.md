@@ -1,19 +1,30 @@
 # Structure without Reading: a Reproducible Statistical Framework for Linear A
 
-**Preprint v1.3 — 2026-07-09** (v1.2: 2026-07-08; v1.1: 2026-07-08; v1.0: 2026-07-06)
+**Preprint v1.4 — 2026-07-10** (v1.3: 2026-07-09; v1.2/v1.1: 2026-07-08; v1.0: 2026-07-06)
 Repository: https://github.com/Zolden/DecipherLinearA —
 DOI (latest release): https://doi.org/10.5281/zenodo.21266454 (all versions: https://doi.org/10.5281/zenodo.21262274)
 (Full research log with all intermediate tests: `linear_a_full_report_v2.md`,
-sections §0–§DB; every number regenerates under seed=42, PYTHONHASHSEED=0.)
-*New in v1.3:* a grain commodity-word class established through a cascade
-of independent arbiters — areal-lexicon phonetics, commodity-logogram
-co-occurrence (pre-declared KU-NI-SU test p=0.015; family-wise
-P(three grain hits)=0.0003), metrological environment (0% duodecimal),
-and list microstructure (§4a); genre-dependence of positional openness
-(religious inversion, p=0.041, §5); external convergences with the 2026
-AURA volume — our record grammar quantifies Hogan's transaction classes,
-and five of five anchors present in his annotation carry his independent
-agent roles (§7).
+sections §0–§DG; every number regenerates under seed=42, PYTHONHASHSEED=0.)
+*New in v1.4 — after an independent external audit (report archived as
+INPUT_FROM_SOL.md in the research repository):* the V/CV positional test
+is confirmed by exhaustive enumeration (p=0.00049) and is our single
+headline claim; the onomastic slot result is downgraded to *post-selected
+discovery* (slots N6/N7 were added after diagnosing specific misses; the
+two Linear B digitizations are overlapping transcriptions of one corpus,
+Jaccard 0.652 — the honest pre-adaptation figure is 4 slot hits,
+p≈0.0054); the grain-class family claim P=0.0003 is *retracted* (the unit
+of independence is the physical tablet, not the tablet side; site-blocked
+tablet-level KU-NI-SU gives p≈0.13) — the class stands as a coherent
+exploratory grouping only; the second-position results (TE, SA-RA2) are
+*admission-rule-sensitive* (family-significant only on the unfiltered
+corpus; raw-only under the strict preservation filter), while KU-RO-final
+and the formula-initial survive the strictest joint-permutation control
+(family p=0.014 / 0.022). A hypotheses registry (`hypotheses.tsv`) now
+assigns every main claim a status: CONFIRMED / EXPLORATORY /
+POST-SELECTED / RETRACTED / PRE-REGISTERED.
+*New in v1.3:* grain-class cascade (§4a — now see the v1.4 downgrades);
+genre-dependence of positional openness (religious inversion, p=0.041,
+§5); external convergences with the 2026 AURA volume (§7).
 *New in v1.2:* three-slot record grammar; SigLA integration (dating
 533/534; transcriptions 90%/86%); union onomastics (p=0.0004); the
 final-vowel adaptation rule with sensitivity stated.
@@ -117,14 +128,16 @@ expected (p=0.0086); four-plus-sign matches are 3 vs 0.04 (p<0.0001).
 Class-stratified (toponyms / name-series / secure Greek lexicon / other):
 the excess sits exclusively in toponyms and name contexts; secure Greek
 vocabulary contributes zero long matches. At the strictest level —
-record-slot confirmation — six name candidates survive (p<0.0001 on
-digitization A; independently re-found on digitization B: four
-slot-confirmed long matches vs 0.79 expected, p=0.0096; on the union of
-both digitizations all six are slot-confirmed, 6 vs 0.93 expected,
-p=0.0004). A consolidated anchor table (`anchors.tsv`) lists all 11
-anchor words — 3 toponyms and 8 name-candidates — with the full evidence
-chain for each; 9 of 11 carry slot-level confirmation in at least one
-digitization.
+record-slot confirmation — six name candidates are slot-confirmed on the
+union of our two Linear B transcription sources (6 vs 0.93 expected,
+p=0.0004). *v1.4 status (audit): post-selected discovery.* Two of the
+slot rules (N6/N7) were added after diagnosing specific missed candidates,
+and the two sources are overlapping transcriptions of the same underlying
+corpus (Jaccard 0.652), not independent archives; the honest
+pre-adaptation figure is four slot-confirmed candidates at p≈0.0054. A
+confirmatory version requires a held-out curated corpus (a DĀMOS export
+is being requested). A consolidated anchor table (`anchors.tsv`) lists
+all 11 anchor words with the full evidence chain and these caveats.
 
 Beyond exact homographs, a *final-vowel adaptation rule* emerges: Linear A
 words whose final sign changes only its vowel (same consonant row) match
@@ -141,7 +154,16 @@ p=0.037, e.g. ta-na-te ~ ta-na-ti), with a scattered vowel inventory —
 which supports the adaptation reading of the -o pattern but shows the
 final slot is not inert inside Minoan either.
 
-## 4a. A commodity-word class through cascaded arbiters
+## 4a. A commodity-word class through cascaded arbiters (downgraded in v1.4)
+
+*v1.4 note (audit):* the family-wise claim below (P=0.0003) is retracted —
+its hypergeometric unit was the tablet *side*, while HT 86a/b and HT 95a/b
+are sides of two physical tablets, and all KU-NI-SU documents are from one
+site; at the physical-tablet level with site blocking KU-NI-SU gives
+p≈0.13, and the individually surviving items share the same tablets and
+were data-selected. The class below therefore stands as a *coherent
+exploratory grouping* (areal-word phonetics + list microstructure + clean
+metrology), awaiting confirmation on new tablets.
 
 Porting an areal-lexicon probe developed in our Etruscan sibling project
 (230 Bronze-Age concepts × 7 deciphered languages; sound-class skeleton
@@ -226,15 +248,20 @@ unlike KU-RO, shows no positional preference — consistent with a line-level
 annotation rather than a closing total.
 
 Extending the test to second and penultimate positions resolves the TE
-nuance and completes a three-slot record grammar: TE sits in *second*
-position (54% vs ~11% uniform, family-adjusted p=0.0012), as does the
-account term SA-RA2 (56%, p=0.0029; never first, never last), while KU-RO
-occupies the closing block (69% of tokens in the last two positions;
-penultimate excess family-adjusted p=0.028). First position, by contrast,
-has an *open* vocabulary: first-word repetition across documents is at
-chance (p=0.76), and the words heading TE/SA-RA2 records split into
-commodity logograms (SI, NI) and name-like hapaxes. The resulting schema —
-[open topic] [closed second-position operator] … [closing total block] —
+nuance and suggests a three-slot record grammar: TE sits in *second*
+position (54%), as does the account term SA-RA2 (56%; never first, never
+last), while KU-RO occupies the closing block (69% of tokens in the last
+two positions). *v1.4 status (audit):* under a single strict preservation
+filter and a joint document-permutation null, the robust core is KU-RO
+final (family p=0.014) and the formula opening initial (p=0.022); the
+second-position excesses of TE and SA-RA2 are admission-rule-sensitive —
+family-significant on the unfiltered corpus (p=0.007/0.004) but raw-only
+under the strict filter (raw p=0.026/0.015, family ≈0.30/0.16) — and are
+reported as raw signals. First position, by contrast, has an *open*
+vocabulary: first-word repetition across documents is at chance (p=0.76),
+and the words heading TE/SA-RA2 records split into commodity logograms
+(SI, NI) and name-like hapaxes. The resulting schema —
+[open topic] [second-position operator] … [closing total block] —
 again has an Etruscan echo (turce "dedicated": 52% second position,
 family-adjusted p=0.004, found there after our frame predicted it).
 Genre modulates the schema: in the religious genre the polarity inverts
@@ -319,13 +346,18 @@ and a single crossword vote converge on row R).
 ## 9. Reproducibility
 
 A clean-clone stress test (fresh venv) reproduces every statistic; the
-runner now covers 70 scripts. With PYTHONHASHSEED=0 pinned, all canonical
-logs reproduce byte-for-byte (empty `git diff`). The only nondeterminism
-ever found — tie-break ordering under unpinned hash seeds — is documented
-and fixed in the run protocol. Third-party inputs are not redistributed;
-pinned fetch scripts (`tools/fetch_sources.sh`, `tools/fetch_lbxyz.sh`,
+runner covers 85 script runs, with network-cache-dependent parsers listed
+as deliberate exclusions in its header (their committed outputs are
+regenerated deterministically from pinned caches). Following the external
+audit, the pass criterion is an empty `git status --porcelain` (catching
+new files as well as modified ones), and log writes are atomic
+(temp-file + rename). With PYTHONHASHSEED=0 pinned, all canonical logs
+reproduce byte-for-byte. Third-party inputs are not redistributed; pinned
+fetch scripts (`tools/fetch_sources.sh`, `tools/fetch_lbxyz.sh`,
 `tools/fetch_sigla.sh`) restore them byte-identically from upstream
-commits (the SigLA fetch pins a SHA-256).
+commits (the SigLA fetch pins a SHA-256). A hypotheses registry
+(`hypotheses.tsv`) tracks family, unit of observation, null universe,
+selection history and current status for every main claim.
 
 ## 10. Outlook
 

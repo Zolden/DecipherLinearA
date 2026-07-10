@@ -9,8 +9,8 @@ decipherment claims, no translations. Every claim is of the form
 is reproduced by a seeded script in this repository.
 
 **Main document: [`linear_a_full_report_v2.md`](linear_a_full_report_v2.md)**
-(sections §0–§CG; in Russian). The journal-style English
-[preprint](preprint.md) (v1.2) condenses it; a popular-science summary is
+(sections §0–§DG; in Russian). The journal-style English
+[preprint](preprint.md) (v1.4) condenses it; a popular-science summary is
 available in [English](article_popular_en.md) and
 [Russian](article_popular_ru.md). See also the [FAQ](FAQ.md).
 
@@ -81,7 +81,7 @@ Python 3.12 (uv), dependencies in `requirements.txt`:
 uv venv .venv --python 3.12
 uv pip install --python .venv/Scripts/python.exe -r requirements.txt
 PYTHONIOENCODING=utf-8 PYTHONHASHSEED=0 .venv/Scripts/python.exe validate_pkl.py   # expect 44/3/5/0
-bash tools/stress_run.sh    # full battery; expect an empty `git diff`
+bash tools/stress_run.sh    # full battery; expect empty `git status --porcelain`
 ```
 
 All scripts are seeded (`random.seed(42)`); additionally pin

@@ -1,5 +1,15 @@
 #!/bin/bash
 # Стресс-тест воспроизводимости: прогон всех автономных скриптов на чистом клоне.
+# Критерий (ужесточён по аудиту, INPUT_FROM_SOL.md): пустой
+#   `git status --porcelain` (ловит и изменённые, И новые файлы).
+# ВНЕ РОСТЕРА (осознанно, причины у соответствующих блоков ниже):
+#   сетевые парсеры parse_lb_lexicon/parse_lb_tablets/parse_lbxyz/
+#   parse_sigla/parse_sigla_signs/parse_dating (гитигнорные кэши,
+#   восстановление tools/fetch_*.sh); analyze_typology_families*.py
+#   (сетевые кэши Wiktionary/Wikipedia); analyze_source_check/
+#   analyze_divergence_residue (corpus_raw.json);
+#   analyze_hogan_validation/analyze_hogan_classes/analyze_grid_roles
+#   (.hogan_cache.js). Их ВЫХОДЫ (tsv/логи) закоммичены.
 cd "$(dirname "$0")/.."
 PY=.venv/Scripts/python.exe
 export PYTHONIOENCODING=utf-8
@@ -7,8 +17,11 @@ export PYTHONHASHSEED=0
 FAIL=0
 run() {
   s=$1; log=$2
+  # атомарная запись лога (аудит: прерванный прогон не должен
+  # оставлять полузаписанных канонических логов)
   if [ -n "$log" ]; then
-    $PY "$s" > "$log" 2>&1 || { echo "CRASH: $s"; FAIL=1; }
+    $PY "$s" > "$log.tmp" 2>&1 && mv -f "$log.tmp" "$log" \
+      || { echo "CRASH: $s"; FAIL=1; rm -f "$log.tmp"; }
   else
     $PY "$s" > /dev/null 2>&1 || { echo "CRASH: $s"; FAIL=1; }
   fi
@@ -37,7 +50,7 @@ run analyze_lb_names.py lb_names.log
 run analyze_lb_names2.py lb_names2.log
 run analyze_segmentation2.py segmentation2.log
 run analyze_dikite.py dikite.log
-run analyze_fractions.py fractions_part.log
+run analyze_fractions.py fractions.log
 run analyze_typology.py typology.log
 run analyze_name_candidates.py name_candidates.log
 run analyze_onomasticon3.py onomasticon3.log
@@ -116,5 +129,9 @@ run analyze_grain_class.py grain_class.log
 run analyze_fog3.py fog3.log
 # этап 27 (hogan_classes/grid_roles вне ростера — гитигнорный .hogan_cache.js)
 run make_network_overlay.py network_overlay.log
+# этап 28 (аудит-действия)
+run analyze_grain_tablet.py grain_tablet.log
+run analyze_record_syntax2.py record_syntax2.log
 echo "FAIL=$FAIL"
+echo "критерий: git status --porcelain должен быть пуст"
 echo STRESS_DONE
