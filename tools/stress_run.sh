@@ -132,6 +132,11 @@ run make_network_overlay.py network_overlay.log
 # этап 28 (аудит-действия)
 run analyze_grain_tablet.py grain_tablet.log
 run analyze_record_syntax2.py record_syntax2.log
+# этап 29 (parse_damos вне ростера — кэш .damos_cache/, tools/fetch_damos.py;
+# analyze_onomasticon_damos читает закоммиченные damos_*.tsv)
+run analyze_onomasticon_s0.py onomasticon_s0.log
+run analyze_blocked_retests.py blocked_retests.log
+run analyze_onomasticon_damos.py onomasticon_damos.log
 echo "FAIL=$FAIL"
 echo "критерий: git status --porcelain должен быть пуст"
 echo STRESS_DONE

@@ -101,7 +101,7 @@ ones; two of our own early claims were retracted by later tests (§AF, §BG).
 ## Citing / contact
 
 Cite as: Zolden & Claude (2026). *Linear A: a reproducible statistical
-framework.* v1.2. Zenodo. https://doi.org/10.5281/zenodo.21266454
+framework.* v1.4. Zenodo. https://doi.org/10.5281/zenodo.21298882
 (concept DOI for all versions: 10.5281/zenodo.21262274) — and please cite
 the underlying editions (GORILA; Younger; Douros; lineara.xyz;
 Killen & Olivier). Issues and questions: open a GitHub issue.
