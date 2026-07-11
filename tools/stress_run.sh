@@ -147,6 +147,9 @@ run analyze_o_rule_damos.py o_rule_damos.log
 run analyze_anchor_series.py anchor_series.log
 run analyze_onomasticon_nulls.py onomasticon_nulls.log
 run analyze_effect_sizes.py effect_sizes.log
+# этап 36 (odaa2_headers/damos_formular вне ростера — кэш .damos_cache/)
+run analyze_skeletal_pairs.py skeletal_pairs.log
+run analyze_restoration.py restoration.log
 echo "FAIL=$FAIL"
 echo "критерий: git status --porcelain должен быть пуст"
 echo STRESS_DONE
