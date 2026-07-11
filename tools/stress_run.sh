@@ -156,6 +156,11 @@ run analyze_restoration.py restoration.log
 run analyze_curators_la.py curators_la.log
 run analyze_notation_bridge.py notation_bridge.log
 run analyze_errata_candidates.py errata_candidates.log
+# этапы 46-53 (curators2 — .hogan_cache.js; fp_prereg5/6,
+# collector_genitives — кэш .damos_cache/; всё вне ростера,
+# make_network_overlay — dating.tsv, в ростере ниже)
+run analyze_grand_totals.py grand_totals.log
+run make_network_overlay.py network_overlay.log
 echo "FAIL=$FAIL"
 echo "критерий: git status --porcelain должен быть пуст"
 echo STRESS_DONE

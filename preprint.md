@@ -1,10 +1,38 @@
 # Structure without Reading: a Reproducible Statistical Framework for Linear A
 
-**Preprint v1.7 — 2026-07-11** (v1.6/v1.5: 2026-07-11; v1.4: 2026-07-10; v1.3: 2026-07-09; v1.2/v1.1: 2026-07-08; v1.0: 2026-07-06)
+**Preprint v1.8 — 2026-07-11** (v1.7/v1.6/v1.5: 2026-07-11; v1.4: 2026-07-10; v1.3: 2026-07-09; v1.2/v1.1: 2026-07-08; v1.0: 2026-07-06)
 Repository: https://github.com/Zolden/DecipherLinearA —
 DOI (latest release): https://doi.org/10.5281/zenodo.21298882 (all versions: https://doi.org/10.5281/zenodo.21262274)
 (Full research log with all intermediate tests: `linear_a_full_report_v2.md`,
-sections §0–§EA; every number regenerates under seed=42, PYTHONHASHSEED=0.)
+sections §0–§EH; every number regenerates under seed=42, PYTHONHASHSEED=0.)
+*New in v1.8:* the pre-registration ledger reaches **4 passes / 2
+published failures over six frozen-by-commit tests**, and both failures
+were converted into passes by pre-registered design corrections (#2→#3,
+#5→#6) — the ledger self-corrects. The new pair: recipients of the
+Knossos Fp offering-oil series repeat across month-documents far above
+name-slot baselines once document counts are size-matched (0.481 vs
+0.116±0.123, p=0.0044; the size-confounded first design is published as
+failed with its diagnosis) — quantitative support, from a second
+tradition, for the "cyclical rite" reading that our sibling Etruscan
+project reached for the Liber Linteus. The curator-class candidates
+gained external validation: Hogan's independent annotation types 12/13
+curator tablets as Transfer-family and assigns the words themselves
+agent roles (KA-PA: recipient 5/5). On the readable Linear B side the
+collector class turns out to be *morphologically marked*: repeated
+first-slot types sit in X ~ X-jo pairs at 11% vs 1% for unique types
+(Fisher p=0.0021, OR=20) — a repetition+case-pair signature of
+institutional agents that requires no reading; the Linear A mirror shows
+no such signature yet (honest null). Record arithmetic is now
+three-level: KI-RO opens person-census sections whose local KU-RO is
+exact in 3/3 fully preserved documents, and PO-TO-KU-RO closes the
+*physical tablet* (HT122: side-a total 31 + postscript 1 + side-b total
+65 = 97, exact) — the audit's unit-of-independence is the scribes' own
+unit. A regional hold-out for KU-RO-finality is honestly not viable
+(2 documents outside Haghia Triada), and a "genetically foreign control
+of the same epoch" (Cypriot Syllabary; a lesson imported from the
+Etruscan project's Latin-control experience) is registered as
+waiting-for-data — until such a control exists, no new family-type
+LA↔LB resemblance claims will be made.
 *New in v1.7:* a **fourth pre-registered test PASSED** (endpoint frozen by
 commit before the test was written): in Knossos D-series documents the
 first slot ("shepherd") repeats across documents far less than the second

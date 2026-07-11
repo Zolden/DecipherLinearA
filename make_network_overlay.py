@@ -63,16 +63,33 @@ WORDS = {
     'JA-SA-SA-RA-ME': ['formula:slot-3+ core (SA-SA-RA paradigm, 10 forms; §AW)'],
     'A-DI-KI-TE-TE': ['formula:slot-2 geo-word, Petsofas cluster (site-specific p=0.012, §K; cf. Valério hypothesis)'],
     'DU-PU2-RE': ['formula:productive second element of slot-2 (§X; cf. Valério hypothesis)'],
+    'KA-PA': ['curator-class:candidate — repeated doc-initial header, x5 HT tablets; Hogan roles: recipient 5/5 (§DX-§ED, exploratory)'],
+    'JE-DI': ['curator-class:candidate — repeated doc-initial header x3; Hogan roles: recipient 2, sender 1 (§DX-§ED, exploratory)'],
+    '*21F-TU-NE': ['curator-class:candidate — repeated doc-initial header x3 (2 physical tablets); §DX-§ED, exploratory'],
 }
+# A-KA-RU носит два тега (зерновой заголовок + куратор)
+WORDS['A-KA-RU'] = WORDS.get('A-KA-RU', []) + [
+    'curator-class:candidate — repeated doc-initial header (2 physical tablets: HT2, HT86a/b); Hogan roles: recipient 2, sender 1 (§DX-§ED)']
 
 overlay = {
     'meta': {
         'source': 'DecipherLinearA — reproducible statistical framework',
         'repo': 'https://github.com/Zolden/DecipherLinearA',
         'doi_all_versions': '10.5281/zenodo.21262274',
-        'version': 'v1.3',
+        'version': 'v2.0',
         'license': 'MIT (code); tags derive from open data credited in DATA_SOURCES.md',
         'note': 'Tags are statistical class labels with report sections and exploratory p-values; none is a translation.',
+        'preregistration_ledger': ('6 frozen-by-commit single-run tests: '
+                                   '#1 onomasticon holdout p=0.0002 PASS; '
+                                   '#2 roundel hapax proxy FAIL (published); '
+                                   '#3 roundel repetition p=0.0025 PASS; '
+                                   '#4 D-series slots p=0.0001 PASS; '
+                                   '#5 Fp recipients (size-confounded design) FAIL (published); '
+                                   '#6 Fp recipients size-matched p=0.0044 PASS'),
+        'genre_table_ttr_slot1': ('etr-epitaphs 0.84 > KN F 0.81 > LA-adm 0.76 > '
+                                  'LA-relig 0.68 > PY E 0.67 > PY A 0.59 > KN D 0.56 > '
+                                  'etr-other 0.44 > etr-dedicatory 0.42 '
+                                  '(one metric, three traditions; §DZ)'),
     },
     'documents': docs,
     'words': WORDS,

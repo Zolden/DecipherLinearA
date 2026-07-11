@@ -161,6 +161,22 @@ across three traditions — Minoan, Mycenaean, Etruscan — now sit in one
 table under one metric: the openness of the first position turns out to
 be a property of the document's genre, not of its language.
 
+Then the pipeline showed its character. The fifth frozen test failed —
+instructively: we had compared word repetition across two series of very
+different sizes, and repetition share grows with document count; the
+design was crooked, and we said so in print. The sixth test — the same
+question with document counts matched — passed with room to spare
+(p=0.0044): the recipients of Knossos offering-oil repeat month after
+month; the rite is cyclical, just like the Etruscan linen book in our
+sibling project. Two failures out of six, both converted into passes by
+honest error analysis — that is what a living method's scoreboard should
+look like. And tablet arithmetic turned out to be three-storied: line →
+section subtotal (KI-RO opens a "one each" census of persons, exact in
+all three intact documents) → the grand total PO-TO-KU-RO, which folds
+both faces of the clay tablet into one number (31+1+65=97, exactly).
+The scribes counted in physical tablets — precisely the unit the audit
+forced on us.
+
 The moral: deciphering a dead script is not a lightning bolt of genius but
 bookkeeping — thousands of small checks, nine out of ten returning an
 honest "no". The remaining "yes"es accumulate. A century ago Linear A "could
