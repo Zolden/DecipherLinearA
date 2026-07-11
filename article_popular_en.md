@@ -123,6 +123,24 @@ independent palaeographic database SigLA: 90% of words match sign for
 sign, and the short list of divergences is published for the epigraphers
 to settle.
 
+**13. Second update: stress-tested.** The project went through an
+independent audit by a different AI system — the best thing that ever
+happened to it. The audit confirmed the headline result (vowels behave
+like vowels — now recomputed by exhaustively enumerating all 2.9 million
+permutations) but demanded the retraction of one loud family-wise
+p-value (we had counted the two sides of one clay tablet as independent
+documents) and downgraded a couple more. The answer became a new ritual:
+freeze the hypothesis in a public commit BEFORE touching the data, run
+once, publish whatever comes out. The first such test — on the
+independent curated corpus of Mycenaean tablets, DĀMOS — confirmed the
+name layer: six Minoan words sit in the name positions of Greek archives
+where 0.7 were expected (p=0.0002), robust across three different null
+models. The second pre-registered test failed and is published as
+failed; the third passed (words on round sealings repeat across
+sealings, exactly as names should). This is what honest statistics of a
+dead language looks like: a registry of hypotheses with statuses instead
+of a collection of lucky p-values.
+
 The moral: deciphering a dead script is not a lightning bolt of genius but
 bookkeeping — thousands of small checks, nine out of ten returning an
 honest "no". The remaining "yes"es accumulate. A century ago Linear A "could

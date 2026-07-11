@@ -1,10 +1,24 @@
 # Structure without Reading: a Reproducible Statistical Framework for Linear A
 
-**Preprint v1.5 — 2026-07-11** (v1.4: 2026-07-10; v1.3: 2026-07-09; v1.2/v1.1: 2026-07-08; v1.0: 2026-07-06)
+**Preprint v1.6 — 2026-07-11** (v1.5: 2026-07-11; v1.4: 2026-07-10; v1.3: 2026-07-09; v1.2/v1.1: 2026-07-08; v1.0: 2026-07-06)
 Repository: https://github.com/Zolden/DecipherLinearA —
 DOI (latest release): https://doi.org/10.5281/zenodo.21298882 (all versions: https://doi.org/10.5281/zenodo.21262274)
 (Full research log with all intermediate tests: `linear_a_full_report_v2.md`,
-sections §0–§DM; every number regenerates under seed=42, PYTHONHASHSEED=0.)
+sections §0–§DS; every number regenerates under seed=42, PYTHONHASHSEED=0.)
+*New in v1.6:* the confirmed onomastic endpoint survives a pre-declared
+battery of alternative nulls (length×exact-position p=0.0002; first-order
+Markov/bigram p=0.0012) and a placebo-target specificity control (matched
+non-name word sets catch 3.2 on average; P(≥6)=0.0001); a third
+pre-registered test PASSED — words on Wc roundels repeat across different
+roundels far above chance (0.385 vs 0.129, p=0.0025), consistent with
+name-bearing sealings; record-grammar inheritance is demonstrated inside
+Linear B itself on the curated corpus (the total-family operator to-so-de
+sits in the closing block: 40/143 penultimate vs 9.1 expected, family
+p=0.0001), while the pre-declared "initial particle" half of that
+prediction failed honestly (o-da-a2 is weakly second-position, not
+initial); effect sizes with Clopper–Pearson intervals accompany every
+headline number (`effect_sizes.log`); the -o adaptation rule did NOT
+reproduce against the curated slot set (p≈0.09) and stays exploratory.
 *New in v1.5:* the onomastic result is **confirmed on a held-out curated
 source**: a pre-registered, single-run test on the DĀMOS corpus (rules
 frozen by commit before the data was downloaded) found 6 slot-confirmed
@@ -159,7 +173,10 @@ establishes robustness to an independent curated digitization under a
 pre-registered, selection-free protocol; genuinely new tablets await the
 Anetaki edition. Three anchors are slot-confirmed in all three sources
 (i-ta-ja, pa-ra-ne, i-ja-te; `anchors2.tsv` carries the full three-source
-table).
+table). In v1.6 the endpoint additionally survives a battery of stricter
+nulls (length×exact-position; first-order Markov over sign bigrams) and a
+placebo-target control establishing that the concentration is specific to
+name slots rather than to any matched word set.
 
 Beyond exact homographs, a *final-vowel adaptation rule* emerges: Linear A
 words whose final sign changes only its vowel (same consonant row) match
@@ -285,7 +302,13 @@ and the words heading TE/SA-RA2 records split into commodity logograms
 (SI, NI) and name-like hapaxes. The resulting schema —
 [open topic] [second-position operator] … [closing total block] —
 again has an Etruscan echo (turce "dedicated": 52% second position,
-family-adjusted p=0.004, found there after our frame predicted it).
+family-adjusted p=0.004, found there after our frame predicted it) — and,
+in v1.6, a direct Mycenaean descendant: on the curated Linear B corpus
+the total-family operator to-so-de occupies the closing block (40 of 143
+tokens penultimate vs 9.1 expected, family p=0.0001 under the same joint
+document-permutation null), showing the record grammar was inherited by
+the daughter administrative tradition; the "initial particle" half of the
+pre-declared prediction failed (o-da-a2 is weakly second-position).
 Genre modulates the schema: in the religious genre the polarity inverts
 (the libation formula monopolizes first position while second position is
 fully open — TTR Δ=−0.182, p=0.041, vs +0.075 in the administrative

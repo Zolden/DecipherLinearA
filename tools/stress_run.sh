@@ -141,6 +141,12 @@ run analyze_onomasticon_damos.py onomasticon_damos.log
 run analyze_value_tournament_damos.py value_tournament_damos.log
 run analyze_anchors2.py anchors2.log
 run analyze_roundels.py roundels.log
+# этапы 31-34 (analyze_lb_record_syntax вне ростера — кэш .damos_cache/)
+run analyze_roundels2.py roundels2.log
+run analyze_o_rule_damos.py o_rule_damos.log
+run analyze_anchor_series.py anchor_series.log
+run analyze_onomasticon_nulls.py onomasticon_nulls.log
+run analyze_effect_sizes.py effect_sizes.log
 echo "FAIL=$FAIL"
 echo "критерий: git status --porcelain должен быть пуст"
 echo STRESS_DONE

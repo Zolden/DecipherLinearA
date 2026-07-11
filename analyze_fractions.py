@@ -116,3 +116,25 @@ for logo, cnt in sorted(by_logo.items(), key=lambda kv: -sum(kv[1].values())):
     tri = sum(v for f, v in cnt.items() if f.denominator % 3 == 0)
     top = ', '.join(f'{f}×{v}' for f, v in cnt.most_common(4))
     print(f'   {logo:<10} n={tot:>3} триад. {tri / tot:.0%}  [{top}]')
+
+# ключевые контрасты (восстановлено на этапе 34: строки были в каноническом
+# логе §Y, но выпали из скрипта при его эволюции — сверка стресс-прогоном)
+from scipy.stats import fisher_exact
+def tri_counts(base):
+    c = by_logo.get(base, Counter())
+    tot = sum(c.values())
+    tri = sum(v for f, v in c.items() if f.denominator % 3 == 0)
+    return tri, tot
+tg, ng = tri_counts('GRA')
+to, no = tri_counts('OLE')
+_o, pf = fisher_exact([[tg, ng - tg], [to, no - to]])
+print(f'GRA ({tg}/{ng} триад.) против OLE ({to}/{no}): Фишер p={pf:.4f}')
+za = Counter(); ht = Counter()
+for r in records:                          # все дробные записи, не только logo
+    tgt = za if r['doc'].startswith('ZA') else (
+        ht if r['doc'].startswith('HT') else None)
+    if tgt is not None:
+        tgt[r['frac'].denominator % 3 == 0] += 1
+_o2, pf2 = fisher_exact([[za[True], za[False]], [ht[True], ht[False]]])
+print(f'ZA ({za[True]}/{za[True] + za[False]}) против '
+      f'HT ({ht[True]}/{ht[True] + ht[False]}): Фишер p={pf2:.4f}')
