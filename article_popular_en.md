@@ -141,6 +141,26 @@ sealings, exactly as names should). This is what honest statistics of a
 dead language looks like: a registry of hypotheses with statuses instead
 of a collection of lucky p-values.
 
+The fourth frozen test passed too — and opened an unexpected door. In
+the sheep ledgers of Knossos (already-readable Linear B, our proving
+ground) the first word of a record rarely repeats across tablets while
+the second repeats constantly: the shepherd is unique, the "curator" and
+the place come from a short list. When we sorted the repeating first
+words, seven of the top ten turned out to be the famous "collectors" of
+Mycenaean scholarship — a class philologists took decades to establish.
+Pure repetition statistics, knowing not a single meaning, rediscovered
+it blind. The same profile on the Minoan tablets yields four
+curator-class candidates at Haghia Triada — we still refuse to read
+them, but the class is mapped. The source itself also survived an
+external check: another GitHub user independently ran an arithmetic
+audit of the corpus website and found silent number corrections; not one
+of our headlines was touched — the anomalous tablet HT9a stays anomalous
+under either reading of its total, and our parser, which reads numbers
+from the glyphs, never inherited the site's display bug. Nine genres
+across three traditions — Minoan, Mycenaean, Etruscan — now sit in one
+table under one metric: the openness of the first position turns out to
+be a property of the document's genre, not of its language.
+
 The moral: deciphering a dead script is not a lightning bolt of genius but
 bookkeeping — thousands of small checks, nine out of ten returning an
 honest "no". The remaining "yes"es accumulate. A century ago Linear A "could

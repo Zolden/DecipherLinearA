@@ -1,10 +1,34 @@
 # Structure without Reading: a Reproducible Statistical Framework for Linear A
 
-**Preprint v1.6 — 2026-07-11** (v1.5: 2026-07-11; v1.4: 2026-07-10; v1.3: 2026-07-09; v1.2/v1.1: 2026-07-08; v1.0: 2026-07-06)
+**Preprint v1.7 — 2026-07-11** (v1.6/v1.5: 2026-07-11; v1.4: 2026-07-10; v1.3: 2026-07-09; v1.2/v1.1: 2026-07-08; v1.0: 2026-07-06)
 Repository: https://github.com/Zolden/DecipherLinearA —
 DOI (latest release): https://doi.org/10.5281/zenodo.21298882 (all versions: https://doi.org/10.5281/zenodo.21262274)
 (Full research log with all intermediate tests: `linear_a_full_report_v2.md`,
-sections §0–§DS; every number regenerates under seed=42, PYTHONHASHSEED=0.)
+sections §0–§EA; every number regenerates under seed=42, PYTHONHASHSEED=0.)
+*New in v1.7:* a **fourth pre-registered test PASSED** (endpoint frozen by
+commit before the test was written): in Knossos D-series documents the
+first slot ("shepherd") repeats across documents far less than the second
+slot ("collector/toponym") — 0.572 vs 0.778, Δ=+0.206, position-swap null
+p=0.0001; pre-registration score now 3/4 on Linear A + Linear B material
+(one honest failure, diagnosed and published). Blind class discovery
+validated: the repetition profile of D-series slot 1 is bimodal, and 7 of
+the top-10 repeaters are precisely the "collectors" of Mycenology
+(u-ta-jo, we-we-si-jo, da-mi-ni-jo…), recovered by distribution alone; a
+mirrored profile on Haghia Triada yields curator-class candidates KA-PA,
+A-KA-RU, JE-DI, *21F-TU-NE (exploratory, 13/16 occurrences
+document-initial). A single-metric genre table (first-slot type/token
+ratio) now spans nine genre points across three traditions (Linear A,
+Linear B, Etruscan) and supports "positional openness is a property of
+genre, not language". A notation-bridge layer (QI ≡ *21F, one grapheme in
+two editorial conventions) dissolves 42% of the one-sign divergences
+between SigLA and our frozen corpus without touching any headline result;
+the residue isolates two systematic editorial forks (PU/PU2, *28B/I) as
+concrete questions for epigraphers. A restoration ruler quantifies how
+little of a lacuna the formulaic grammar can predict (operators 5.4%
+top-1, names 0.0%) — a rigor benchmark against over-restoration. The
+to-so arithmetic test and an SM II "second witness" OCR extraction were
+evaluated and closed as not viable (power / source format), recorded
+as-is in the registry.
 *New in v1.6:* the confirmed onomastic endpoint survives a pre-declared
 battery of alternative nulls (length×exact-position p=0.0002; first-order
 Markov/bigram p=0.0012) and a placebo-target specificity control (matched
@@ -315,6 +339,28 @@ fully open — TTR Δ=−0.182, p=0.041, vs +0.075 in the administrative
 genre), matching the genre-dependence independently found in Etruscan —
 "slot openness" is a property of document genre, not of the language.
 
+v1.7 deepens the Mycenaean side of this picture with a fourth
+pre-registered, single-run test (endpoint frozen by commit before the
+test script existed): in Knossos D-series documents, cross-document
+repetition of the first slot is far below that of the second slot
+(0.572 vs 0.778, Δ=+0.206, position-swap null p=0.0001) — the
+"shepherd" slot names individuals, the "collector/toponym" slot draws on
+a small closed pool, mirroring the pre-registered roundel result on the
+Linear A side (sealings repeat names by design). The slot-1 repetition
+profile is bimodal, and the top repeaters are not noise: 7 of the top 10
+are precisely the *collectors* of Mycenology (u-ta-jo, we-we-si-jo and
+their genitives, da-mi-ni-jo, sa-qa-re-jo, a-te-jo) — a class recovered
+blind, from repetition statistics alone, that scholarship originally
+established philologically. The same profile run on Haghia Triada yields
+a thinner but shaped curator-class candidate set (KA-PA, A-KA-RU, JE-DI,
+*21F-TU-NE: 13/16 occurrences document-initial, 9% document coverage vs
+~30% at Knossos; exploratory, no readings assigned). A single-metric
+genre table (first-slot type/token ratio) now spans nine points across
+three traditions — from Etruscan epitaphs (0.84, name-initial) through
+Linear A administrative (0.76) down to Knossos D-series (0.56, collector-
+depressed) and Etruscan dedications (0.42, deixis-locked) — the widest
+cross-tradition support yet for genre-determined slot openness.
+
 ## 6. Metrology and typology
 
 People are counted in integers (97%); grain values are covered 100% by a
@@ -348,7 +394,14 @@ the source) — the residue is genuine editorial disagreement between the
 GORILA line and the tracing line (systematically: QI vs *21F, and PA3
 confused with JA/NU), catalogued in `divergences.tsv` for epigraphic
 adjudication. A consolidated per-document dating layer (`dating.tsv`,
-1,540 of 1,721 documents) merges both sources.
+1,540 of 1,721 documents) merges both sources. In v1.7 a notation-bridge
+layer (adapted from the sibling project's "errata over a frozen corpus"
+mechanic) makes the divergence catalogue sharper without editing any
+reading: treating QI ≡ *21F as one grapheme in two editorial conventions
+dissolves 36 of 85 one-sign divergences (42%); the residue collapses into
+two systematic editorial forks, PU vs PU2 (×10) and *28B vs I (×10) —
+finite, concrete questions for the SigLA authors — and no anchor,
+operator or curator word is affected by the bridge.
 
 The 2026 AURA volume (*The Wor(l)ds of Linear A*, ASASA(RAME) 1) supplies
 external convergences: Hogan's expert transaction classification of the
@@ -391,7 +444,24 @@ one-sided p≈1.0) — the hapax proxy is wrong for sealings, which repeat
 the same words by design; the failure is published per protocol. Substitution tournaments for unknown-sign values are
 non-resolving at current corpus sizes (a weak repeated signal: *306
 leading normalized row Z on both Linear B digitizations; *118 neighbours
-and a single crossword vote converge on row R).
+and a single crossword vote converge on row R). v1.7 adds four more
+honest closures. A skeletal-frame substitution test that succeeded in
+Etruscan (paradigmatic slots accept same-class fillers) does not
+transfer to Linear A at current corpus size and class granularity
+(0.463 vs 0.449, p=0.22). A restoration ruler (leave-one-tablet-out
+prediction of masked words from formula frames) shows how little the
+formulaic grammar can actually restore: operators 5.4% top-1, names
+0.0% — any proposed lacuna restoration claiming formulaic support
+should be measured against this baseline. The to-so arithmetic test
+(does the Linear B total equal the sum, as KU-RO does 40/40 on fully
+preserved Haghia Triada tablets?) is not viable on DĀMOS: the
+full-preservation filter leaves a single document, and loosening it
+after seeing the data would be fitting. And an attempted "second
+witness" extraction from the OCR layer of Scripta Minoa II failed by
+source format — the 1952 vocabulary prints sign-groups as drawings, so
+the OCR contains tablet references but no machine-readable sign-groups
+(the sibling project reached the same verdict independently on the same
+day).
 
 ## 9. Reproducibility
 

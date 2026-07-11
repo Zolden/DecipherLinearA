@@ -150,6 +150,12 @@ run analyze_effect_sizes.py effect_sizes.log
 # этап 36 (odaa2_headers/damos_formular вне ростера — кэш .damos_cache/)
 run analyze_skeletal_pairs.py skeletal_pairs.log
 run analyze_restoration.py restoration.log
+# этапы 37-43 (dseries_prereg4/collectors/toso_arithmetic/genre_table
+# вне ростера — кэш .damos_cache/; curators/notation_bridge/errata —
+# corpus.pkl + закоммиченные tsv)
+run analyze_curators_la.py curators_la.log
+run analyze_notation_bridge.py notation_bridge.log
+run analyze_errata_candidates.py errata_candidates.log
 echo "FAIL=$FAIL"
 echo "критерий: git status --porcelain должен быть пуст"
 echo STRESS_DONE
